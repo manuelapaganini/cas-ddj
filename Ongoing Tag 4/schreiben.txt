@@ -1,4 +1,3 @@
-Max
-Monika
-Erik
-Franziska
+alpha
+beta
+gamma
