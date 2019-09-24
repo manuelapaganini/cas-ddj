@@ -13,7 +13,7 @@ def scrape_member(name, url):
     r = requests.get(url)
     soup = BeautifulSoup(r.content, 'lxml')
     #find address, add to list
-    address = soup.find("div", {"id": "addressPartContent"})
+    address = ª("div", {"id": "addressPartContent"})
     members[name] = address.get_text(" ")
 
 def scrape_full_page(url):
