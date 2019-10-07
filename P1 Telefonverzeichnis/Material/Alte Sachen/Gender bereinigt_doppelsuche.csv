@@ -1,0 +1,1594 @@
+Index,Nachname,Vorname,Abteilung,Telefon,Email,Doppel Email,Doppel vollst�ndig,Funktion,In-Marker,Gender
+0,---,---,Staatsarchiv,+41 26 305 12 70,,,,Sekretariat,FALSE,no_person
+1,Abeztout,Abderrahim,Technische Abteilung,+41 26 305 37 97,abderrahim.abeztout@fr.ch,1,,Architektin,TRUE,female
+2,Ackermann,Christophe,Finanzinspektorat,+41 26 305 31 38,christophe.ackermann@fr.ch,1,,Adjunkt der Dienstchefin,TRUE,male
+3,Ackermann,Urs,Abteilung Institutionen und Rechtsangelenheiten,+41 26 305 14 16,urs.ackermann@fr.ch,1,,Höherer Verwaltungssachbearbeiter,FALSE,male
+4,Adam,Samuel,Kantonsarztamt,+41 26 305 29 63,,0,,Adjunkt des Dienstchefs,FALSE,male
+5,Aebischer,Adrian,"Sektor Faune, Biodiversität, Jagd und Fischerei",+41 26 305 23 43,adrian.aebischer@fr.ch,1,,Wissenschaftlicher Mitarbeiter Waldbiodiversität,FALSE,male
+6,Aebischer,Christoph,Wirtschaftsförderung Kanton Freiburg,+41 26 304 14 04,,0,,Projektleiter,FALSE,male
+7,Aebischer,Fernand,Sportarten,,Non renseigné,1,,Kegeln,FALSE,male
+8,Aebischer,Florent,Handelsregisteramt,+41 26 305 44 89,florent.aebischer@fr.ch,1,,Sekretariat und Schalter,FALSE,male
+9,Aebischer,Jean-Marc,Amt für Sport,+41 26 305 12 61,,0,,Pädagogischer Mitarbeiter,FALSE,Male
+10,Aebischer,Jean-Marc,Pädagogische Berater/innen,+41 26 305 12 61,jean-marc.aebischer@fr.ch,1,,"Körper und Bewegung, Zyklus 1, 2 & 3",FALSE,male
+11,Aebischer,Jean-Marie,Invalidenversicherungsstelle,+41 26 305 52 40,jean-marie.aebischer@fr.oai.ch,1,,sektionschef Zentrale Dienste,FALSE,male
+12,Aebischer,Maryse,Sozialvorsorgeamt,+41 26 305 29 68,,0,,Dienstchefin,TRUE,female
+13,Aebischer,Mélody,Verwaltung,+41 26 305 55 09,melody.aebischer@fr.ch,1,,HR-Fachfrau,FALSE,female
+14,Aebischer,Nicolas,Kantonale Lehrmittelverwaltung,+41 26 305 13 90,nicolas.aebischer@ocms-fribourg.ch,1,,Direktionsadjunkt,FALSE,male
+15,Aebischer,Nicolas,Sektion Labor und Stoffe,+41 26 305 37 60,nicolas.aebischer@fr.ch,1,,Sektorchef Wasserkontrollen und Chemikalien,FALSE,male
+16,Aebischer-Aeby,Elisabeth,Kollegium Gambach,+41 26 305 79 14,aebischerel@edufr.ch,1,,Vorsteherin,TRUE,female
+17,Aebischer-Piller,Christa,"Pädagogische Mitarbeit; Inspektorat für den deutschsprachigen obligatorischen Unterricht, Tafers",+41 26 305 40 88,christa.aebischer@fr.ch,1,,Pädagogische Beraterin: Sprachförderung Eingangsstufe,TRUE,female
+18,Aeby,Annabelle,Sektor Pflege,+41 26 305 79 89,,0,,Pflegefachfrau,FALSE,female
+19,Aeby,Frédéric,Pädagogische Mitarbeit,+41 26 305 40 85,,0,,Pädagogischer Mitarbeiter,FALSE,male
+20,Aeby,Pascal,Generalsekretariat,+41 26 305 31 03,pascal.aeby@fr.ch,1,,Generalsekretär,FALSE,male
+21,Aeby,Pierre,Pflanzenbau (PB),+41 26 305 58 62,pierre.aeby@fr.ch,1,,Verantwortlicher für Pflanzenbau,FALSE,male
+22,Aeby-Barrat,Eléonore,Invalidenversicherungsstelle,+41 26 305 52 12,eleonore.aeby-barrat@fr.oai.ch,1,,Sektionschefin Rechtsdienst,TRUE,female
+23,Aellen-Rey,Fabienne,Allgemeine Dienste,+41 26 305 22 68,fabienne.aellen-rey@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+24,Aerne,Myriam,Kantons- und Universitätsbibliothek,,Myriam.Aerne@fr.ch,1,,Verantwortliche für Buchbinderei und Konservierung,TRUE,female
+25,Aeschlimann,David,"Direktzahlungen; Allgemeine Dienste, Produkteförderung, Viehzucht und Weinbau",+41 26 305 23 03,david.aeschlimann.sagri@fr.ch,1,,Regionalverantwortlicher Unterer Saanebezirk; Wissenschaftlicher Berater,FALSE,male
+26,Agustoni,Clara,Musée romain de Vallon,+41 26 667 97 96,clara.agustoni@fr.ch,1,,Kon­ser­va­to­rin,TRUE,female
+27,Ajeti,Ismail,Amt für Vermessung und Geomatik,+41 26 305 35 55,Ismail.Ajeti@fr.ch,1,,Verwaltungsadjunkt,FALSE,male
+28,Allemann,Aude,Koordination für Schüleraustausch des Kantons Freiburg,+41 26 305 73 66,aude.allemann@fr.ch,1,,Coordinatrice,TRUE,female
+29,Allemann,Aude,Koordination für Schüleraustausch des Kantons Freiburg,+41 26 305 73 66,aude.allemann@fr.ch,2,x,Coordinatrice,TRUE,female
+30,Allemann,Aude,Pädagogische Berater/innen,+41 26 305 73 66,aude.allemann@fr.ch,3,x,Sprachaustausche,FALSE,female
+31,Allemann,Vincent,Direktzahlungen,+41 26 305 22 61,vincent.allemann@fr.ch,1,,Regionalversantwortlicher Gruyère und Veveyse Süd – Sömmerungsgebiet französischsprachiger Teil,FALSE,male
+32,Amschwand,Fabian Max Theodor,Rektorat,+41 26 300 70 04,fabian.amschwand@unifr.ch,1,,Generalsekretär,FALSE,male
+33,Andenmatten,Patrick,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 52 75,patrick.andenmatten@fr.ch,1,,"Wirtschaftswissenschaftlicher Berater, Chef der Finanzabteilung",TRUE,male
+34,Andrey,Colette,Weiterbildung Hauswirtschaft,+41 26 305 58 53,colette.andrey@fr.ch,1,,Hauswirtschaftliche Beraterin,TRUE,female
+35,Andrey,Karin,Generalsekretariat,+41 26 305 22 04,,0,,Übersetzerin,TRUE,female
+36,Andrey,Nicole,Sektor Verwaltung und Finanzen,+41 26 305 23 43,nicole.andrey@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+37,Andrey,Patrik,Campus Schwarzsee,+41 26 304 16 21,patrik.andrey@fr.ch,1,,Verwalter,FALSE,male
+38,Andric,Josip,Sondereinrichtungen,+41 26 305 46 24,,0,,Wirtschaftswissenschaftler,FALSE,male
+39,Angéloz,Carole,Schulinspektorat,+41 26 305 73 68,carole.angeloz@fr.ch,1,,Schulinspektorin,TRUE,female
+40,Angéloz,Cindy,Pädagogische Berater/innen,+41 26 305 73 71,cindy.angeloz@fr.ch,1,,Französisch 1. Zyklus,FALSE,female
+41,Angéloz,Marie-Bernard,Pädagogische Berater/innen,,angelozmb@edufr.ch,1,,Ethique et culture religieuse,FALSE,female
+42,Angéloz,Philippe,Technische Abteilung,+41 26 305 37 89,philippe.angeloz@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+43,Anliker,Tobias,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 16,tobias.anliker@fr.ch,1,,Betriebsberater,FALSE,male
+44,Antoniazza-Torche,Christiane,Konservatorium,+41 26 305 99 58,,0,,Bibliothekarin,TRUE,female
+45,Antonin,Maxence,Direktion,+41 26 305 21 51,antoninm@edufr.ch,1,,Vorsteher,FALSE,male
+46,Arnaud,Frédéric,Verzeichnis der Kulturgüter,+41 26 305 12 94,frederic.arnaud@fr.ch,1,,"Responsable PBC, IVS, rédacteur de l’inventaire",TRUE,male
+47,Arrighi,Marc,Relais Klasse Freiburg; Relais Klasse Freiburg,+41 26 466 18 30,marc.arrighi@fr.educanet2.ch,1,,Directeur des mesures SED,FALSE,male
+48,Arrighi,Marc,Massnahmen zur Unterstützung der Schulen bei Verhaltenschwierigkeiten,+41 26 305 40 75,marc.arrighi@fr.ch,1,,Directeur des mesures SED,FALSE,male
+49,Asani,Medine,Juristische Abteilung; Kommission für Grundstückerwerb,+41 26 305 36 13,medine.asani@fr.ch,1,,Juristin,TRUE,female
+50,Assuelli,Selena,Kantonales Sozialamt,+41 26 305 30 79,,0,,Anwaltspraktikantin,TRUE,female
+51,At,Chounti,Kantonale Lehrmittelverwaltung,+41 26 305 13 89,chounti.at@ocms-fribourg.ch,1,,Technisches Gestalten,FALSE,female
+52,Auberson Fasel,Anne-Francine,"Ausgrabungen, Forschungen und Publikationen",+41 26 305 82 44,anne-francine.auberson@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+53,Aubry,Laurent,Technische Abteilung,+41 26 305 37 82,laurent.aubry@fr.ch,1,,Architektin,TRUE,male
+54,Audergon,Julie,Technische Abteilung,,Julie.Audergon@fr.ch,1,,Architektin,TRUE,female
+55,Auderset,Sara,Amt für Gemeinden,+41 26 305 22 39,sara.auderset@fr.ch,1,,Revisorin,TRUE,female
+56,Augier,Sarah,Abteilung Ortsplanung,+41 26 305 47 23,sarah.augier@fr.ch,1,,Raumplanerin,TRUE,female
+57,Bacchi,Michèle,Grundbuchamt des Seebezirks,+41 26 305 90 33,,0,,Sekretär,FALSE,female
+58,Bächler,Nadja,Sektion Abfall und Altlasten,+41 26 305 63 61,nadja.baechler@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+59,Bader,Joël,Landwirtschaftliche Gebäude und Betriebshilfen,+41 26 305 23 15,joel.bader@fr.ch,1,,Sektionschef,FALSE,male
+60,Baechler,Beat,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 53 23,Beat.Baechler@fr.ch,1,,Verantwortlicher der Informatik,FALSE,male
+61,Baechler,Carole,Kantonaler Finanzdienst,+41 26 305 31 28,,0,,Sachbearbeiterin Buchhaltung,TRUE,female
+62,Baechler,Christophe,Vereinigung des Kantonalen Berufsbildungszentrums,+41 26 305 25 30,christophe.baechler@edufr.ch,1,,Hauswart,FALSE,male
+63,Baechler,Damian,Empfang - Sekretariat - Verwaltung,+41 26 305 21 26,baechlerda@edufr.ch,1,,Vorsteher,FALSE,male
+64,Baechler,Laure,"Verwaltung (Verw); Grundstückerwerb, Personal",+41 26 305 36 81,laure.baechler@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+65,Baechler,Monique,Schulgärten von Grangeneuve,+41 26 305 57 80,monique.baechler@fr.ch,1,,Verantwortliche für Blumenbaubetrieb,FALSE,female
+66,Baechler,Olivier,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 94,olivier.baechler@fr.ch,1,,Lehrer Gärtnerschule,FALSE,male
+67,Baechler,Sonja,Kollegium Gambach,+41 26 305 79 17,BaechlerS01@edufr.ch,1,,Sekretärin,TRUE,female
+68,Baechler,Sophie,Ausbildung Hauswirtschaft modular,+41 26 305 55 79,sophie.baechler2@fr.ch,1,,Lehrerin,TRUE,female
+69,Baechler,Virginie,Direktion,+41 26 305 55 08,virginie.baechler@fr.ch,1,,Direktionssekretärin,TRUE,female
+70,Baechler-Seydoux,Isabelle,Kantons- und Universitätsbibliothek,+41 26 305 13 76,isabelle.baechler@fr.ch,1,,Stellvertreterin Sektorchef Benutzung,TRUE,female
+71,Baeriswyl,Amélie,Schulgärten von Grangeneuve,+41 26 305 57 66,amelie.baeriswyl@fr.ch,1,,Verkäuferin,TRUE,female
+72,Baeriswyl,Boris,Naturhistorisches Museum,+41 26 305 89 07,,0,,Technischer Sachbearbeiter,FALSE,male
+73,Baeriswyl,Hugo,"CASEi, milchwirtschaftliche Beratung",+41 26 305 57 40,hugo.baeriswyl@fr.ch,1,,Milchproduzentenberater,FALSE,male
+74,Baeriswyl,Myriam,Administration und Beglaubigungen,+41 26 305 10 83,myriam.baeriswyl@fr.ch,1,,Drucksachenverkauf,FALSE,female
+75,Baeriswyl,Pierrette,Sektor Verwaltung und Finanzen,+41 26 305 23 43,pierrette.baeriswyl@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+76,Baeriswyl,Sabine,Amt für Universitätsfragen,+41 26 305 12 47,sabine.baeriswyl@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+77,Baeriswyl,Yves,Berufsfachschule,,baeriswylY@edufr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+78,Bahri,Mounir,Kieferorthopädische Klinik Bulle; Kieferorthopädische Klinik Freiburg,+41 26 305 98 00,,0,,Kieferorthopaede,FALSE,male
+79,Bailat,Charles,Entwässerung und Abwasserreinigung,+41 26 305 37 79,charles.bailat@fr.ch,1,,Verantwortlicher Einzugsgebiet,TRUE,male
+80,Ballaman,Gilles,Amt für Gemeinden,+41 26 305 22 36,gilles.ballaman@fr.ch,1,,Wirtschaftswissenschaftlicher Berater,FALSE,male
+81,Ballert,Annelie,Gewerbliche und Kaufmännische Berufsschule,+41 26 305 87 00,ballerta01@edufr.ch,1,,Sekretärin,TRUE,female
+82,Ballmer,Isabel,2. Forstkreis,+41 26 305 75 10,isabel.ballmer@fr.ch,1,,Leiterin Forstkreis,TRUE,female
+83,Balsiger,Béatrice,"Sektion Luft, Lärm und NIS",+41 26 305 37 52,beatrice.balsiger@fr.ch,1,,Sektionschefin,TRUE,female
+84,Bapst,Christophe,Oberamt des Greyerzbezirks,+41 26 305 64 06,christophe.bapst@fr.ch,1,,Verwaltungsadjunkt,FALSE,male
+85,Bapst,Tamara,Zahnklinik Bulle,+41 26 305 98 60,,0,,Dentalassistentin,TRUE,female
+86,Baraké,Sylvia,Amt für Kulturgüter,+41 26 305 12 87,sylvia.barake@fr.ch,1,,Verwaltungsangestellte,FALSE,female
+87,Bard,Nicole,Oberamt des Glanebezirks,+41 26 305 95 02,,0,,Sekretärin,TRUE,female
+88,Bard,Valentin,Oberamt des Glanebezirks,+41 26 305 95 08,,0,,Vizeoberamtmann,FALSE,male
+89,Barilli,Magali,"Überwachung und Planung von Kunstbauten; Strassenplanung, Ausführung Strassenprojekte (StrP)",+41 26 305 36 60,magali.barilli@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+90,Barras,Doan,Generalsekretariat,+41 26 305 36 04,doan.barras@fr.ch,1,,Höherer Verwaltungssachbearbeiter,FALSE,male
+91,Barras,Yves,Kantonaler Finanzdienst,+41 26 305 31 51,Yves.Barras@fr.ch,1,,Stellvertreter,FALSE,male
+92,Bart,Irene,Amt für Unterricht der Sekundarstufe 2,+41 26 305 12 42,irene.bart@fr.ch,1,,Sekretärin,TRUE,female
+93,Barth,Elisabeth,Finanzverwaltung (FiVe); Qualität und Sicherheit,+41 26 305 36 53,elisabeth.barth@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+94,Baudassé,Chantal,Sektor Natur und Landschaft,+41 26 305 45 21,chantal.baudasse@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+95,Baudin,Sebastien,Amtliche Vermessung (AV),+41 26 305 35 60,Sebastien.Baudin@fr.ch,1,,Verantwortlicher Geomatik,FALSE,male
+96,Baumgartner,Andrea,Generalsekretariat,+41 26 305 22 04,,0,,Übersetzerin,TRUE,female
+97,Baumgartner,Hans Ulrich,Denkmalpflege,+41 26 305 13 04,hansulrich.baumgartner@fr.ch,1,,"Sense, See",FALSE,male
+98,BAUMGARTNER,Yann,Zentrale,+41 26 304 10 50,Yann.Baumgartner@fr.ch,1,,Bereichsleiter,FALSE,male
+99,Bavarel,Delphine,Administratives Personal,+41 26 305 47 66,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+100,Bays Regueiro,Anne,Direktion,+41 26 305 98 96,baysa@edufr.ch,1,,Vorsteherin,TRUE,female
+101,Beaud,Jean-François,Schulinspektorat,+41 26 305 73 75,jean-francois.beaud@fr.ch,1,,Schulinspektor des 6. kreises,TRUE,male
+102,Beaud,Michel,Naturhistorisches Museum,+41 26 305 89 03,,0,,Tierpräparator,FALSE,male
+103,Beaud Spang,Geneviève,Büro für die Gleichstellung von Frau und Mann und für Familienfragen,+41 26 305 23 85,,0,,Verantwortlicher,FALSE,female
+104,Beer,Margaret,Sektor Administration,+41 26 305 45 69,,0,,Verwaltungssachbearbeiterin,TRUE,female
+105,Beguin,Nicole,Sportarten,+41 26 653 04 00,Non renseigné,2,,Yoga,FALSE,female
+106,Benninger Meier,Regula,Pädagogische Mitarbeit,+41 26 401 45 36,regula.benninger@fr.educanet2.ch,1,,Begabungsförderung,FALSE,female
+107,Bérard,Alain,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 48,alain.berard@fr.ch,1,,Verantwortlicher der Dienstleistung Buchhaltung,FALSE,male
+108,Berger,Adrienne,Pädagogische Berater/innen,+41 26 305 46 15,adrienne.berger@fr.ch,1,,Integration der Kinder von Migrantinnen und Migranten,TRUE,female
+109,Berger,Johann,Abteilung Einbürgerungen,+41 26 305 14 48,,0,,Verwaltungssachbearbeiter,FALSE,male
+110,Berger,Marcel,Kantonale Lehrmittelverwaltung,+41 26 305 13 85,marcel.berger@ocms-fribourg.ch,1,,Direktor,FALSE,male
+111,Berger-Devaud,Marie-Christine,Naturhistorisches Museum,+41 26 305 89 00,,0,,Empfangsverantwortlicher,FALSE,male
+112,Bergmann,Thérèse,Couture-Lehratelier,+41 26 305 25 89,BergmannT@edufr.ch,1,,Verantwortliche Couture-Lehratelier,FALSE,female
+113,Berney,Anne,Mobile Einheit,+41 26 305 40 77,anne.berney-gremaud@fr.ch,1,x,Verwaltungsangestellte,FALSE,female
+114,Berney-Gremaud,Anne,Mobile Einheit,+41 26 305 40 77,anne.berney-gremaud@fr.ch,2,x,Mitarbeiterin,TRUE,female
+115,Berrios,Ricardo,Verwaltung,+41 26 305 55 33,ricardo.berrios@fr.ch,1,,Archivar,FALSE,male
+116,Berset,Anne,"PS Corbières-Hauteville-Villarvolard, La Roche-Pont-la-Ville",+41 79 105 11 66,direction.ep.chlrplv@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+117,Berset,Christel,FKJF,+41 26 305 15 57,christel.berset@fr.ch,1,,Kinder- und Jugendbeauftragte (f),TRUE,female
+118,Berset,Christine,Buchhaltung,+41 26 305 44 86,christine.berset@fr.ch,1,,Buchhaltungsangestellte,FALSE,female
+119,Berset,Eliane,Freiburgisches Agro-Lebensmittellabor,+41 26 305 57 39,eliane.berset@fr.ch,1,,Verwaltungsangestellte,FALSE,female
+120,Berset,Hervé,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 11,herve.berset@fr.ch,1,,Lehrer BHML,FALSE,male
+121,Berset,Léonie,Landwirtschaftliches Beratungszentrum (LBZ),+41 26 305 58 10,leonie.bongard@fr.ch,1,,Verantwortliche des Sektors Koordination und Support,TRUE,female
+122,Berset,Philippe,Verwaltung,+41 26 309 22 78,Non renseigné,3,,Vorsteher,FALSE,male
+123,Berset,Thierry,Strassenplanung,+41 26 305 36 65,thierry.berset@fr.ch,1,,Projektleiter,FALSE,male
+124,Berset-Pasquier,Amélie,Berufsfachschule,+41 26 305 26 27,berseta01@edufr.ch,1,,Sachbearbeiterin Buchhaltung,TRUE,female
+125,Bersier,Christian,Fachstelle Fritic,+41 26 305 72 68,christian.bersier@edufr.ch,1,,Informatische Beratung,FALSE,male
+126,Bersier,Magali,Schadstoffemissionen und VOCV; Oberflächengewässer,+41 26 305 51 99,magali.bersier@fr.ch,1,,Administration Feuerungsanlagen,TRUE,female
+127,Bersier,Marie-Noëlle,Verwaltung (Verw),+41 26 305 36 83,marie-noelle.bersier@fr.ch,1,,Sekretärin,TRUE,female
+128,Bersier,Monique,Rektorat,+41 26 300 70 03,monique.bersier@unifr.ch,1,,Verwaltungsdirektorin,TRUE,female
+129,Bersier Perriard,Susanne,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 45 52,susanne.bersier@fr.ch,1,,Sekretärin,TRUE,female
+130,Bertelletto,Claude,Generalsekretariat,+41 26 305 31 04,claude.bertelletto@fr.ch,1,,Projektleiterin,TRUE,male
+131,Berthoud,Daniel,Empfang - Sekretariat - Verwaltung,+41 26 305 65 01,berthoudd@edufr.ch,1,,Vorsteher,FALSE,male
+132,Bertschi,Mathieu,Sektion Applikation,,,0,,Computertrainer,TRUE,male
+133,Besse,Céline,Küche,+41 26 305 59 31,celine.besse@fr.ch,1,,Leiter a.i. des Wohnheims,FALSE,female
+134,Besse,Mike,Tätigkeitsgebiet: Justiz und Sicherheit,,,0,,Ingénieur système,FALSE,male
+135,Bessire,Camille,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 38,camille.bessire@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+136,Besson,Anne-Laure,Studien und Planung,+41 26 305 50 39,anne-laure.besson@fr.ch,1,,Projektleiterin,TRUE,female
+137,Betschart,Sandra,Verwaltung,+41 26 305 82 11,,0,,Verwaltungsangestellte,FALSE,female
+138,Betticher,Stéphane,Freiburger Spital,,,0,,Direktor für Logistik,FALSE,male
+139,Beutler,Valérie,Qualität und Sicherheit,+41 26 305 36 48,valerie.beutler@fr.ch,1,,Sekretärin,TRUE,female
+140,Bielmann,Jean-Marc,Sportarten,,Non renseigné,4,,Schiessen,FALSE,male
+141,Bieri,Daniel,Bildungszentrum für Naturberufe (BZNB),,daniel.bieri@fr.ch,1,,Sportlehrer,FALSE,male
+142,Bifrare,Roxane,Pädagogische Berater/innen,+41 26 305 46 18,roxane.bifrare@fr.educanet2.ch,1,,Bildnerisches Gestalten,FALSE,female
+143,Bigler,Lorraine,Weiterbildung,+41 26 305 72 11,BiglerL@edufr.ch,1,,Höhere Verwaltungssachbearbeiterin,TRUE,female
+144,Biland,Guy,Strassenplanung,+41 26 305 36 78,guy.biland@fr.ch,1,,Projektleiter,FALSE,male
+145,Binggeli,Regula,Sektor Natur und Landschaft,+41 26 305 51 89,regula.binggeli@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+146,Binz,Andreas,Zentrale Dienste; Sektor Walderhaltung und Raumplanung,+41 26 305 23 43,andreas.binz@fr.ch,1,,Sektorchef Walderhaltung und Raumplanung,FALSE,male
+147,Biolley Mollard,Patricia,Generalsekretariat,+41 26 305 29 05,,0,,Übersetzerin,TRUE,female
+148,Birri Blezon,Rahel,Kantons- und Universitätsbibliothek,+41 26 305 13 08,Rahel.BirriBlezon@fr.ch,1,,"Sektorchefin, Informationssysteme",TRUE,female
+149,Bischoff,Brigitta,Amt für Sonderpädagogik (SoA),+41 26 305 40 56,brigitta.bischoff@fr.ch,1,,Logopädin,TRUE,female
+150,Bissig Fasel,Gisela,Direktion,+41 26 305 21 22,bissigg@edufr.ch,1,,Rektorin,TRUE,female
+151,Bitam,Alain,Sektor Gebäudeunterhalt,+41 26 305 37 84,alain.bitam@fr.ch,1,,Wissenschaftlicher Berater,FALSE,male
+152,Blanc,Alain,Amt für Sport,+41 26 305 45 53,,0,,Pädagogischer Mitarbeiter,FALSE,male
+153,Blanc,Isabelle,Kantons- und Universitätsbibliothek,+41 26 305 13 07,Isabelle.Blanc@fr.ch,1,,Finanz- und Personalverantwortliche,TRUE,female
+154,Blanc,Jean-Luc,Technischer Dienst,+41 26 305 57 92,jean-luc.blanc@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+155,Blanc,Mireille,Pädagogische Berater/innen,+41 26 305 47 64,mireille.blanc@fr.educanet2.ch,1,,Technisches Gestalten,FALSE,female
+156,BLANC,Nicolas,Zell und Infrastruktur,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+157,Blanc,Séverine,Oberamt des Greyerzbezirks,+41 26 305 64 00,severine.blanc@fr.ch,1,,Lernende,FALSE,female
+158,Blanchard,Nicolas,Werkhof Tour Rouge,+41 26 305 36 97,nicolas.blanchard@fr.ch,1,,Zentralchef,FALSE,male
+159,Blaser,Vivien,Fachstelle Fritic,+41 26 305 45 29,vivien.blaser@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+160,Blumer,Reto,Direktion,+41 26 305 82 05,reto.blumer@fr.ch,1,,Kantonsarchäologe,FALSE,male
+161,Bochet,Christian,Mathematisch-Naturwissenschaftliche und Medizinische Fakultät,+41 26 300 84 50,doyen-sciences@unifr.ch,1,,Dekan,FALSE,male
+162,Boder,Charlotte,Amt für Umwelt,+41 26 305 37 59,charlotte.boder@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+163,Boichat Burdy,Stéphanie,Kantonsarztamt,+41 26 305 79 91,Stephanie.BoichatBurdy@fr.ch,1,,Stellvertretende Kantonsärztin,TRUE,female
+164,Bonfils,Jérémy,Bildungszentrum für Naturberufe (BZNB),,jeremy.bonfils@fr.ch,1,,Lehrer,FALSE,male
+165,Bongard,Chantal,Verwaltung - Sekretariat,+41 26 305 10 84,,0,,Buchhaltung,FALSE,female
+166,Bongard,Mathieu,Grundbuchamt des Glanebezirks,+41 26 305 94 83,,0,,Grundbuchverwalter-Adjunkt,FALSE,male
+167,Bongard Gobin,Danièle,Kollegium Gambach,+41 26 305 79 16,bongardda@edufr.ch,1,,Verwalterin,TRUE,female
+168,BONNET,Jérôme,Zentrale,+41 26 304 10 10,Jerome.Bonnet@fr.ch,1,,Fachmann für Justizvollzug,FALSE,male
+169,Bonvin,Patrick,Berufsfachschule,+41 26 305 27 30,bonvinp@edufr.ch,1,,Doyen section Maturité professionnelle,FALSE,male
+170,Boo,Cristina,Denkmalpflege,+41 26 305 12 86,cristina.boo@fr.ch,1,,Broye,FALSE,female
+171,Borcard,Anne-Marie,Oberamt des Greyerzbezirks,+41 26 305 64 09,anne-marie.borcard@fr.ch,1,,Sekretärin,TRUE,female
+172,Borcard,Fabienne,Freiburger Spital,,,0,,Direktionsassistentin,TRUE,female
+173,Borcard,Nicole,PS Villars-sur-Glâne - Cormanon,+41 26 408 32 71,direction.ep.cormanon@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+174,Borcard,Patrice,Oberamt des Greyerzbezirks,+41 26 305 64 00,patrice.borcard@fr.ch,1,,Oberamtmann,FALSE,male
+175,Bornet,Rachel,Eikon - Berufsfachschule für Gestaltung,+41 26 305 46 96,,0,,Verantwortlicher der Praktika,FALSE,female
+176,Boschung,Béatrice,Kantonale Lehrmittelverwaltung,+41 26 305 13 88,beatrice.boschung@ocms-fribourg.ch,1,,Lehrmittel und Schulmaterial,FALSE,female
+177,Boschung,Chantal,Oberamt des Greyerzbezirks,+41 26 305 64 07,chantal.boschung@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+178,Boschung,Christelle,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 12,christelle.boschung@fr.ch,1,,Betriebsberaterin,TRUE,female
+179,Boschung,Franz,Milchwirtschaftliche Werkstätten,+41 26 305 57 26,franz.boschung@fr.ch,1,,Stellvertreter Verantwortlicher Milchw. Werkst.,FALSE,male
+180,Boschung,Pascal,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 53 70,pascal.boschung@fr.ch,1,,Sektionschef Leistungen,FALSE,male
+181,Boschung,Petra,Oberamt des Sensebezirks,+41 26 305 74 33,petra.boschung@fr.ch,1,,Sekretärin,TRUE,female
+182,Boschung,Serge,Amt für Energie,+41 26 305 28 46,serge.boschung@fr.ch,1,,Dienstchef,FALSE,male
+183,Bossel,François,4. Forstkreis,+41 26 305 95 30,francois.bossel@fr.ch,1,,Wissenschaftlicher Berater,FALSE,male
+184,Bosson,Vincent,Oberamt des Greyerzbezirks,+41 26 305 64 00,vincent.bosson@fr.ch,1,,Vizeoberamtmann,FALSE,male
+185,Bossy,Stéphane,Staatsbuchhaltung,+41 26 305 31 45,stephane.bossy@fr.ch,1,,Chefbuchhalter,FALSE,male
+186,Bossy Galley,Magaly,Sekretariat des Grossen Rates,+41 26 305 10 39,magaly.bossy@fr.ch,1,,Direktionsassistentin,TRUE,female
+187,Bouquet,Daniel,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 62,daniel.bouquet@fr.ch,1,,Ausbildungsverantwortlicher Landwirte,FALSE,male
+188,Bouquet,Jean-Bernard,Oberflächengewässer,+41 26 305 37 76,jean-bernard.bouquet@fr.ch,1,,Verantwortlicher Einzugsgebiet,TRUE,male
+189,Bouquet,Jean-François,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 12 26,jean-francois.bouquet@fr.ch,1,,Stellvertretender Dienstchef,FALSE,male
+190,Bouquet,Jennifer,Personalverwaltung,+41 26 305 32 50,,0,,Verwaltungsangestellte,FALSE,female
+191,Bourgarel,Gilles,"Ausgrabungen, Forschungen und Publikationen",+41 26 305 82 37,Gilles.Bourgarel@fr.ch,1,,Sektorchef Mittelalter und Moderne,FALSE,male
+192,Bourqui,Joël,Oberamt des Broyebezirks,+41 26 305 91 20,prefecturebroye@fr.ch,1,,Vizeoberamtmann,FALSE,male
+193,Bovet,Richard,FRee Trading,+41 26 304 13 42,richard.bovet@cpi.ch,1,,Ausbildner,FALSE,male
+194,Bovigny,Marie-Laurence,Amt für Ausbildungsbeiträge,+41 26 305 12 53,marie-laurence.bovigny@fr.ch,1,,Höhere Verwaltungssachbearbeiterin,TRUE,female
+195,Bramaz,Cindy,Case management,+41 26 305 28 66,bramazc@edufr.ch,1,,Plattform Jugendliche,FALSE,female
+196,Brand,Stéphane,Freiburger Spital,,,0,,Direktor Informationssysteme,FALSE,male
+197,Brantschen,Reto,Freiburger Spital,,,0,,Direktor für Personalwesen,FALSE,male
+198,Brasey,Gilbert,Signalisation,+41 26 305 54 41,gilbert.brasey@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+199,Brasey,Sylviane,Oberamt des Broyebezirks,+41 26 305 91 20,Sylviane.Brasey@fr.ch,1,,Buchhaltungssekretärin,TRUE,female
+200,Brauchli Bakker,Anita,Pädagogische Mitarbeit,+41 26 305 72 12,brauchlia@edufr.ch,1,,Beratung der Lehrerinnen und Lehrer,TRUE,female
+201,Breidenbach,Claude,Museum für Kunst und Geschichte,+41 26 305 51 51,,0,,Restaurator,FALSE,male
+202,Breznica,Fatlume,Konservatorium,+41 26 305 99 53,,0,,Administration RH,TRUE,female
+203,Brique,Christian,Sportarten,,Non renseigné,5,,Ski alpin,TRUE,male
+204,Brischoux,Michel,Administration,,michel.brischoux@ocn.ch,1,,Dienstchef,FALSE,male
+205,Britschgi Pauchard,Gabriele,Ausserkantonale Spitalaufenthalte,+41 26 305 79 97,,0,,Sekretärin,TRUE,female
+206,Brodard,Jean-Pierre,Vereinigung des Kantonalen Berufsbildungszentrums,+41 26 305 25 28,jeanpierre.brodard@edufr.ch,1,,Hauswart,FALSE,male
+207,Brodard,Monique,Empfang - Sekretariat - Verwaltung,+41 26 305 41 26,brodardm@edufr.ch,1,,Direktionssekretariat,FALSE,female
+208,Brodard,Noël,Schulbauernhof von Grangeneuve,+41 26 305 57 71,noel.brodard@fr.ch,1,,Landwirtschaftlicher Angestellter,FALSE,male
+209,Brodard,Simone,Generalsekretariat,+41 26 305 23 72,,0,,Wissenschaftliche Beraterin,TRUE,female
+210,Broillet,Jean-Pierre,Lärm und nichtionisierende Strahlung (NIS),+41 26 305 37 71,jean-pierre.broillet@fr.ch,1,,Lärm und nichtionisierende Strahlung,FALSE,male
+211,Broillet,Leonardo,Staatsarchiv,+41 26 305 12 71,,0,,Adjunkt des Staatsarchivars,FALSE,male
+212,Brouillard,Eric,"Tätigkeitsgebiet : Verwaltung, Finanzen und Steuerwesen",+41 26 305 85 50,,0,,Projektleiter,FALSE,male
+213,Broye,Alain,Signalisation; Gesamtkonzept und Gemeindestrassen,+41 26 305 36 45,alain.broye@fr.ch,1,,Sektorchef,FALSE,male
+214,Broye,Jacqueline,Generalsekretariat,+41 26 305 12 22,,0,,Verwaltungssachbearbeiterin,TRUE,female
+215,Bruelhart,Alexandre,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 68,,0,,Kaufmännischer Lernender,FALSE,male
+216,Bruelhart,Elmar,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 24,elmar.bruelhart@fr.ch,1,,Lehrer BHML,FALSE,male
+217,Brugger,Catherine,Buchhaltung,+41 26 305 54 35,catherine.brugger@fr.ch,1,,Buchhaltungsangestellte,FALSE,female
+218,Brügger,Max,Hoch- und Tiefbau/Elektrizität/Logistik/IT,+41 26 305 25 65,max.bruegger@edufr.ch,1,,Sektorchef,FALSE,male
+219,Brügger,René,Neue Instrumente für das Finanzmanagement,+41 26 305 31 54,rene.brugger@fr.ch,1,,Sektionschef,FALSE,male
+220,Bruggisser,Gilles,Direktion - Verwaltung,+41 26 305 71 09,bruggisserg@edufr.ch,1,,Infrastrukturen,FALSE,male
+221,Brülhart,André,Sportarten,+41 26 424 41 84,Non renseigné,6,,Tennis,FALSE,male
+222,Brülhart,André,PS Fribourg-Vignettaz,,direction.ep.fribourg.vignettaz@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+223,Brulhart,Christine,Rezeption,+41 26 305 22 25,Christine.Brulhart.PRF@fr.ch,1,,Verwaltungsangestellte,FALSE,female
+224,Brülhart,Evelyne,Pädagogische Berater/innen,+41 26 305 45 42,evelyne.bruelhart@fr.ch,1,,Deutsch und english,FALSE,female
+225,Brülhart,Pauline,Empfang - Sekretariat - Verwaltung,+41 26 305 41 31,BruelhartP01@edufr.ch,1,,Büroangestellte,FALSE,female
+226,Brulhart,Rachel,Amt für Umwelt,+41 26 305 63 62,rachel.brulhart@fr.ch,1,,Kommunikationsverantwortliche,FALSE,female
+227,Brünisholz-Möri,Eveline,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 13,eveline.bruenisholz-moeri@fr.ch,1,,Betriebsberaterin,TRUE,female
+228,Bruno,Patrizia,Kantons- und Universitätsbibliothek,+41 26 305 13 50,patrizia.bruno@fr.ch,1,,Stellvertreterin Sektorchef Benutzung,TRUE,female
+229,Brunschwig,Anne,Amt für Statistik,+41 26 305 28 21,anne.brunschwig@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+230,Bucheli,Simon,Oberamt des Sensebezirks,+41 26 305 74 32,,0,,Vizeoberamtmann,FALSE,male
+231,Bucher,Lukas,Rektorat,+41 26 300 70 10,lukas.bucher@unifr.ch,1,,Akademischer Direktor,FALSE,male
+232,Büchler,Daniel,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 44,daniel.buechler@fr.ch,1,,Lehrer BHML,FALSE,male
+233,Buchs,Marcel,Weibeldienst,+41 26 305 10 60,,0,,Staatsweibel,FALSE,male
+234,Buchs,Olivier,Amtliche Vermessung (AV),+41 26 305 35 51,Olivier.Buchs@fr.ch,1,,Verifikation Vermessungen,FALSE,male
+235,Buchs,Olivier,Milchwirtschaftliche Werkstätten,+41 26 305 57 26,,0,,Mitarbeiter milchwirtschaftliche Werkstätten,FALSE,male
+236,Buchs,Patricia,Weiterbildung,+41 26 305 72 14,BuchsP01@edufr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+237,Buchs,Patrick,Überwachung und Planung von Kunstbauten,+41 26 305 37 08,patrick.buchs@fr.ch,1,,Sektorchef,FALSE,male
+238,BUGNON,Pascal,Zell und Infrastruktur,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+239,Bühlmann-Aebersold,Doris,free win,+41 26 304 13 02,doris.buhlmann@cpi.ch,1,,Responsable de mesure,FALSE,female
+240,Bulliard,Julien,"Sektor Faune, Biodiversität, Jagd und Fischerei",+41 26 305 23 43,julien.bulliard@fr.ch,1,,Dipl. technischer Sachbearbeiter,FALSE,male
+241,Bulliard,Marcel,Schulinspektorat,+41 26 305 73 82,marcel.bulliard@fr.ch,1,,Schulinspektor des 3. Kreises,TRUE,male
+242,Buntschu,Martha,Kaufmännische Berufsfachschule,+41 26 305 25 26,buntschum@edufr.ch,1,,Sekretärin,TRUE,female
+243,Bürgisser,Marie-Antoinette,Kantonale Lehrmittelverwaltung,+41 26 305 13 95,antoinette.buergisser@ocms-fribourg.ch,1,,Buchhaltung,FALSE,female
+244,Bürgisser,Thierry,PS Bulle - La Léchère,+41 26 919 49 51,direction.ep.bulle.lechere@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+245,Bürgy,Alain,Kreis 2; Strassenunterhalt (StrU),+41 26 305 91 37,alain.burgy@fr.ch,1,,Strassenkontrolleur,FALSE,male
+246,Burgy,Philippe,Planung und Mobilität,+41 26 304 14 23,philippe.burgy@fr.ch,1,,Sektionschef,FALSE,male
+247,Bürke,Aude,Sektor Finanz,,,0,,Sachbearbeiterin Buchhaltung,TRUE,female
+248,Burkhard,Marc,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 09,marc.burkhard@fr.ch,1,,Lehrer BHML,FALSE,male
+249,Burla,Sandra,Empfang - Sekretariat - Verwaltung,+41 26 305 65 03,burlas@edufr.ch,1,,Sekretärin,TRUE,female
+250,BURNIER,Evelyne,Zentrale,+41 26 304 10 10,Evelyne.Burnier@fr.ch,1,,Stellvertretender Bereichsleiter,FALSE,female
+251,Bussard,Nicolas,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 59,nicolas.bussard@fr.ch,1,,Lehrer Allgemeinbildung,TRUE,male
+252,Bussien,Corinne,Weiterbildung,+41 26 305 72 05,BussienC@edufr.ch,1,,Adjunktin,TRUE,female
+253,Cagnazzo,Simon,Fachstelle Fritic,+41 26 305 40 71,simon.cagnazzo@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+254,Caille,Alexandre,Technische Abteilung,+41 26 305 37 85,alexandre.caille@fr.ch,1,,Architektin,TRUE,male
+255,Caille,Liliane,3. Forstkreis,+41 26 305 23 61,liliane.caille@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+256,Caille,Pierre,Amt für Statistik,+41 26 305 28 20,pierre.caille@fr.ch,1,,Dienstchef,FALSE,male
+257,Caligiuri,Angelo,Direktion,+41 26 305 98 97,caligiuria@edufr.ch,1,,Vorsteher,FALSE,male
+258,Call-center,comptabilité,Finanzen und Personal,,compta@ocn.ch,1,,-,FALSE,no_person
+259,Call-center,contrôles techniques,Technik,,info@ocn.ch,1,,-,FALSE,no_person
+260,Call-center,examens conducteurs,Technik,,info@ocn.ch,2,,-,FALSE,no_person
+261,Call-center,Mesures administratives,Administrativmassnahmen und Prävention,,mad@ocn.ch,1,,-,FALSE,no_person
+262,Call-center,navigation,Informationstechnologie,,navigation@ocn.ch,1,,-,FALSE,no_person
+263,Call-center,permis de circulation,Administration,,circulation@ocn.ch,1,,-,FALSE,no_person
+264,Call-center,permis de conduire,Administration,,conducteur@ocn.ch,1,,-,FALSE,no_person
+265,Camenzind Barbieri,Judith,Pflegeheime für Betagte,+41 26 305 29 64,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+266,Campisi,Diego,Sektion Abfall und Altlasten,+41 26 305 69 94,diego.campisi@fr.ch,1,,Altlasten,FALSE,male
+267,Candido,Sandra,Buchhaltung,+41 26 305 22 24,Sandra.Ciccolepre@fr.ch,1,,Sekretärin,TRUE,female
+268,Cantin,Grégoire,Amt für Mobilität,+41 26 304 14 20,gregoire.cantin@fr.ch,1,,Dienstchef,FALSE,male
+269,Cappelli,Marinella,Sondereinrichtungen,+41 26 305 29 84,,0,,Inspektorin,TRUE,female
+270,Capsis,Dimitri,Abteilung Bauwesen,+41 26 305 61 50,dimitri.capsis@fr.ch,1,,Architektin,TRUE,male
+271,Carrard,Christine,Generalsekretariat,+41 26 305 31 08,christine.carrard@fr.ch,1,,"Kommunikationsverantwortliche, Stellvertretende Generalsekretärin",TRUE,female
+272,Carrel,Agnès,PS Fribourg - Bourg,+41 26 322 06 68,direction.ep.fribourg.bourg@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+273,CARREL,Pierre-André,Verwaltung und Empfang,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+274,Carrel,Pierre-Emmanuel,Finanzinspektorat,+41 26 305 31 36,pierre-emmanuel.carrel@fr.ch,1,,Finanz Inspektor,TRUE,male
+275,Carrel,Roland,Schadstoffemissionen und VOCV,+41 26 305 51 92,roland.carrel@fr.ch,1,,Emissionen aus Industrie und Landwirtschaft,FALSE,male
+276,Castella,Benoît,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 07,benoit.castella@fr.ch,1,,Verantwortlicher des Sektors BWB,FALSE,male
+277,Castella,Didier,Generalsekretariat; Mitglieder des SR,+41 26 305 22 00,,0,,"Staatsrat, Direktor; Staatsrat - Direktion der Institutionen und der Land- und Forstwirtschaft",FALSE,male
+278,Castella,Françoise,Oberamt des Greyerzbezirks,+41 26 305 64 08,francoise.castella@fr.ch,1,,Buchhaltungssekretärin,TRUE,female
+279,Castella,Laurence,PS Givisiez,+41 26 460 89 78,direction.ep.givisiez@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+280,Catalano,Isabelle,Amt für Ausbildungsbeiträge,+41 26 305 12 52,isabelle.catalano@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+281,Catano,Sarah,PS Delley-Portalban-Gletterens,+41 79 249 88 91,direction.ep.gletterens@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+282,Catillaz,Laurence,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 12 27,laurence.catillaz@fr.ch,1,,Sekretärin,TRUE,female
+283,Cellérier,Aurèle,Abteilung kantonale Planung,,aurele.cellerier@fr.ch,1,,Geograph-geomatiker,FALSE,male
+284,Ceriani,Tristan,Küche,+41 26 305 55 23,tristan.ceriani@fr.ch,1,,Küchenchef,FALSE,male
+285,Cesa,Damien,PS Bulle - La Tour-de-Trême,+41 26 919 49 81,direction.ep.bulle.latour@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+286,Cesa-Mugny,Laurence,Verzeichnis der Kulturgüter,+41 26 305 12 95,laurence.cesa@fr.ch,1,,Inventar Redaktorin,TRUE,female
+287,Cestrone,Sonia,Administrative Abteilung,+41 26 305 36 12,sonia.cestrone@fr.ch,1,,Verwaltungsadjunktin,TRUE,female
+288,Chabloz,Etienne,Kantonales Sozialamt,+41 26 305 30 84,,0,,Wissenschaftlicher Berater,FALSE,male
+289,Challand,Alain,Logistikstelle für arbeitsmarktliche Massnahmen (LAMM),+41 26 305 96 55,alain.challand@fr.ch,1,,Leiter LAMM-Sektor,FALSE,male
+290,CHALLANDE,Jacques,Verwaltung und Empfang,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+291,Challande,Stéphane,PS La Jogne,+41 77 406 46 05,direction.ep.lajogne@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+292,Chanex,Viviane,PS Belmont-Broye,,direction.ep.belmont-broye@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+293,Chanez,Bertrand,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 18,chanezb@edufr.ch,1,,Abteilungsvorsteher B,FALSE,male
+294,Chanez,Claude,Strassenplanung,+41 26 305 36 68,claude.chanez@fr.ch,1,,Projektleiter,FALSE,male
+295,Chapuis,Christianne,Generalsekretariat,+41 26 305 14 02,,0,,Direktionsassistentin,TRUE,female
+296,Chardonnens,Anouchka,Büro für die Gleichstellung von Frau und Mann und für Familienfragen,+41 26 305 23 89,,0,,Juristin,TRUE,female
+297,Chardonnens,Bastien,Stabsdienste; Öffentlicher Verkehr und Monitoring,+41 26 304 14 80,bastien.chardonnens@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+298,Chardonnens,Nicolas,Verwaltung - Sekretariat,+41 26 305 10 86,,0,,Sektorchef der Druckerei,FALSE,male
+299,Chardonnens,Roger,Wirtschaftsförderung Kanton Freiburg,+41 26 304 14 05,,0,,Projektleiter,FALSE,male
+300,Chardonnens,Serge,Sektor Gebäudeunterhalt,+41 26 305 37 87,serge.chardonnens@fr.ch,1,,Höherer technischer Mitarbeiter,FALSE,male
+301,Charlet,Anaïs,Generalsekretariat,+41 26 305 36 04,anais.charlet@fr.ch,1,,Praktikant,FALSE,female
+302,Charlier Pasquier,Bernadette,Philosophische Fakultät,+41 26 300 75 00,bernadette.charlier@unifr.ch,1,,Vorsteherin,TRUE,female
+303,Charrière,François,"Tätigkeitsgebiet : Verwaltung, Finanzen und Steuerwesen",+41 26 305 32 14,,0,,Analytiker-Programmierer,FALSE,male
+304,Charrière,Philippe,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 11,philippe.charriere@fr.ch,1,,Betriebsberater,FALSE,male
+305,Charron,Mélanie,Landwirtschaftliche Gebäude und Betriebshilfen,+41 26 305 23 14,melanie.charron@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+306,Chassot,André,Pflanzenbau (PB),+41 26 305 58 65,andre.chassot@fr.ch,1,,Verantwortlicher Pflanzenschutzdienst,FALSE,male
+307,Chassot,Eléonore,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 97,eleonore.chassot@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+308,Chatton,Didier,Strassenplanung,+41 26 305 36 88,,0,,Projektleiter,FALSE,male
+309,Chatton,Marc,GIS und Informatik,+41 26 305 44 29,marc.chatton@fr.ch,1,,Verwaltungssachbearbeiter Direktion,FALSE,male
+310,Chatton,Marina,Signalisation,+41 26 305 36 56,marina.chatton@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+311,Chatton Bourqui,Nathalie,"PS Vernay, Bussy-Morens-Rueyres-Sévaz",+41 79 566 03 84,direction.ep.vernay@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+312,Chauliac,Emmanuelle,Kantonsarztamt,+41 26 305 79 88,,0,,Schularzt,FALSE,female
+313,Chavaillaz,Dolorès,Generalsekretariat,+41 26 305 29 08,,0,,Direktionssekretärin,TRUE,female
+314,Cheda,Francesca,Zentrale Dienste,+41 26 305 51 86,francesca.cheda@fr.ch,1,x,Sektorchefin Natur und Landschaft,TRUE,female
+315,Cheda,Francesca,Sektor Natur und Landschaft,+41 26 305 51 86,francesca.cheda@fr.ch,2,x,Cheffin des Sektors Natur und Landschaft,TRUE,female
+316,Chelmu,Adrian,Interprofessionelles Weiterbildungszentrum,,,0,,Sachbearbeiterin Ausbildung,TRUE,male
+317,Chenut,Nicolas,Denkmalpflege,+41 26 305 45 08,nicolas.chenut@fr.ch,1,,"Vivisbach, Glane",FALSE,male
+318,Cherzaï,Patrick,Überwachung und Planung von Kunstbauten,+41 26 305 36 69,patrick.cherzai@fr.ch,1,,Projektleiter,FALSE,male
+319,Chevalley,Françoise,"PS Ursy-Montet, Vuarmarens",+41 79 320 48 42,direction.ep.ursy@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+320,Chiesa,Jacques,Kreis 1,+41 26 305 44 32,,0,,Technischer Sachbearbeiter,FALSE,male
+321,Chimenti,Anna Caterina,Finanzen und Ausrüstungen,+41 26 305 12 05,annacaterina.chimenti@fr.ch,1,,Buchhaltungssekretärin,TRUE,female
+322,Chiovè,Gian Carlo,Hochbauamt,+41 26 305 37 99,GianCarlo.Chiove@fr.ch,1,,Kantonsarchitekt,FALSE,male
+323,Chiusolo,Addolorata,Pflegeheime für Betagte,+41 26 305 29 82,,0,,Verwaltungssachbearbeiterin,TRUE,female
+324,Chobaz,Sophie,Kollegium Gambach,+41 26 305 79 11,chobazso@edufr.ch,1,,Sekretärin,TRUE,female
+325,Chouiter,Leïla,Amt für Sonderpädagogik (SoA),+41 26 305 40 64,leila.chouiter@fr.ch,1,,Psychologin,TRUE,female
+326,Choulat-Castella,Isabelle,Wohnungsamt,+41 26 305 24 16,isabelle.choulat-castella@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+327,Christig,Roger,Direktion,+41 26 305 55 19,roger.christig@fr.ch,1,,Verwaltungssachbearbeiter Direktion,FALSE,male
+328,Cinalli,Alexandra,Gesundheit und Soziales/Hauswirtschaft/Labor/Körperpflege/Brücken zur Lehre,+41 26 305 25 74,alexandra.cinalli@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+329,Cirio,Yves,Kantons- und Universitätsbibliothek,+41 26 305 13 71,Yves.Cirio@fr.ch,1,,Verantwortlicher für Tonaufnahmen und Filme.,FALSE,male
+330,Clément,Charles,Bildungszentrum für Naturberufe (BZNB),+41 26 305 59 33,charles.clement@fr.ch,1,,Lehrer,FALSE,male
+331,Clément,Christine,Buchhaltung,+41 26 305 55 11,christine.clement@fr.ch,1,,Buchhaltungsangestellte,FALSE,female
+332,Clément,Daniel,Schadstoffemissionen und VOCV; Luftqualität,+41 26 305 51 94,daniel.clement@fr.ch,1,,"Emissionsmessungen, Immissionsmessungen",FALSE,male
+333,Clément,Karin,"Inspektorat für den deutschsprachigen obligatorischen Unterricht, Tafers",+41 26 305 40 82,karin.clement@fr.ch,1,,Sekretärin,TRUE,female
+334,CLEMENT,Malika,Verwaltung und Empfang,+41 26 305 49 65,,0,,Verwaltungsangestellte,FALSE,female
+335,Clément,Martial,Amt für Statistik,+41 26 305 28 35,martial.clement@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+336,Clément,Mélissa,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 45 71,melissa.clement@fr.ch,1,,Praktikant,FALSE,female
+337,Clément,Monique,PS Corserey-Noréaz-Ponthaux-Prez-vers-Noréaz,+41 26 470 24 98,direction.ep.noreaz@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+338,Clerc,Marie-Claude,Sekretariat des Grossen Rates,+41 26 305 10 53,,0,,Parlamentssekretärin,TRUE,female
+339,Clerc,Marlène,Rechtsdienst,+41 26 305 96 57,marlene.clerc@fr.ch,1,,KA/Schlechtwetter/Erlassentscheide,FALSE,female
+340,Clerc,Myriam,Kantonaler Finanzdienst,+41 26 305 31 52,Myriam.Clerc@fr.ch,1,,Sektionschefin,TRUE,female
+341,Clerc,Philippe,Sektor Gebäudeunterhalt,+41 26 305 38 02,philippe.clerc@fr.ch,1,,Sanitär,FALSE,male
+342,Clerc,Pierre-Alain,Technische Abteilung,+41 26 305 38 01,pierre-alain.clerc@fr.ch,1,,Architektin,TRUE,female
+343,Clerc,Samuel,Wirtschaftsförderung Kanton Freiburg,+41 26 304 14 09,,0,,Verantwortlicher Industrieprojekte,FALSE,male
+344,Clot,Monique,Sportarten,+41 26 305 34 68,Non renseigné,7,,Schwimmen,FALSE,female
+345,Collaud,Fabrice,Strassenplanung,+41 26 305 36 64,fabrice.collaud@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+346,Collaud,Margaret,Konferenz kantonaler Volkswirtschaftsdirektoren Westschweiz,+41 26 305 51 06,,0,,Coordinatrice NPR,TRUE,female
+347,Collet,Lutz,Pflanzenbau (PB),+41 26 305 58 78,lutz.collet@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+348,Comte,Laurent,CO de Bulle,,Non renseigné,8,,Direktor,FALSE,male
+349,Constantin,Loïc,Sektion Abfall und Altlasten; Amt für Umwelt,+41 26 305 51 91,loic.constantin@fr.ch,1,,Sektionschef; Stellvertretender Dienstchef,FALSE,male
+350,Conus,Monique,Kieferorthopädische Klinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+351,Conus,Olivier,"PS Châtonnaye, Middes, Torny",+41 79 709 54 91,direction.ep.chatonnaye@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+352,Conus,Olivier,Pädagogische Berater/innen,+41 26 305 45 45,olivier.conus@fr.ch,1,,Medien und IKT,FALSE,male
+353,Corminboeuf,Elisabeth,Kaufleute/Verkauf/Dekoration,+41 26 305 24 95,elisabeth.corminboeuf@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+354,Corminboeuf,Ivan,Pädagogische Berater/innen,+41 26 305 73 60,ivan.corminboeuf@fr.ch,1,,Mathematik 3. Zyklus,FALSE,male
+355,Corpataux,Aline,Sektor Walderhaltung und Raumplanung,+41 26 305 23 43,aline.corpataux2@fr.ch,1,,Wissenschaftliche Mitarbeiterin GIS,TRUE,female
+356,Corpataux,Bernard,PS Romont-Billens-Mézières,+41 79 617 39 18,direction.ep.romont@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+357,Corpataux,Fabienne,Gesundheit und Soziales/Hauswirtschaft/Labor/Körperpflege/Brücken zur Lehre,+41 26 305 25 00,fabienne.corpataux@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+358,Corpataux,Jean-François,Amt für Kultur,+41 26 305 12 83,,0,,Wissenschaftlicher Mitarbeiter,FALSE,male
+359,Corpataux,Laura,Oberamt des Vivisbachbezirks,+41 26 305 94 10,laura.rieder@fr.ch,1,,Vizeoberamtfrau,FALSE,female
+360,Corpataux,Mohamed,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 72,corpatauxm@edufr.ch,1,,Abteilungsvorsteher F,FALSE,male
+361,Corpataux Von Däniken,Sarah,Gewerbebibliothek,+41 26 305 25 09,corpatauxvondaes@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+362,Corredera,Christian,Verzeichnis der Kulturgüter,+41 26 305 12 87,Christian.corredera@fr.ch,1,,Rédacteur de l'inventaire,TRUE,male
+363,Cosandey,Suzanne,PS Bulle - La Condémine,+41 26 919 49 22,direction.ep.bulle.condemine@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+364,Cothereau,Pierre,Sektor Wald,+41 26 305 23 43,pierre.cothereau@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+365,Cottet,Charles,3. Forstkreis,+41 26 305 23 61,charles.cottet@fr.ch,1,,Försteradjunkt,FALSE,male
+366,Cottet,Francis,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 96,francis.cottet@fr.ch,1,,Lehrer,FALSE,male
+367,Cottier,Anne,Grundbuchamt des Greyerzbezirks,+41 26 305 93 50,,0,,Grundbuchverwalterin-Adjunktin,TRUE,female
+368,Cottier-Chassot,Martine,Direktionssekretariat,+41 26 305 10 62,,0,,Veranstaltungsmanagement und Verantwortung für das Protokoll,FALSE,female
+369,Cotting,Gisèle,Amtliche Veröffentlichungen; Informatikprojekte,+41 26 305 10 46,,0,,Höhere Verwaltungssachbearbeiterin,TRUE,female
+370,Cotting,Michael,Lagerraum,+41 26 305 10 90,,0,,Magaziner,TRUE,male
+371,Cotting,Stéphanie,"PS Marly-Cité, Villarsel-sur-Marly, Pierrafortscha",+41 26 552 15 51,direction.ep.marly.cite@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+372,Cotting,Valérie,Sektor Administration,+41 26 305 79 84,,0,,Verwaltungsangestellte,FALSE,female
+373,Courrioux,Aurore,Küche; Ausbildung Hauswirtschaft modular,+41 26 305 56 62,,0,,Verantwortliche Restaurant; Lehrerin,TRUE,female
+374,Courtois,Etienne,Amt für Energie,+41 26 305 28 44,etienne.courtois@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+375,Crausaz,Emmanuel,"PS Lully, Châtillon",+41 26 664 03 17,direction.ep.lully@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+376,Crausaz,Géraldine,PS Siviriez,+41 79 238 09 62,direction.ep.siviriez@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+377,Crausaz,Laurence,Gewerbebibliothek,+41 26 305 25 09,crausazl@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+378,Crausaz,Olivier,CO de la Glâne,+41 26 651 99 33,,0,,Direktor,FALSE,male
+379,Crausaz,Sonja,Amt für Sport,+41 26 305 12 62,,0,,Verwaltungsangestellte,FALSE,female
+380,Cressier,Laurent,4. Forstkreis,+41 26 305 95 30,laurent.cressier@fr.ch,1,,Försteradjunkt,FALSE,male
+381,Crmaric,Ivanna,Pflanzenbau (PB),+41 26 305 58 87,ivanna.crmaric@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+382,Cudré,Claire,Generalsekretariat,+41 26 305 12 02,claire.cudre@fr.ch,1,,Direktionsassistentin,TRUE,female
+383,Cudré-Mauroux,Xavier,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 33,xavier.cudre-mauroux@fr.ch,1,,"Lehrer, Vorsteher",FALSE,male
+384,Cuennet,Daniel,Freiburgisches Agro-Lebensmittellabor,,daniel.cuennet@fr.ch,1,,Laborant,FALSE,male
+385,Cuennet,Francine,Finanzverwaltung,+41 26 305 31 16,francine.cuennet@fr.ch,1,,Direktionssekretärin,TRUE,female
+386,Curdy,Philippe,Bildungszentrum für Naturberufe (BZNB),+41 26 305 59 32,philippe.curdy@fr.ch,1,,Lehrer,FALSE,male
+387,Currat,Geneviève,RAV ZENTRUM / Saanebezirk,+41 26 305 96 85,genevieve.currat@fr.ch,1,,Leiterin Regionales Arbeitsvermittlungszentrum (RAV),TRUE,female
+388,Currat,Marcie,Gewerbliche und Kaufmännische Berufsschule,+41 26 305 87 00,curratm01@edufr.ch,1,,Bibliothekarin,TRUE,female
+389,Curty,Fabiola,Logistik; Verwaltung,+41 26 305 11 11,fabiola.curty@fr.ch,1,,Receptionistin-Telefonistin; Auskünfte,TRUE,female
+390,Curty,Olivier,Mitglieder des SR; Generalsekretariat,+41 26 305 24 00,,0,,"Staatsrat - Volkswirtschaftsdirektion; Staatsrat, Direktor",FALSE,male
+391,Curty-Arnold,Margrit,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML N - Berufe Hauswirtschaft)",+41 26 305 56 00,margrit.curty-arnold@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+392,Dafflon,Alexandre,Staatsarchiv,+41 26 305 12 72,,0,,Staatsarchivar,FALSE,male
+393,Dafflon,Christophe,"PS Le Pâquier, Gruyères",+41 26 921 31 10,direction.ep.lepaquier@fr.educanet2.ch direction.ep.gruyeres@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+394,Dafflon,Sébastien,Amtliche Vermessung (AV),+41 26 305 35 65,sebastien.dafflon@fr.ch,1,,Höherer technischer Mitarbeiter,FALSE,male
+395,Dafflon,Sylvie,Zahnklinik Bulle,+41 26 305 98 60,,0,,Dentalassistentin,TRUE,female
+396,Dalla Piazza,Romano,Sektion Abfall und Altlasten,+41 26 305 37 54,romano.dallapiazza@fr.ch,1,,Sektorchef Altlasten,FALSE,male
+397,Davet Burri,Isabelle,Behörde für Grundstückverkehr,+41 26 305 22 08,,0,,diplomierte technische Sachbearbeiterin A,TRUE,female
+398,Dayer,Jeanick,Amtliche Vermessung (AV),+41 26 305 35 62,jeanick.dayer@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+399,Dayer,Michael,PS Attalens-Granges,+41 21 947 38 51,direction.ep.attalens@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+400,Dayer,Michael,PS Remaufens,+41 26 947 38 51,direction.ep.remaufens@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+401,De Looz - Corswarem,Sandrine,Freiburger Fachstelle für sexuelle Gesundheit,,,0,,Sexualpädagogin,TRUE,female
+402,De Palma,Yolanda,Finanzverwaltung,+41 26 305 31 47,,0,,Höhere Verwaltungssachbearbeiterin,TRUE,female
+403,de Raemy,Daniel,Kunstdenkmäler,+41 26 305 12 92,daniel.deraemy@fr.ch,1,,Redaktor,FALSE,male
+404,de Reyff,Charles,Direktion,+41 26 305 97 08,charles.dereyff@fr.ch,1,,Dienstchef,FALSE,male
+405,de Tribolet,Thomas,Amt für Gesetzgebung,+41 26 305 14 35,thomas.detribolet@fr.ch,1,,Stellvertretender Dienstchef,FALSE,male
+406,De Weck,Joana,Generalsekretariat,,,0,,Projektleiterin; Generalsekretärin,TRUE,female
+407,Decorges,Vincent,Kantons- und Universitätsbibliothek,+41 26 305 13 22,vincent.decorges@fr.ch,1,,"Sektorchef, Webtechnologien und Informatik-Infrastruktur",FALSE,male
+408,Decrème,Jean-Philippe,Kollegium Gambach,+41 26 305 79 20,decremejp@edufr.ch,1,,Vorsteher,FALSE,male
+409,Defferrard,Yannick,Oberamt des Glanebezirks,+41 26 305 95 10,,0,,Kaufmännischer Lernender,FALSE,male
+410,Degen,Claudia,Pflanzenbau (PB),+41 26 305 58 87,claudia.degen@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+411,Deillon,Nicolas,Amt für Landwirtschaft; Landwirtschaftliche Entwicklung,+41 26 305 23 04,nicolas.deillon@fr.ch,1,,Stellvertretender Dienstchef; Sektionschef Güterzusammenlegungen Wege - Wasserversorgungen Bewässerungen,FALSE,male
+412,Delabays,Cindy,"PS Massonnens, Le Châtelard, Grangettes",+41 79 642 14 17,direction.ep.grangettes@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+413,Delabays,Cindy,PS Villorsonnens,+41 79 642 14 17,direction.ep.villorsonnens@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+414,Delacombaz,Monique,Invalidenversicherungsstelle,+41 26 305 52 03,monique.delacombaz@fr.oai.ch,1,,Direktionssekretärin / HR,TRUE,female
+415,Delannoy,Catarina,Juristische Abteilung,+41 26 305 61 66,catarina.delannoy@fr.ch,1,,Juristin,TRUE,female
+416,Delaquis,Eveline,Generalsekretariat,+41 26 305 36 04,eveline.delaquis@fr.ch,1,,Direktionssekretärin,TRUE,female
+417,Delley,Jacques,Sektor Gebäudeunterhalt,+41 26 305 38 02,jacques.delley@fr.ch,1,,Schreiner,TRUE,male
+418,Dellieu,Laurence,Rechtsdienst,+41 26 305 22 20,,0,,Juristin,TRUE,female
+419,Demierre,André,Administrativmassnahmen und Prävention,,a.demierre@ocn.ch,1,,Dienstchef,FALSE,male
+420,Demierre,Anne-Claude,Mitglieder des SR,+41 26 305 29 00,,0,,"Staatsrätin, Direktorin; Staatsrätin - Direktion für Gesundheit und Soziales",TRUE,female
+421,,,,,,0,,,TRUE,Doppel
+422,Demierre,Sylvie,Zahnklinik Romont,+41 26 305 86 91,,0,,Dentalassistentin,TRUE,female
+423,Demund Herren,Catrina,Sozialvorsorgeamt,+41 26 305 45 58,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+424,Dénervaud,Claude,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 73,,0,,Lehrer,FALSE,male
+425,Dénervaud,Emmanuel,Grundstückerwerb,+41 26 305 36 54,emmanuel.denervaud@fr.ch,1,,Sektorchef,FALSE,male
+426,Desbiolles-Progin,Sophie,Förderung des Images des Kantons Freiburg,+41 26 347 12 32,,0,,Leiterin Promotion und Social Media,TRUE,female
+427,Deschenaux,Charles,4. Forstkreis,+41 26 305 95 30,charles.deschenaux@fr.ch,1,,Förster,FALSE,male
+428,Deschenaux,Muriel,Amtliche Vermessung (AV),+41 26 305 35 49,Muriel.Deschenaux@fr.ch,1,,Verifikation der Mutationen,FALSE,female
+429,Deschenaux,Pierre,CO de la Veveyse,,direction@coveveyse.ch,1,,Direktor,FALSE,male
+430,Descloux,Bruno,Sportarten,+41 26 424 20 74,Non renseigné,9,,Badminton,TRUE,male
+431,Descloux,Jacques,CO de Pérolles,,Non renseigné,10,,Direktor,FALSE,male
+432,Descloux,Joël,PS Gibloux,+41 26 552 59 46,direction.ep.gibloux@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+433,Descloux,Marie-Thérèse,Gewerbliche und Kaufmännische Berufsschule,+41 26 305 87 04,desclouxmt@edufr.ch,1,,Vorsteherin,TRUE,female
+434,Dessibourg,Christine,Kreis 2,+41 26 305 91 35,christine.dessibourg@fr.ch,1,,Sekretärin,TRUE,female
+435,Dévaud,Francine,PS Châtel-St-Denis,+41 79 124 63 00,direction.ep.chatel-st-denis@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+436,Devaud,Joackim,Eikon - Berufsfachschule für Gestaltung,,,0,,Verantwortlicher der Praktika,FALSE,male
+437,Devaud,Marc,Freiburger Spital,,,0,,Generaldirektor,FALSE,male
+438,Devaud,Philippe,Fachstelle Fritic,+41 26 305 72 65,devaudp@edufr.ch,1,,Informatische Beratung,FALSE,male
+439,Devillers,Luc,Theologische Fakultät,+41 26 300 73 70,luc.devillers@unifr.ch,1,,Dekan,FALSE,male
+440,Dewarrat,Anouck,SIERA,+41 26 305 37 17,anouck.dewarrat@fr.ch,1,,Sekretär,FALSE,female
+441,Dewarrat,Benjamin,Milchwirtschaftliche Werkstätten,+41 26 305 57 26,benjamin.dewarrat@fr.ch,1,,Mitarbeiter milchwirtschaftliche Werkstätten,FALSE,male
+442,Di Franco,Eva,FRee Trading,,,0,,Ausbildnerin,TRUE,female
+443,Dietrich,Nicolas,Sektor Wissenschaftliche Mitarbeit,+41 26 305 79 95,,0,,Kantonaler Beauftragter für Suchtfragen,FALSE,male
+444,Dill,Peter,Abteilung Bauwesen,+41 26 305 36 19,Peter.Dill@fr.ch,1,,Architektin,TRUE,male
+445,Dini,Mélina,Sektion Abfall und Altlasten,+41 26 305 37 74,melina.dini@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+446,Dobler,Samuel,Abteilung Bauwesen,+41 26 305 36 13,samuel.dobler@fr.ch,1,,Architektin,TRUE,male
+447,Domingues Rosaria,Catia,Sektor Verwaltung und Finanzen,+41 26 305 23 43,catia.domingues@fr.ch,1,,Buchhalterin,TRUE,female
+448,Donzallaz,Jonathan,Kantons- und Universitätsbibliothek,,BCU_e-ressources@fr.ch,1,,E-librarian,FALSE,male
+449,Donzel,Pierre-Yves,Sektion Abfall und Altlasten,+41 26 305 61 96,pierre-yves.donzel@fr.ch,1,,Sectorchef Abfall,FALSE,male
+450,Donzelli,Florence,Sondereinrichtungen,+41 26 305 29 83,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+451,Dorand,Marie-Christine,Finanzen und Ausrüstungen,+41 26 305 12 04,marie-christine.dorand@fr.ch,1,,Adjunktin des Dienstchefs,TRUE,female
+452,Dorogi,Catherine,Freiburger Spital,,,0,,Pflegedirektorin,TRUE,female
+453,Dorsemaine,Aurélia,Zahnklinik Bulle,+41 26 305 98 60,,0,,Zahnärztin,TRUE,female
+454,Dorthe,Jonathan,Entwässerung und Abwasserreinigung,+41 26 305 37 78,jonathan.dorthe@fr.ch,1,,Verantwortlicher Einzugsgebiet,TRUE,male
+455,Dorthe,Monique,Kantons- und Universitätsbibliothek,+41 26 305 13 20,monique.dorthe@fr.ch,1,,Mitarbeiterin der gesetzlichen Pflichtabgabe,TRUE,female
+456,Doudin,Céline,Interprofessionelles Weiterbildungszentrum,,,0,,Telefonistin-Empfang,TRUE,female
+457,Dougoud,Brigitte,Sektor Natur und Landschaft,+41 26 305 51 86,brigitte.dougoud@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+458,Dousse,Marc,Amt für Energie,+41 26 305 28 45,marc.dousse@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+459,Dousse,Roland,Pförtnerstelle,+41 26 305 31 13,Roland.Dousse@fr.ch,1,,Hauswart,FALSE,male
+460,Doutaz,Cidalia,Schulinspektorat,+41 26 305 73 80,inspectorat.scolaire@fr.ch,1,,Sekretärin,TRUE,female
+461,Dreyer,Marie-Laurence,Tiefbauamt,+41 26 305 36 47,marie-laurence.dreyer@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+462,Droux,Bertrand,Tierproduktion (TP),+41 26 305 58 94,bertrand.droux@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+463,Droux,Christine,Generalsekretariat,+41 26 305 22 03,,0,,Direktionsassistentin,TRUE,female
+464,Droz,Jean-Marie,"CASEi, milchwirtschaftliche Beratung",+41 26 305 57 40,jean-marie.droz@fr.ch,1,,Käsereiberater,FALSE,male
+465,Droz,Laura,Amt für Sport,+41 26 305 12 64,,0,,Lehrling Kauffrau,TRUE,female
+466,Druey,Isabelle,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 55 37,isabelle.druey@fr.ch,1,,"Lehrerin BZML, Gesundheitsverantwortliche, Stellv. Qualitätsverantwortliche",TRUE,female
+467,Dubach,Stefan,Pflanzenbau (PB),+41 26 305 58 72,stefan.dubach@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+468,Dubey-Bugnon,Sylvia,Kollegium Gambach,+41 26 305 79 21,dubeys@edufr.ch,1,,Vorsteherin,TRUE,female
+469,Duc,Christine,PS St-Aubin-Vallon,+41 26 677 23 44,direction.ep.st-aubin@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+470,Duc,Lorianne,"PS Fétigny-Ménières, Cheiry-Prévondavaux-Surpierre-Villeneuve",+41 79 773 98 20,direction.ep.fetigny-menieres@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+471,Ducommun,Lorraine,Generalsekretariat,+41 26 305 14 67,,0,,Juristische Beraterin,TRUE,female
+472,Ducommun,Romain,Grund und Trinkwasser,+41 26 305 64 92,romain.ducommun@fr.ch,1,,Sektorchef,FALSE,male
+473,Ducrest,Benoît,Sondereinrichtungen,+41 26 305 29 78,,0,,Wissenschaftlicher Mitarbeiter,FALSE,male
+474,Ducrest,Frédéric,CO de La Tour-de-Trême,,Non renseigné,11,,Direktor,FALSE,male
+475,Ducrest,Nadja,Sektor Administration,+41 26 305 79 85,,0,,Bürochefin,TRUE,female
+476,Ducrest,Sébastien,CO de Morat,,Non renseigné,12,,Direktor,FALSE,male
+477,Dücrey,Jean-Marc,Kantons- und Universitätsbibliothek,+41 26 305 13 39,jean-marc.ducrey@fr.ch,1,,Sektorchef Logistik,FALSE,male
+478,Ducrot,Charles,"Sektor Subventionierte Gebäude, Sektor Gebäudeverwaltung, Sektion Verwaltung, Hochbauamt",+41 26 305 37 86,charles.ducrot@fr.ch,1,,Stellvertretender Dienstchef,FALSE,male
+479,Ducrot,Fabienne,SANIMA - Nutztierversicherungsanstalt,+41 26 305 22 74,,0,,Verwaltungssachbearbeiterin,TRUE,female
+480,Ducry,Cédric,Juristische Abteilung,+41 26 305 36 13,cedric.ducry@fr.ch,1,,Juristin,TRUE,male
+481,Ducry,Marie-Luce,Gewerbebibliothek,+41 26 305 25 09,ducrym@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+482,Ducry Cotting,Joëlle,Verwaltung,+41 26 305 82 03,,0,,Sekretärin,TRUE,female
+483,Dumas,Nadia,Oberamt des Glanebezirks,+41 26 305 95 03,,0,,Sekretärin,TRUE,female
+484,Dupasquier,Christophe,Sekretariat des Grossen Rates,+41 26 305 10 50,christophe.dupasquier@fr.ch,1,,Webmaster,FALSE,male
+485,Dupasquier,Isabelle,Empfang - Sekretariat - Verwaltung,+41 26 305 21 27,dupasquieri@edufr.ch,1,,Sekretärin,TRUE,female
+486,Dupasquier,Madeleine,Abteilung Zivilstandsaufsicht und Administration,+41 26 305 14 15,madeleine.dupasquier@fr.ch,1,,Zivilstandbeamtin,TRUE,female
+487,Dupraz-Ardiot,Marie-Amélie,Generalsekretariat,,Marie-Amelie.Dupraz-Ardiot@fr.ch,1,,Delegierte für nachhaltige Entwicklung,FALSE,female
+488,Dupré,Dominique,"RAV SÜD / Greyerzbezirk, RAV SÜD / Glanebezirk, RAV SÜD / Vivisbachbezirk",+41 26 305 96 66,dominique.dupre@fr.ch,1,,Leiter Regionales Arbeitsvermittlungszentrum (RAV),FALSE,male
+489,Dürr-Auster,Thilo,"Sektion UVP, Bodenschutz und Anlagensicherheit",+41 26 305 37 73,thilo.duerr-auster@fr.ch,1,,"Bodenschutz, UVP",FALSE,male
+490,Dürst Stucki,Mirjam,Abteilung kantonale Planung,+41 26 305 47 27,mirjam.duerst@fr.ch,1,,Geologin,TRUE,female
+491,Durwang,Martine,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+492,Dutoit,Malory,Oberamt des Broyebezirks,+41 26 305 91 20,,0,,Juristin,TRUE,female
+493,Ecoffey,David,Behörde für Grundstückverkehr,,,0,,Präsident,FALSE,male
+494,Egger,Anita,Kaufmännische Berufsfachschule,+41 26 305 25 26,,0,,Sekretärin,TRUE,female
+495,Egger,Anton,2. Forstkreis,+41 26 305 75 10,anton.egger@fr.ch,1,,Försteradjunkt,FALSE,male
+496,Egger,Doris,Sekretariat,+41 26 305 37 88,doris.egger@fr.ch,1,,Sekretärin,TRUE,female
+497,Eggertswyler,Yves,Informationstechnologie,,yves.eggertswyler@ocn.ch,1,,Dienstchef,FALSE,male
+498,Egli,Lea,Direktzahlungen,+41 26 305 22 51,lea.egli@fr.ch,1,,Regionalversantwortliche See deutschsprachiger Teil und Unterer Sensebezirk,FALSE,female
+499,Egli,Margaux,"Produkteförderung, Viehzucht und Weinbau; Direktzahlungen",+41 26 305 22 60,margaux.egli@fr.ch,1,,"Verantwortliche Weinbau; Regionalverantwortliche Broye, See französichsprachiger Teil und Nördlicher Glanebezirk",TRUE,female
+500,Eichenberger,Gabrielle,Generalsekretariat,+41 26 305 31 06,gabrielle.eichenberger@fr.ch,1,,Übersetzerin,TRUE,female
+501,Eichenberger,Reiner,Wirtschafts- und Sozialwissenschaftliche Fakultät,+41 26 300 82 00,reiner.eichenberger@unifr.ch,1,,Dekan,FALSE,male
+502,Emery,Christine,Freiburgisches Agro-Lebensmittellabor,+41 26 305 57 39,christine.emery@fr.ch,1,,Laborantin,TRUE,female
+503,Emery,Christophe,GIS und Informatik,+41 26 305 36 72,christophe.emery@fr.ch,1,,Teamleiter,FALSE,male
+504,Epiney,Astrid,Rektorat,+41 26 300 70 00,astrid.epiney@unifr.ch,1,,Rektorin,TRUE,female
+505,Erdogan,Gamze,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Zahnärztin,TRUE,female
+506,Essabbahi,Soukaïna,Zahnklinik Romont,+41 26 305 86 91,,0,,Dentalassistentin,TRUE,female
+507,Etienne,Alexandre,Berufsfachschule Soziales-Gesundheit,+41 26 305 56 27,etiennea@edufr.ch,1,,Direktor,FALSE,male
+508,Etique,Aurélia,Landwirtschaftliche Entwicklung,+41 26 305 23 17,aurelia.etique@fr.ch,1,,Güterzusammenlegungen - Wege - Entwässerungen - Bewässerungen,FALSE,female
+509,Eva,Spring,Generalsekretariat,+41 26 305 30 39,,0,,Wissenschaftliche Beraterin,TRUE,female
+510,Eyer,Willy,Sektor Naturgefahren; Zentrale Dienste,+41 26 305 23 43,willy.eyer@fr.ch,1,,Sektorchef Naturgefahren,FALSE,male
+511,Fähndrich,Gwendoline,Schulbauernhof von Sorens,+41 26 305 57 71,gwendoline.faehndrich@fr.ch,1,,Mitarbeiterin Landwirtschaftbetrieb Sorens,TRUE,female
+512,Fahrni,Alexandre,Sektion Gewässer,+41 26 305 37 40,alexandre.fahrni@fr.ch,1,,Sektionschef,FALSE,male
+513,Fahrni,Thérèse,Administration,+41 26 305 37 62,therese.fahrni@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+514,Fallarino,Daniela,Sekretariat,,daniela.fallarino@fr.ch,1,,Sekretär,FALSE,female
+515,Fardel,Léa,Landwirtschaftliches Beratungszentrum (LBZ),+41 26 305 58 67,lea.fardel@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+516,Fasel,Carmen,Kaufleute/Verkauf/Dekoration,+41 26 305 26 13,carmen.fasel@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+517,Fasel,Christophe,Abteilung Bauwesen,+41 26 305 47 26,christophe.fasel@fr.ch,1,,Mitarbeiter Barrierefreiheit,FALSE,male
+518,Fasel,Gilbert,Verwaltung - Sekretariat,+41 26 305 10 80,,0,,Dienstchef,FALSE,male
+519,Fasel,Markus,"Inspektorat für den deutschsprachigen obligatorischen Unterricht, Tafers",+41 26 305 40 87,markus.fasel@fr.ch,1,,Inspektor,FALSE,male
+520,Fasel,Nicolas,Sektor Natur und Landschaft,+41 26 305 51 85,nicolas.fasel@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+521,Fasel,Nicole,Sozialvorsorgeamt,+41 26 305 29 69,,0,,Verwaltungssachbearbeiterin,TRUE,female
+522,Fasel Berger,Sylvie,Westschweizer Regierungskonferenz; Konferenz kantonaler Volkswirtschaftsdirektoren Westschweiz,+41 26 305 51 00,sylvie.fasel@fr.ch,1,,Generalsekretärin,TRUE,female
+523,Fasel Gutknecht,Judith,Weiterbildung Hauswirtschaft,+41 26 305 58 54,judith.fasel@fr.ch,1,,Hauswirtschaftliche Beraterin,TRUE,female
+524,Fasel Jenny,Fabienne,Amt für Energie,+41 26 305 28 51,fabienne.faseljenny@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+525,Favre,Aline,Museum für Kunst und Geschichte,+41 26 305 51 40,,0,,Sekretärin,TRUE,female
+526,Favre,Christian,Aussenbeziehungen,+41 26 305 50 97,,0,,Verantwortlicher,FALSE,male
+527,Favre,Christophe,Amt für Statistik,+41 26 305 28 37,,0,,Wissenschaftlicher Mitarbeiter,FALSE,male
+528,FAVRE,Daniel,Landwirtschaft,+41 26 304 10 10,,0,,Fachmann für Justizvollzug,FALSE,male
+529,Favre,Emmanuelle,Abteilung Ortsplanung,+41 26 305 36 15,emmanuelle.favre@fr.ch,1,,Raumplanerin,TRUE,female
+530,Favre,Samuel,Strassenplanung,+41 26 305 36 67,samuel.favre@fr.ch,1,,Verwaltungsangestellter,FALSE,male
+531,Fazan,Alain,"CASEi, milchwirtschaftliche Beratung",+41 26 305 57 40,alain.fazan@casei.ch,1,,Käsereiberater,FALSE,male
+532,Fedrigo,Claudio,Kantons- und Universitätsbibliothek,+41 26 305 13 10,claudio.fedrigo@fr.ch,1,,Verantwortlicher für Bilddokumente,FALSE,male
+533,Feitknecht,Regula,Kantons- und Universitätsbibliothek,+41 26 305 13 09,Regula.Feitknecht@fr.ch,1,,Stellvertretende Direktorin,TRUE,female
+534,Fellay,Nicolas,Politische Rechte,+41 26 305 10 63,,0,,Verantwortlicher,FALSE,male
+535,Fernandes,Delphine,Amt für Statistik,+41 26 305 28 27,delphine.fernandes@fr.ch,1,,Technikerin Info-Center,TRUE,female
+536,Ferrari,Cyril,Amt für Energie,+41 26 305 24 46,,0,,Kaufmännischer Lernender,FALSE,male
+537,Ferrari,Estelle,CO de Domdidier,,secretariat@co-domdidier.ch,1,,Direktorin,TRUE,female
+538,Ferrari,Nicole,Oberamt des Glanebezirks,+41 26 305 95 04,,0,,Sekretärin,TRUE,female
+539,Fest,Jean-Pierre,Signalisation,+41 26 305 36 80,,0,,Technischer Sachbearbeiter,FALSE,male
+540,Fiorenza,Sigrid,"Signalisation; Lärmschutz, Gesamtkonzept und Gemeindestrassen",+41 26 305 36 84,sigrid.fiorenza@fr.ch,1,,Sekretärin,TRUE,female
+541,Fischer-Schafer,Yvette,Empfang - Sekretariat - Verwaltung,+41 26 305 41 20,fischery@fr.ch,1,,Sekretärin,TRUE,female
+542,Fleurent,Jonathan,Tierproduktion (TP),+41 26 305 58 81,jonathan.fleurent@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+543,Flores,Martine,Administration und Beglaubigungen,+41 26 305 10 45,,0,,Empfang,FALSE,female
+544,Flück,Anita,Weiterbildung Hauswirtschaft,+41 26 305 58 42,anita.flueck@fr.ch,1,,Hauswirtschaftliche Beraterin,TRUE,female
+545,Flückiger,Eva,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 51,eva.flueckiger@fr.ch,1,,Betriebsberaterin,TRUE,female
+546,Flückiger,Stephan,"RAV NORD / Seebezirk; RAV NORD / Broyebezirk, RAV NORD / Sensebezirk",+41 26 305 96 56,stephan.flueckiger@fr.ch,1,,Leiter Regionales Arbeitsvermittlungszentrum (RAV),FALSE,male
+547,Flückiger,Vanessa,Amt für Umwelt,+41 26 305 64 87,vanessa.flueckiger@fr.ch,1,,Juristin,TRUE,female
+548,Flury,Markus,Direktion,+41 26 305 65 10,FluryM@edufr.ch,1,,Vorsteher,FALSE,male
+549,Fohouo,Clyde,Sektor Technische Architektur,+41 26 305 70 32,,0,,Sektorchef,FALSE,male
+550,Folly,Catherine,Oberflächengewässer,+41 26 305 37 67,catherine.folly@fr.ch,1,,Verantwortliche Einzugsgebiet Oberflächengewässer,TRUE,female
+551,Folly,Dominique,Sektion Labor und Stoffe,+41 26 305 37 63,dominique.folly@fr.ch,1,,Sektionschef,FALSE,male
+552,Folly,Elise,Oberflächengewässer,+41 26 305 37 70,elise.folly@fr.ch,1,,Sektorchefin,TRUE,female
+553,Folly,Gaëlle,Schulgärten von Grangeneuve,+41 26 305 57 66,gaelle.folly@fr.ch,1,,Verkäuferin,TRUE,female
+554,Fontaine,Laurence,"PS Châbles, Cheyres",+41 77 526 28 22,direction.ep.chables@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+555,Fontannaz,Florence,Oberamt des Greyerzbezirks,+41 26 305 64 17,,0,,Juristin,TRUE,female
+556,Forclaz,Bertrand,Forschung und Entwicklung,+41 26 305 72 55,forclazB01@edufr.ch,1,,Forschungsmanager,FALSE,male
+557,Fornerod,Brigitte,Kaufleute/Verkauf/Dekoration,+41 26 305 25 97,brigitte.fornerod@edufr.ch,1,,Sektorchefin,TRUE,female
+558,Fracheboud,Danielle,Schulgärten von Grangeneuve,+41 26 305 57 66,Non renseigné,13,,Verkäuferin,TRUE,female
+559,Fracheboud,Pierre-André,Schulgärten von Grangeneuve,+41 26 305 57 66,Pierre-Andre.Fracheboud@fr.ch,1,,Chef des Gemüse- und Blumenbaubetriebs,FALSE,male
+560,Fragnière,Claude,Direktion,+41 26 305 65 12,FragniereC@edufr.ch,1,,Vorsteher,FALSE,male
+561,Fragnière,Jacqueline,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 00,jacqueline.fragniere@fr.ch,1,,Sekretariat - Anmeldung,FALSE,female
+562,Fragnière,Philippe,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 83,philippe.fragniere@cpi.ch,1,,Verwaltungsadjunkt,FALSE,male
+563,Fragnière,Philippe,PS Grandvillard-Bas-Intyamon,+41 79 374 47 93,direction.ep.geve@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+564,Fragnière,Philippe,PS Haut-Intyamon,+41 26 921 26 60,direction.ep.haut-intyamon@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+565,Fragnière,Yann,Sektor Wald,+41 26 305 23 43,yann.fragniere@fr.ch,1,,"Wissenschaftlicher Mitarbeiter, asiatischen Laubholzkäfers",FALSE,male
+566,Fragnière-Cardinaux,Nathalie,Sekretariat,+41 26 305 37 91,nathalie.fragniere@fr.ch,1,,Sekretärin,TRUE,female
+567,Frangoulis,Danaé,Generalsekretariat,+41 26 305 36 04,danae.frangoulis@fr.ch,1,,Juristische Beraterin,TRUE,female
+568,Freiburghaus,Claude,Weibeldienst,+41 26 305 10 60,,0,,Verantwortlicher,FALSE,male
+569,Fretz,Alain,Museum für Kunst und Geschichte,+41 26 305 51 51,,0,,Restaurator,FALSE,male
+570,Frioud,Jacques,Sektor Natur und Landschaft,+41 26 305 51 87,jacques.frioud@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+571,Froidevaux,Philippe,Fachstelle Fritic,+41 26 305 72 60,philippe.froidevaux@fr.ch,1,,Direktor,FALSE,male
+572,Frossard Ménétrey,Caroline,Westschweizer Regierungskonferenz,+41 26 305 51 05,caroline.frossardmenetrey@fr.ch,1,,Direktionssekretärin,TRUE,female
+573,Fürst,Eva,Tierproduktion (TP),+41 26 305 58 95,eva.fuerst@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+574,Gabriel,Evelyne,Weiterbildung Hauswirtschaft,+41 26 305 58 56,evelyne.gabriel@fr.ch,1,,Hauswirtschaftliche Beraterin,TRUE,female
+575,Gachet,Alexandre,Rektorat,+41 26 300 72 44,alexandre.gachet@unifr.ch,1,,IT Direktor,FALSE,male
+576,Gachet,Béatrice,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML N - Berufe Hauswirtschaft)",+41 26 305 56 29,beatrice.gachet@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+577,Gachet,Delphine,Amt für Kultur,+41 26 305 46 27,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+578,Gachet,Lucien,FRee Trading,,,0,,Auszubildender,FALSE,male
+579,Gachet,Malorie,PS Riaz,+41 26 912 60 75,direction.ep.riaz@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+580,Gachoud,Oriane,Abteilung Strafsachen,+41 26 305 22 80,,0,,Verwaltungsangestellte,FALSE,female
+581,Gaertner,Dominique,Landwirtschaftliche Entwicklung,+41 26 305 22 96,dominique.gaertner@fr.ch,1,,Güterzusammenlegungen - Wege,FALSE,male
+582,Gagnaux,Sarah,Direktzahlungen,+41 26 305 22 59,sarah.gagnaux@fr.ch,1,,"Regionalverantwortliche Südlicher Glanebezirk, Veveyse Nord und Oberer Saanebezirk",FALSE,female
+583,Gagnaux-Morel,Danielle,Staatskanzlei; Sekretariat des Staatsrats,+41 26 305 10 40,danielle.gagnaux-morel@fr.ch,1,,Staatskanzlerin,TRUE,female
+584,Gaiardo,Géraldine,Zahnprophylaxe,+41 26 305 98 00,,0,,Zahnprophylaxe,FALSE,female
+585,Gaillard,Nicole,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 73 94,nicole.gaillard@fr.ch,1,,Amt für französischsprachigen obligatorischen Unterricht,FALSE,female
+586,Gaillard Zenger,Patricia,Schulinspektorat,+41 26 305 73 81,patricia.gaillardzenger@fr.ch,1,,Schulinspektorin,TRUE,female
+587,Gaillet,Hervé,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 13,herve.gaillet@fr.ch,1,,"Lehrer, verantwortlicher BS LT",FALSE,male
+588,Gajardo,Paola,Abteilung Bauwesen,+41 26 305 36 13,paola.gajardo@fr.ch,1,,Adjunktin des Sektionschefs,TRUE,female
+589,Galley,Christian,Pflegeheime für Betagte,+41 26 305 29 81,,0,,Adjunkt des Amtsvorstehers und Sektorchef,FALSE,male
+590,Galley,Michaël,Kantonale Lehrmittelverwaltung,+41 26 305 45 15,,0,,"Wareneingang, Lager und Vertrieb",TRUE,male
+591,Galley,Sandra,Rechtsberatung und Streitsachen,+41 26 305 12 21,Sandra.Galley@fr.ch,1,,Juristische Beraterin,TRUE,female
+592,Gambera,Giuseppe,SIERA,+41 26 305 44 43,,0,,Leiter der Zentren,FALSE,male
+593,Gamez-Rumpf,Alexandra,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 304 13 59,alexandra.gamez-rumpf@fr.ch,1,,Lehrerin BHML,TRUE,female
+594,Gander,Denis,Bereich Management,+41 26 305 25 71,ganderd@edufr.ch,1,,Contrôleur de gestion assurance qualité,FALSE,male
+595,Gander,Frédéric,Schulinspektorat,+41 26 305 73 83,frederic.gander@fr.ch,1,,Schulinspektor des 1.Kreises,TRUE,male
+596,Gantner,Marie-Christine,Direktion und Sekretariat,+41 26 305 24 93,marie.gantner@edufr.ch,1,,Direktionssekretärin,TRUE,female
+597,Gapany,Chantal,Behörde für Grundstückverkehr,+41 26 305 22 52,,0,,Verwaltungssachbearbeiterin,TRUE,female
+598,Gapany,Christian,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 19,gapanyc@edufr.ch,1,,Abteilungsvorsteher E,FALSE,male
+599,Gapany,Nathalie,Oberamt des Greyerzbezirks,+41 26 305 64 04,nathalie.gapany@fr.ch,1,,Sekretärin,TRUE,female
+600,Garcea,Ligia,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Zahnärztin,TRUE,female
+601,Garcia,Benoît,Vereinigung des Kantonalen Berufsbildungszentrums,+41 26 305 25 00,benoit.garcia@edufr.ch,1,,Technischer Mitarbeiter-Assistent,FALSE,male
+602,Gaschen,Anna,Oberamt des Seebezirks,+41 26 305 90 74,Anna.Gaschen@fr.ch,1,,Buchhaltungssekretärin,TRUE,female
+603,Gashi,Feime,Kantonale Lehrmittelverwaltung,+41 26 305 13 97,,0,,Technisches Gestalten,FALSE,female
+604,Gasser,Benjamin,"Französischsprachige Lehrpersonen des Kindergartens, der Primar- und Sonderschulen; Französischsprachige Lehrpersonen der Orientierungsschule",+41 26 305 12 37,,0,,Stellvertretender Dienstchef,FALSE,male
+605,Gasser,Stephan,Museum für Kunst und Geschichte,+41 26 305 51 65,,0,,Konservator,FALSE,male
+606,Gasser Gaillard,Floriane,Generalsekretariat,+41 26 305 12 19,floriane.gasser@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+607,Gattlen,Serge,Verwaltung,+41 26 305 82 47,serge.gattlen@fr.ch,1,,Techniker Info-Center,FALSE,male
+608,Gauch,Anne-Sylvie,Finanzverwaltung (FiVe),+41 26 305 36 71,anne-sylvie.gauch@fr.ch,1,,Buchhaltungsangestellte,FALSE,female
+609,Gauderon,Caroline,Grundbuchamt des Saanebezirks,+41 26 305 35 85,caroline.gauderon@fr.ch,1,,Grundbuchverwalterin-Adjunktin,TRUE,female
+610,Gauderon Waeber,Simone,Oberamt des Sensebezirks,+41 26 305 74 39,Simone.GauderonWaeber@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+611,Gautier,Charlotte,Abteilung Ortsplanung,+41 26 305 61 51,charlotte.gautier@fr.ch,1,,Sektionschefin,TRUE,female
+612,Gauye,Marie-Sophie,Kantons- und Universitätsbibliothek,+41 26 305 13 35,marie-sophie.gauye@fr.ch,1,,Stellvertreterin Sektorchef Katalogisierung,TRUE,female
+613,Gavillet,Stéphane,Tätigkeitsgebiet: Justiz und Sicherheit,,,0,,Projektleiter,FALSE,male
+614,Gay,François,Sektor Natur und Landschaft,+41 26 305 51 86,francois.gay@fr.ch,1,,GIS-Verantwortlicher,FALSE,male
+615,Gebremedhin,Hewan,Sektor Gebäudeunterhalt,,Hewan.Gebremedhin@fr.ch,1,,Lehrling Kauffrau,TRUE,female
+616,Gendre,Claude,Ausführung,+41 26 305 36 79,claude.gendre@fr.ch,1,,Bauführer,FALSE,male
+617,Gendre,Mathieu,"PS Villaz-St-Pierre, La Folliaz",+41 26 552 55 40,direction.ep.lafolliaz@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+618,Gendre,Yvan,1. Forstkreis,+41 26 305 56 50,yvan.gendre@fr.ch,1,,Försteradjunkt,FALSE,male
+619,Genilloud,Claude,PS Bulle - Vudalla,+41 26 919 49 37,direction.ep.bulle.vudalla@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+620,Genoud,Anita,4. Forstkreis,+41 26 305 95 30,anita.genoud@fr.ch,1,,Sekretärin,TRUE,female
+621,Genoud,Benoît,"CASEi, milchwirtschaftliche Beratung",+41 26 305 57 40,benoit.genoud@fr.ch,1,,Milchproduzentenberater,FALSE,male
+622,Genoud,François,Oberamt des Vivisbachbezirks,+41 26 305 94 10,francois.genoud@fr.ch,1,,Oberamtmann,FALSE,male
+623,Genoud,François,Direktion,+41 26 305 99 01,GenoudFr@edufr.ch,1,,Rektor,FALSE,male
+624,Genoud,Gilles,Schulgärten von Grangeneuve,+41 26 305 57 98,gilles.genoud@fr.ch,1,,Gemüse- Blumengärtner,FALSE,male
+625,Genoud,Robert,4. Forstkreis,+41 26 305 95 30,robert.genoud@fr.ch,1,,Försteradjunkt,FALSE,male
+626,Gerber,Emanuel,Naturhistorisches Museum,+41 26 305 89 11,,0,,Stellvertretender Direktor,FALSE,male
+627,Gerber,Sandra,Generalsekretariat,+41 26 305 12 08,sandra.gerber@fr.ch,1,,Direktionssekretärin,TRUE,female
+628,Gerber,Sonja,Generalsekretariat,+41 26 305 36 04,Sonja.Gerber@fr.ch,1,,Juristische Beraterin,TRUE,female
+629,Gerosa,Giancarlo,Konservatorium,+41 26 305 99 55,,0,,Direktor,FALSE,male
+630,Gfeller Laban,Barbara,"Sektion UVP, Bodenschutz und Anlagensicherheit",+41 26 305 51 97,barbara.gfeller@fr.ch,1,,Sektionschefin,TRUE,female
+631,Giaccone,Alessandro,Schulzahnpflegedienst,+41 26 305 98 00,,0,,Verwaltungssachbearbeiter,FALSE,male
+632,Gigon,François,Amt für Vermessung und Geomatik,+41 26 305 35 56,francois.gigon@fr.ch,1,,Dienstchef,FALSE,male
+633,Gilliand,Jean-Daniel,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 40,jean-daniel.gilliand@fr.ch,1,,Landwirtschaftlicher Buchhalter,FALSE,male
+634,Gillot,Jean-François,Überwachung und Planung von Kunstbauten,+41 26 305 36 82,jean-francois.gillot@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+635,Giovannangelo,Sonja,Wohnungsamt,+41 26 305 24 13,sonja.giovannangelo@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+636,Girard,Céline,Amt für Umwelt,+41 26 305 69 99,celine.girard@fr.ch,1,,Verantwortliche für den Klimaplan,FALSE,female
+637,Girard,Yvan,CO de Sarine Ouest,,Non renseigné,14,,Direktor,FALSE,male
+638,Giriens,Sophie,Naturhistorisches Museum,+41 26 305 89 10,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+639,Giroud,Fiona,Generalsekretariat,+41 26 305 21 94,,0,,Juristische Beraterin,TRUE,female
+640,Giroud,Marie-Gabrielle,Konservatorium,+41 26 305 99 42,,0,,Anmeldung - Sekretariat,FALSE,female
+641,Gisler,Benoît,Amt für Sport,+41 26 305 12 60,,0,,Dienstchef,FALSE,male
+642,Glannaz,Samuel,PS Fribourg-Schoenberg,+41 79 663 90 35,direction.ep.fribourg.heitera@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+643,Glasson,Marie,Gartenbau/Lebensmittel/Holz/Berufsmaturität,+41 26 305 24 96,marie.glasson@edufr.ch,1,,Sektorchefin,TRUE,female
+644,Glasson,Sophie,Eikon - Berufsfachschule für Gestaltung,+41 26 305 46 86,glassons@edufr.ch,1,,Sekretariat,FALSE,female
+645,Gmehlin,Fabienne,Kieferorthopädische Klinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+646,Gobet,Delphine,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+647,Gobet,Françoise,Kantonale Lehrmittelverwaltung,+41 26 305 13 97,,0,,Technisches Gestalten,FALSE,female
+648,Gobet,Sandra,Sektor Verwaltung und Finanzen,+41 26 305 23 43,sandra.gobet@fr.ch,1,,Buchhaltungsangestellte,FALSE,female
+649,Gobet,Sylvianne,Medien und Information,,,0,,Fachfrau Information und Dokumentation,FALSE,female
+650,Godel,Daphnée,Weiterbildung,+41 26 305 72 08,godeld@edufr.ch,1,,Adjunktin,TRUE,female
+651,Godel,Georges,Generalsekretariat,+41 26 305 31 00,georges.godel@fr.ch,1,,"Staatsrat, Direktor",FALSE,male
+652,Godel,Georges,Mitglieder des SR,+41 26 305 31 00,,0,,Staatsrat - Finanzdirektion,TRUE,male
+653,Golliard,Françoise,Finanzinspektorat,+41 26 305 31 40,francoise.golliard@fr.ch,1,,Sekretariat,FALSE,female
+654,Gomes de Brito,Bryan,Generalsekretariat,+41 26 305 28 28,bryan.gomesdebrito@fr.ch,1,,Kaufmännischer Lernender,FALSE,male
+655,Good,Martin,Kantons- und Universitätsbibliothek,+41 26 305 13 05,Martin.Good@fr.ch,1,,Direktor,FALSE,male
+656,Gothuey-Lehmann,Chantal,Buchhaltung,+41 26 305 38 00,chantal.gothuey@fr.ch,1,,Chefbuchhalterin,TRUE,female
+657,Graf,Tobias,Grund und Trinkwasser,+41 26 305 37 55,tobias.graf@fr.ch,1,,Verantwortlicher Einzugsgebiet Grundwasser,TRUE,male
+658,Graham,Christine,Direktion - Verwaltung,+41 26 305 71 02,grahamc@edufr.ch,1,,Personaldienst,FALSE,female
+659,Grand,Claude,GIS-Kompetenzzentrum (GISKZ),+41 26 305 35 50,claude.grand@fr.ch,1,,Übersichtsplan,FALSE,male
+660,Grand,Julien,Museum für Kunst und Geschichte,+41 26 305 51 50,,0,,Hauswart,FALSE,male
+661,Grand,Sandrine,Direktion - Verwaltung,+41 26 305 71 22,grands@edufr.ch,1,,Verwaltung/Infrastrukturen,FALSE,female
+662,Grandgirard,Raphaël,Pflanzenbau (PB),+41 26 305 58 44,raphael.grandgirard@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+663,Grandgirard,Vincent,GIS-Kompetenzzentrum (GISKZ); Amt für Vermessung und Geomatik,+41 26 305 31 77,Vincent.Grandgirard@fr.ch,1,,GIS-Koordinator,TRUE,male
+664,Grandjean,Alexandre,Generalsekretariat,+41 26 305 29 03,,0,,Juristischer Berater,FALSE,male
+665,Grandjean,Anne,Finanzplanung und Budgetkontrolle,+41 26 305 31 26,,0,,Chefin Finanzplanung und Budgetkontrolle,TRUE,female
+666,Grandjean,Françoise,"PS Auboranges, Chapelle, Ecublens, Rue, Promasens",+41 21 909 00 29,direction.ep.rue@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+667,Grandjean,Jacques,Sektion Labor und Stoffe,+41 26 305 37 72,jacques.grandjean@fr.ch,1,,Probenahmen,FALSE,male
+668,Grandjean,Maurice,Schulbauernhof von Sorens,+41 26 305 57 71,ferme.abbaye@bluewin.ch,1,,Mitarbeiter Landwirtschaftsbetrieb Sorens,FALSE,male
+669,Grandjean,Pierre-Emmanuel,Fachstelle Fritic,+41 26 305 72 67,pierreemmanuel.grandjean@edufr.ch,1,,Pädagogischer Mitarbeiter,FALSE,male
+670,Greco,Giuseppina,Generalsekretariat,+41 26 305 14 69,,0,,Delegierte für die Integration der Migrantinnen und Migranten,TRUE,female
+671,Gremaud,Gilles,"Tätigkeitsgebiet: Landwirtschaft, Kanzlei, Legislative, Raumordnung & Gesundheit",,,0,,Projektleiter,FALSE,male
+672,Gremaud,Jacqueline,Weiterbildung,+41 26 305 71 59,gremaudj@edufr.ch,1,,Berufseinführung,TRUE,female
+673,Gremaud,Stéphane,CO de Marly,,,0,,Direktor,FALSE,male
+674,Gremaud,Verena,Amt für Universitätsfragen,+41 26 305 12 49,verena.gremaud@fr.ch,1,,Adjunktin des Dienstchefs,TRUE,female
+675,Gremion,Claudine,Amt für Sonderpädagogik (SoA),+41 26 305 40 55,claudine.gremion@fr.ch,1,,Pädagogische Mitarbeiterin,TRUE,female
+676,Gremion,Pascal,Direktion - Verwaltung,+41 26 305 71 08,gremionp@edufr.ch,1,,Hauswart,FALSE,male
+677,Grin,Sarah,Kantons- und Universitätsbibliothek,+41 26 305 13 30,Sarah.Grin@fr.ch,1,,Stellvertreterin Sektorchef Katalogisierung,TRUE,female
+678,Grindat,Markus,Amt für Sonderpädagogik (SoA),+41 26 305 40 61,markus.grindat@fr.ch,1,,Psychologin,TRUE,male
+679,Grivet,Nathalie,1. Forstkreis,+41 26 305 56 50,nathalie.grivet@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+680,Gross,Natascha,Technische Abteilung,+41 26 305 59 78,natascha.gross@fr.ch,1,,Architektin,TRUE,female
+681,Gross,Olivier,Mobile Einheit,+41 26 305 40 91,olivier.gross.senof@fr.ch,1,x,Verwaltungsangestellter,FALSE,male
+682,Gross,Olivier,Mobile Einheit,+41 26 305 40 91,olivier.gross.senof@fr.ch,2,x,Verwaltungsangestellter,FALSE,male
+683,Grosset,Manuella,Sekretariat des Grossen Rates,+41 26 305 10 50,manuella.grosset@fr.ch,1,,Weibelin des Grossen Rates,TRUE,female
+684,Grossrieder,Joël,Pflanzenbau (PB),+41 26 305 58 69,joel.grossrieder2@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+685,Gruber,Véronique,Wirtschaftsförderung Kanton Freiburg,+41 26 304 14 07,,0,,Projektleiterin,TRUE,female
+686,Grützmacher,Barbara,Kantonsarztamt,+41 26 305 79 91,,0,,Médecin cantonale adjointe,TRUE,female
+687,Guadagnuolo,Roberto,Kantonschemiker und Lebensmittelsicherheit; Amt für Lebensmittelsicherheit und Veterinärwesen,+41 26 305 80 11,,0,,Stv. Kantonschemiker,FALSE,male
+688,Guex,Joëlle,Sektion Labor und Stoffe,+41 26 305 37 69,joelle.guex@fr.ch,1,,Fachlaborantin,TRUE,female
+689,Gugler-Riedo,Anita,Empfang - Sekretariat - Verwaltung,+41 26 305 41 20,GuglerA@edufr.ch,1,,Sekretärin,TRUE,female
+690,Guignard,Gilles,"Sektion UVP, Bodenschutz und Anlagensicherheit",+41 26 305 64 96,gilles.guignard@fr.ch,1,,"StFV, UVP",FALSE,male
+691,Guignard,Olivier,Informatikdienst,+41 26 305 57 34,olivier.guignard@fr.ch,1,,Verantwortlicher der Informatik,FALSE,male
+692,Guillet,Maurice,Stab,+41 26 305 22 20,Maurice.Guillet@fr.ch,1,,Vizeoberamtmann,FALSE,male
+693,Guisolan,Christian,Berufsfachschule,+41 26 305 26 67,guisolanch@edufr.ch,1,,Doyen section Informatique,FALSE,male
+694,Guisolan,Denise,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 64,denise.guisolan@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+695,Guisolan,Laurent,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 58,laurent.guisolan@fr.ch,1,,Verant. Berufsbildungsamt Berufsfeld Landwirtschaft / Chef der landwirtschaftlichen Betriebe,FALSE,male
+696,Guisolan,Valentin,Amtliche Vermessung (AV),+41 26 305 35 63,Guisolan.Valentin@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+697,Guisolan-Dreyer,Colette,Museum für Kunst und Geschichte,+41 26 305 51 49,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+698,Guldin,Philippe,Frima Centre de formation,,philippe.guildin@cpi.ch,1,,Ausbildner,FALSE,male
+699,Gumy,Catherine,PS Villars-sur-Glâne - Villars-Vert,+41 26 408 32 59,direction.ep.villars-vert@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+700,GUMY,Frédéric,Verwaltung und Empfang,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+701,Haarpaintner-Sturny,Cornelia,Direktion - Verwaltung,+41 26 305 71 02,HaarpaintnerStuC@edufr.ch,1,,Personaldienst,FALSE,female
+702,Häberli,Martin,Pflanzenbau (PB),+41 26 305 58 50,martin.haeberli@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+703,Haering,Corinne,Amt für Landwirtschaft; Allgemeine Dienste,+41 26 305 23 02,corinne.haering@fr.ch,1,,Buchhalterin,TRUE,female
+704,Hamel,Fabien,GIS-Kompetenzzentrum (GISKZ),+41 26 305 85 66,Fabien.Hamel@fr.ch,1,,Analytiker-Programmierer,FALSE,male
+705,Hamm,Marie-Stéphanie,PS Courtion,+41 26 475 46 16,direction.ep.courtion@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+706,Hänni,Simon,Direktzahlungen,+41 26 305 21 98,simon.haenni@fr.ch,1,,Regionalverantwortlicher Oberer Sensebezirk,FALSE,male
+707,Hartmann,Géraldine,Grundbuchamt des Saanebezirks,+41 26 305 35 70,geraldine.hartmann@fr.ch,1,,Juristin,TRUE,female
+708,Haslebacher,Jacqueline,Sekretariat,+41 26 305 35 56,Jacqueline.Haslebacher@fr.ch,1,,Sekretariat,FALSE,female
+709,Häussler,Marcel,Abteilung kantonale Planung,+41 26 305 61 57,marcel.haeussler@fr.ch,1,,DATEC Administrator,TRUE,male
+710,Hauswirth,Urs,Amtliche Vermessung (AV),+41 26 305 35 61,Urs.Hauswirth@fr.ch,1,,Verifikation der Mutationen,FALSE,male
+711,Hayoz,Christophe,Sektor Gebäudeunterhalt,+41 26 305 38 02,christophe.hayoz@fr.ch,1,,Elektriker,FALSE,male
+712,Hayoz,Corinne,Verwaltung; Logistik,+41 26 305 11 11,corinne.hayoz@fr.ch,1,,Auskünfte; Receptionistin-Telefonistin,TRUE,female
+713,Hayoz,Jean-François,Schulbauernhof von Sorens,+41 26 305 57 70,jean-francois.hayoz@fr.ch,1,,Verantortlicher Schulbauernhof Sorens a.i.,FALSE,male
+714,Hayoz,Mireille,Sekretariat des Grossen Rates,+41 26 305 10 52,mireille.hayoz@fr.ch,1,,Generalsekretärin,TRUE,female
+715,Hayoz,Patrick,Druckerei,+41 26 305 10 87,,0,,Technischer Sachbearbeiter,FALSE,male
+716,Hayoz,Patrick,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 32,patrick.hayoz2@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+717,Hayoz-Sauterel,Nadia,Oberamt des Sensebezirks,+41 26 305 74 36,Nadia.Hayoz@fr.ch,1,,Verwaltungsadjunkt,FALSE,female
+718,Heckly,Claude,Bildungszentrum für Naturberufe (BZNB),+41 26 304 13 72,claude.heckly@fr.ch,1,,Abteilungsvorsteher und Berufsschullehrer,FALSE,male
+719,Hefti,Linda,Amt für Sport,+41 26 305 12 67,,0,,Verwaltungsangestellte,FALSE,female
+720,Hejda,Jean-Noël,Lärm und nichtionisierende Strahlung (NIS),+41 26 305 64 93,jean-noel.hejda@fr.ch,1,,Sektorchef,FALSE,male
+721,Helfer,Pascal,Strassenplanung,+41 26 305 36 62,pascal.helfer@fr.ch,1,,Projektleiter,FALSE,male
+722,Hemmer,Sarah,Sektion Verwaltung,+41 26 305 37 99,Sarah.Hemmer@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+723,Henguely,Florence,Kantonale Behörde für Öffentlichkeit und Datenschutz,+41 26 305 59 74,,0,,Datenschutzbeauftragte ad interim,TRUE,female
+724,Herbettaz,Sylvie,Sektor Gebäudeunterhalt,+41 26 305 37 94,sylvie.herbettaz@fr.ch,1,,Verwalterin,TRUE,female
+725,Herrbach,Catherine,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+726,Herren,Hans Jürg,Kantonale Ausgleichskasse AH/IV/EO; Kantonale Sozialversicherungsanstalt,+41 26 305 52 70,,0,,Direktor,FALSE,male
+727,Herren,Mélanie,Abteilung Bauwesen,+41 26 305 36 31,melanie.herren@fr.ch,1,,Architektin,TRUE,female
+728,Heyer,Jonathan,Pflanzenbau (PB),+41 26 305 58 71,jonathan.heyer@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+729,Hijazi,Sali,Zahnklinik Bulle; Zahnklinik Freiburg,+41 26 305 98 60,,0,,Zahnärztin,TRUE,male
+730,Hitz Mourad,Anya,Case management,+41 26 305 28 61,hitzmourada@edufr.ch,1,,Case Managerin,TRUE,female
+731,Hochstrasser,Gabriela,Freiburgisches Agro-Lebensmittellabor,+41 26 305 57 34,gabriela.hochstrasser@fr.ch,1,,Laborantin,TRUE,female
+732,Hodel,Michael,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 26,michael.hodel@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+733,Hogg,Xavier,Technischer Dienst,+41 26 305 55 07,xavier.hogg@fr.ch,1,,Chef Technischer Dienst,FALSE,male
+734,Holzer,Patricia,Amt für Energie,+41 26 305 28 43,patricia.holzer@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+735,Horner,Alexandre,Direktion,+41 26 305 55 55,alexandre.horner@fr.ch,1,,Chef des Bildungszentrums für Naturberufe,FALSE,male
+736,Hostettler,Ghislaine,PS Villars-sur-Glâne - Rochettes,+41 26 408 32 78,direction.ep.rochettes@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+737,Huber,Evelyne,Sektor Pflege,+41 26 305 79 87,,0,,Pflegefachfrau - Sektorchefin,TRUE,female
+738,Hug,Eliane,Handelsregisteramt,+41 26 305 30 98,eliane.hug@fr.ch,1,,Verwaltungsangestellte,FALSE,female
+739,Humbel,Nadia,Abteilung Einbürgerungen,+41 26 305 14 24,nadia.humbel@fr.ch,1,,Ermittlerin,TRUE,female
+740,Humbert,Bertrand,Neue Instrumente für das Finanzmanagement,+41 26 305 31 34,bertrand.humbert@fr.ch,1,,Sektorchef,FALSE,male
+741,Humbert,François-Lionel,Tierproduktion (TP),+41 26 305 58 23,francois-lionel.humbert@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+742,Hungerbühler,Ivan,Landwirtschaftliche Entwicklung,+41 26 305 22 54,ivan.hungerbuehler@fr.ch,1,,Raumplanung - Baubewilligungen,FALSE,male
+743,Imhof,Bettina,Mobile Einheit,+41 26 305 40 72,bettina.imhof@fr.ch,1,x,Mitarbeiterin,TRUE,female
+744,Imhof,Bettina,Mobile Einheit,+41 26 305 40 72,bettina.imhof@fr.ch,2,x,Verwaltungsangestellte,FALSE,female
+745,Imhof,Laura,Grundbuchamt des Seebezirks,+41 26 305 90 36,,0,,Adjunktin,TRUE,female
+746,Imperiale,Michel,Invalidenversicherungsstelle,+41 26 305 52 27,michel.imperiale@fr.oai.ch,1,,Direktionsadjunkt; Sektionschef berufliche Eingliederung,TRUE,male
+747,Inderwildi,Frédéric,französische Abteilung,+41 26 305 71 15,inderwildif@edufr.ch,1,,Dekan,FALSE,male
+748,Ingold,Rolf,Rektorat,+41 26 300 84 66,rolf.ingold@unifr.ch,1,,Vizerektor,FALSE,male
+749,Issa,Bassel,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 67,,0,,Kaufmännischer Lernender,FALSE,male
+750,Jacobi,Roxanne,Abteilung kantonale Planung,+41 26 305 47 29,roxanne.jacobi@fr.ch,1,,Raumplanerin,TRUE,female
+751,Jacquaz,Jean-Yves,Technischer Dienst,+41 26 305 57 90,jean-yves.jacquaz@fr.ch,1,,Stellvertretender Chef Technischer Dienst,FALSE,male
+752,Jacquaz-Ayer,Stéphanie,Kantonale Lehrmittelverwaltung,+41 26 305 13 98,,0,,Lehrmittel und Schulmaterial,FALSE,female
+753,Jaquet,Christian,Wasserbau und Unterhalt,+41 26 305 38 33,christian.jaquet@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+754,Jaquet,Hervé,PS Vuadens,,direction.ep.vuadens@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+755,Jaquet,Marie-José,Französischsprachige Lehrpersonen der Orientierungsschule,+41 26 305 12 56,,0,,Sekretärin,TRUE,female
+756,Jaquet,Marjorie,Invalidenversicherungsstelle,+41 26 305 52 05,marjorie.jaquet@fr.oai.ch,1,,Sektionschefin Gesuchverwaltung IV,TRUE,female
+757,Jaquet,Sylvain,Abteilung kantonale Planung,+41 26 305 47 25,sylvain.jaquet@fr.ch,1,,Geologe,FALSE,male
+758,Jaquier,Jean-Claude,Sektor Gebäudeunterhalt,,,0,,Logistikverantwortlicher,FALSE,male
+759,Jaquier,Marie-Claire,Pädagogische Berater/innen,+41 26 305 73 61,marie-claire.jaquier@fr.ch,1,,Französisch 1. Zyklus,FALSE,female
+760,Jaquier,Maxime,Personaldienst,+41 26 305 97 07,maxime.jaquier@fr.ch,1,,Personaldienst,FALSE,male
+761,Javet,Crystelle,Generalsekretariat,+41 26 305 36 04,,0,,Juristischer Praktikant,FALSE,female
+762,Javet,Manuela,Freiburgisches Agro-Lebensmittellabor,+41 26 305 57 12,Manuela.Javet@fr.ch,1,,Laborverantwortlicher,FALSE,female
+763,Javet,Mary-Florence,Strassenplanung,+41 26 305 36 90,mary-florence.javet@fr.ch,1,,Projektleiterin,TRUE,female
+764,Jayme,Gabrielle,TRE Centre de formation,+41 26 304 13 23,gabrielle.jayme@cpi.ch,1,,Responsable de mesure,FALSE,female
+765,Jeckelmann,Laurence,Fachstelle Fritic,+41 26 305 72 61,Laurence.Jeckelmann@edufr.ch,1,,Sekretariat,FALSE,female
+766,Jeckelmann,Lydia,Oberamt des Sensebezirks,+41 26 305 74 35,Lydia.Jeckelmann@fr.ch,1,,Sekretärin,TRUE,female
+767,Jenni,Aline Muriel,Generalsekretariat,+41 26 305 14 87,,0,,Übersetzerin,TRUE,female
+768,Jenni,Robert,3. Forstkreis,+41 26 305 23 61,robert.jenni@fr.ch,1,,Stellvertretender Forstingenieur,TRUE,male
+769,Jenny,Stéphane,PS Villars-sur-Glâne - Platy,+41 26 408 32 41,direction.ep.platy@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+770,Jenny-Fuchs,Elisabeth,Amt für Sonderpädagogik (SoA),+41 26 305 40 58,elisabeth.jenny-fuchs@fr.ch,1,,Pädagogische Mitarbeiterin,TRUE,female
+771,Jobin,Amélie,Rechtsdienst und verwaltung,+41 26 305 22 62,amelie.jobin2@fr.ch,1,,Sekretärin,TRUE,female
+772,Joerin,Christophe,Amt für Umwelt,+41 26 305 37 50,christophe.joerin@fr.ch,1,,Dienstchef,FALSE,male
+773,Jolliet,Patrick,Konservatorium,+41 26 305 99 64,,0,,Hauswart,FALSE,male
+774,Jorand,Prisca,Sportarten,+41 26 413 18 55,Non renseigné,15,,Fitness,FALSE,female
+775,Joray,Samuel,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 06,samuel.joray@fr.ch,1,,Verantwortlicher Unternehmenstrategie & Gemeinschaftsprojekte / Stellvertreter der Chefin des CCA,TRUE,male
+776,Jordan,Carole,Öffentliche Gewässer,+41 26 305 37 41,carole.jordan@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+777,Jordan,Martin,Bildungszentrum für Naturberufe (BZNB),+41 26 305 59 32,martin.jordan@fr.ch,1,,Lehrer,FALSE,male
+778,Jordan,Philippe,Amt für französischsprachigen obligatorischen Unterricht,+41 26 652 23 19,philippe.jordan@fr.ch,1,,Pädagogischer Mitarbeiter,FALSE,male
+779,Jordan,Samuel,Generalsekretariat,+41 26 305 47 58,,0,,Adjunkt der Delegierten für die Integration der Migrantinnen und Migranten,TRUE,male
+780,Jordan,Valérie,Verwaltung - Sekretariat,+41 26 305 10 82,,0,,Sekretariat - Anmeldung,FALSE,female
+781,Jordi,Jasmin,Pflanzenbau (PB),+41 26 305 58 31,jasmin.jordi@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,female
+782,Jörg,Monika,Medien und Information,+41 26 305 72 30,joergm@edufr.ch,1,,Adjunktin,TRUE,female
+783,Jossen,Daniel,Direktion,+41 26 305 21 57,jossend@edufr.ch,1,,Vorsteher,FALSE,male
+784,Joye,Jean-Claude,Werkhof Tour Rouge,+41 26 305 36 98,jean-claude.joye@fr.ch,1,,Werkmeister; ad intérim Zentrumschef,TRUE,male
+785,Joye,Yannick,Zivilstandsamt Broye,+41 26 305 75 44,yannick.joye@fr.ch,1,,Kant. Zivilstandbeamter,FALSE,male
+786,Julmy,Alain,Pförtnerstelle,+41 26 305 79 05,JulmyA@edufr.ch,1,,Stellvertretender Hauswart,FALSE,male
+787,Julmy,Catherine,Amt für Sport,+41 26 305 12 65,,0,,Höhere Verwaltungssachbearbeiterin,TRUE,female
+788,Julmy,Fabienne,Kollegium Gambach,+41 26 305 79 11,JulmyF@edufr.ch,1,,Sekretär,FALSE,female
+789,Julmy,Isabelle,Berufsfachschule Soziales-Gesundheit,+41 26 305 56 27,julmyi@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+790,Julmy,Stéphanie,Generalsekretariat,+41 26 305 14 66,,0,,Verwaltungssachbearbeiterin,TRUE,female
+791,Jungo,Christophe,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 91,christophe.jungo@fr.ch,1,,Lehrer,FALSE,male
+792,Jungo,Markus,Amtliche Vermessung (AV),+41 26 305 35 47,markus.jungo.scg@fr.ch,1,,Verifikation Vermessungen,FALSE,male
+793,Jungo-Gachet,Marie,SIERA,+41 26 305 37 19,marie.jungo@fr.ch,1,,Sekretärin,TRUE,female
+794,Jurot,Romain,Kantons- und Universitätsbibliothek,+41 26 305 13 45,romain.jurot@fr.ch,1,,"Sektorchef, Handschriften, Inkunabeln und Archivalien",FALSE,male
+795,Käch,Claudia,((Ehemalige HFR-Direktorin)),,,0,,0,FALSE,female
+796,Kaehr,Alexandre,"PS Nuvilly-Les Montets, Cugy-Vesin",+41 26 665 14 28,direction.ep.lesmontets@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+797,Kaehr,Chantal,Schulzahnpflegedienst,+41 26 305 98 00,,0,,Bürochefin,TRUE,female
+798,Kainz,Carine,Kantonale Lehrmittelverwaltung,+41 26 305 13 98,,0,,Lehrmittel und Schulmaterial,FALSE,female
+799,Kaltenrieder,Bernard,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 77,kaltenriederb@edufr.ch,1,,Abteilungsvorsteher G,FALSE,male
+800,Kämpfen,Olivier,Generalsekretariat,+41 26 305 14 01,,0,,Generalsekretär,FALSE,male
+801,Kämpfer,Pascal,4. Forstkreis,+41 26 305 95 30,pascal.kaempfer@fr.ch,1,,Wildhüter und Fischereiaufseher,FALSE,male
+802,Käppel,Dominique,Naturhistorisches Museum,+41 26 305 89 29,,0,,Sekretärin,TRUE,female
+803,Karth,Chantal,Amtliche Veröffentlichungen,+41 26 305 10 51,,0,,Verantwortlicher,FALSE,female
+804,Käser,Martin,Kreis 3,+41 26 305 37 03,martin.kaeser@fr.ch,1,,Strassenkontrolleur,FALSE,male
+805,Kathriner,Bernadette,Generalsekretariat,+41 26 305 31 06,bernadette.kathriner@fr.ch,1,,Übersetzerin,TRUE,female
+806,Kaufmann,Anaëlle,GIS-Kompetenzzentrum (GISKZ),+41 26 305 35 59,anaelle.kaufmann@fr.ch,1,,Wissenschaftliche Mitarbeiterin ETH/HS,TRUE,female
+807,Kaufmann,Felix,Rechtsberatung und Streitsachen,+41 26 305 12 55,felix.kaufmann@fr.ch,1,,Juristischer Berater,FALSE,male
+808,Khelfa,Sid-Ahmed,Technische Abteilung,,Sid-Ahmed.Khelfa@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+809,Kiener,François,Ausführung,+41 26 305 36 77,francois.kiener@fr.ch,1,,Sektorchef,FALSE,male
+810,Kilchherr,Hansruedi,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 18,hansruedi.kilchherr@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+811,Kilchoer,Ghislaine,Abteilung Einbürgerungen,+41 26 305 14 23,ghislaine.kilchoer@fr.ch,1,,Ermittlerin,TRUE,female
+812,Kilchoer,Nicolas,Oberamt des Broyebezirks,+41 26 305 91 20,Nicolas.Kilchoer@fr.ch,1,,Oberamtmann,FALSE,male
+813,Klein,Carole,französische Abteilung,+41 26 305 71 11,kleinc@edufr.ch,1,,Anmeldung - Sekretariat,FALSE,female
+814,Kloeti,Julian,Kantonales Sozialamt,+41 26 305 29 92,julian.kloeti@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+815,Koch,Julien,FRee Trading,,,0,,Auszubildender,FALSE,male
+816,Koch,Marina,Mobile Einheit,+41 26 305 40 74,marina.koch@fr.ch,1,,Mitarbeiterin,TRUE,female
+817,Koelliker-Ziller,Silvia,Amt für Ausbildungsbeiträge,+41 26 305 12 59,silvia.koelliker@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+818,Kolly,Christian,PS Mont-Vully,+41 79 900 78 55,direction.ep.mont-vully@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+819,Kolly,Christian,Fachstelle Fritic,+41 26 305 72 71,christian.kolly@fr.ch,1,,Pädagogischer Mitarbeiter,FALSE,male
+820,Kolly,Christine,Pflegeheime für Betagte,+41 26 305 29 89,,0,,Wirtschaftswissenschaftlerin,TRUE,female
+821,Kolly,Eric,Konservatorium,+41 26 305 99 56,,0,,Verwaltungsadjunkt,FALSE,male
+822,Kolly,Pierre,CO du Gibloux,+41 26 411 99 11,secretariat@co-gibloux.ch,1,,Direktor,FALSE,male
+823,Kolly,Sabrina,Generalsekretariat,+41 26 305 31 02,sabrina.kolly@fr.ch,1,,Direktionssekretärin,TRUE,female
+824,Kolly,Valentin,Schulbauernhof von Sorens,+41 26 305 57 71,ferme.abbaye@bluewin.ch,2,,Mitarbeiter Landwirtschaftsbetrieb Sorens,FALSE,male
+825,Kozlowski,Gregor,Naturhistorisches Museum,+41 26 305 89 22,,0,,Konservator,FALSE,male
+826,Kozomara Yao,Uschi,Handelsregisteramt,+41 26 305 30 95,uschi.kozomara@fr.ch,1,,Vorsteherin,TRUE,female
+827,Krähenbühl,Alain,Gewerbliche und Kaufmännische Berufsschule,,kraehenbuehla@edufr.ch,1,,Dekan,FALSE,male
+828,Krasniqi,Evlina,Amt für Statistik,+41 26 305 28 24,evlina.krasniqi@fr.ch,1,,Sekretärin,TRUE,female
+829,Krattinger,Pascal,Wohnungsamt,+41 26 305 24 11,pascal.krattinger@fr.ch,1,,Sektionschef,FALSE,male
+830,Krattinger,Susanne,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 304 13 56,susanne.krattinger@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+831,Krayenbuhl,Pascal,Amt für Landwirtschaft,+41 26 305 22 50,pascal.krayenbuhl@fr.ch,1,,Dienstchef,FALSE,male
+832,Kropf,Astrid,Allgemeine Dienste,+41 26 305 22 48,astrid.kropf@fr.ch,1,,Sekretärin,TRUE,female
+833,Kuenlin,Chantal,Amt für Sonderpädagogik (SoA),+41 26 305 73 85,chantal.kuenlin@fr.ch,1,,Inspektorin der Sonderschule,TRUE,female
+834,Küffer,Virginie,Qualität und Sicherheit,+41 26 305 36 87,virginie.kueffer@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+835,Kuhnen,Jean,Landwirtschaftliche Entwicklung,+41 26 305 23 06,jean.kuhnen2@fr.ch,1,,Güterzusammenlegungen - Wege - Entwässerungen - Bewässerungen,FALSE,male
+836,Küng,Marianne,Amt für deutschsprachigen obligatorischen Unterricht,+41 26 305 12 39,marianne.kueng@fr.ch,1,,Stellvertetende Amtsvorsteherin,TRUE,female
+837,Küng Gugler,Anne,Wirtschaftsförderung Kanton Freiburg,+41 26 304 14 13,anne.kueng@fr.ch,1,,Verantwortliche Wirtschaftspolitik,FALSE,female
+838,Kunzi,Joëlle,Zahnklinik Bulle,+41 26 305 98 60,,0,,Dentalassistentin,TRUE,female
+839,Künzi,Tobias,"CASEi, milchwirtschaftliche Beratung",+41 26 305 57 00,tobias.kuenzi@casei.ch,1,,Käsereiberater,FALSE,male
+840,Kuznetsova,Ekaterina,Zentrale Dienste,+41 26 305 23 43,ekaterina.kuznetsova@fr.ch,1,,Juristin,TRUE,female
+841,Laczko,Valérie,Empfang - Sekretariat - Verwaltung,+41 26 305 65 04,laczkov@edufr.ch,1,,Sekretärin,TRUE,female
+842,Lambelet,Albert,Kaufmännische Berufsfachschule,+41 26 305 25 56,lambeleta@edufr.ch,1,,Abteilungsvorsteher Handel fr.,FALSE,male
+843,Lambert,Alain,Zentrale Dienste; Sektor Wald,+41 26 305 23 43,alain.lambert@fr.ch,1,,Sektorchef Wald,FALSE,male
+844,Lambert,Christophe,PS Estavayer-Sévaz,+41 26 664 89 01,direction.ep.estavayer@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+845,Lang,Philippe,Generalsekretariat,,philippe.lang@fr.ch,1,,Wissenschaftlicher Mitarbeiter in Digitalisation,TRUE,male
+846,Lang,Sylvain,Schulinspektorat,+41 26 305 73 84,sylvain.lang@fr.ch,1,,Schulinspektor,TRUE,male
+847,Lascone,Nicolas,Espace Jean Tinguely - Niki de Saint Phalle,+41 26 305 51 57,,0,,Aufseher,FALSE,male
+848,Lauper,Aloys,Amt für Kulturgüter; Verzeichnis der Kulturgüter,+41 26 305 12 91,aloys.lauper@fr.ch,1,,Stellvertretender Dienstchef; Verantwortlicher,FALSE,male
+849,Lauper,Claudia,Generalsekretariat,+41 26 305 29 02,,0,,Generalsekretärin,TRUE,female
+850,Lauper,Sébastien,"Sektor Faune, Biodiversität, Jagd und Fischerei",+41 26 305 23 43,sebastien.lauper@fr.ch,1,,Höherer technischer Sachbearbeiter Jagd und Fischerei,FALSE,male
+851,Lauper,Vanina,Freiburgisches Agro-Lebensmittellabor,+41 26 305 57 39,vanina.lauper@fr.ch,1,,Laborantin,TRUE,female
+852,Léchaire,Olivier,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 53,olivier.lechaire@fr.ch,1,,Lehrer Allgemeinbildung und Informatik,TRUE,male
+853,Lee,Chung-Yol,Kantonsarztamt,+41 26 305 79 80,,0,,Kantonsarzt,FALSE,male
+854,Lehmann,Barbara,Behörde für Grundstückverkehr,+41 26 305 23 77,,0,,Verwaltungssachbearbeiterin,TRUE,female
+855,Lehmann,Daniel,Oberamt des Seebezirks,+41 26 305 90 70,Daniel.Lehmann@fr.ch,1,,Oberamtmann,FALSE,male
+856,Lehmann,Lukas,deutsche Abteilung,+41 26 305 71 16,lehmannlu@edufr.ch,1,,Dekan,FALSE,male
+857,LEHMANN,Norbert,Verwaltung und Empfang,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+858,LEHMANN,Suzanne,Zell und Infrastruktur; Kantonale Lehrmittelverwaltung,"+41 26 305 21 07, +41 26 305 45 12",,0,,"Fachfrau für Justizvollzug; Wareneingang, Lager und Vertrieb",TRUE,female
+859,Lehrling,???,0,,,0,,0,FALSE,no_person
+860,Leibzig,Laurence,Generalsekretariat,+41 26 305 36 04,laurence.leibzig@fr.ch,1,,Lehrling Kauffrau,TRUE,female
+861,Leibzig-Zay,Catherine,Mobile Einheit,+41 26 305 40 76,catherine.leibzig-zay@fr.ch,1,,Verwaltungsangestellte,FALSE,female
+862,Leiser,Brigitte,Amt für Gemeinden,+41 26 305 22 37,brigitte.leiser@fr.ch,1,,Stellvertetende Amtsvorsteherin,TRUE,female
+863,Lenge-Robert,Virginie,Empfang - Sekretariat - Verwaltung,+41 26 305 99 04,robertv@edufr.ch,1,,Büroangestellte,FALSE,female
+864,Leopold,Philippe,TRE Centre de formation,+41 26 304 13 24,,0,,Ausbildner,FALSE,male
+865,Leopold-Jungo,Sibylle,TRE Centre de formation,+41 26 304 13 24,sibylle.leopold-jungo@cpi.ch,1,,Ausbildnerin,TRUE,female
+866,Lepori,Marco,Invalidenversicherungsstelle,+41 26 305 52 31,marco.lepori@fr.oai.ch,1,,Direktionsadjunkt,FALSE,male
+867,Leu,Martin,Generalsekretariat,,,0,,Generalsekretär,FALSE,male
+868,Levasseur,Clément,Pflanzenbau (PB),+41 26 305 58 74,,0,,Wissenschaftlicher Mitarbeiter,FALSE,male
+869,Levrat,Sylvie,Neue Instrumente für das Finanzmanagement,+41 26 305 31 27,sylvie.levrat@fr.ch,1,,Höhere Verwaltungssachbearbeiterin,TRUE,female
+870,Leyrolles,Estelle,Berufsfachschule,+41 26 305 26 20,leyrollese@edufr.ch,1,,Direktorin,TRUE,female
+871,L'Homme,Floriane,Finanzinspektorat,+41 26 305 31 37,floriane.lhomme@fr.ch,1,,Finanz Inspektorin,TRUE,female
+872,Liaudat,Nathalie,Generalsekretariat,+41 26 305 36 01,nathalie.liaudat@fr.ch,1,,Juristische Beraterin,TRUE,female
+873,Limat,Fabienne,Pädagogische Berater/innen,+41 26 305 40 93,fabienne.limat@fr.ch,1,,Schulvermittlung,FALSE,female
+874,Linder,Nicolas,Pflanzenbau (PB),+41 26 305 58 75,nicolas.linder@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+875,Longchamp,Audrey,FRee Trading,,,0,,Lehrling Kauffrau,TRUE,female
+876,Longu,Gloria,Mobile Einheit,+41 26 305 40 72,gloria.longu@fr.ch,1,x,Mitarbeiterin,TRUE,female
+877,Longu,Gloria,Massnahmen zur Unterstützung der Schülerinnen und Schülern bei Verhaltensauffälligkeiten,+41 26 305 40 72,gloria.longu@fr.ch,2,x,Mitarbeiterin,TRUE,female
+878,Loosli,Rolf,Strassenplanung,+41 26 305 36 49,rolf.loosli@fr.ch,1,,Projektleiter,FALSE,male
+879,Lopez,Pedro,Strassenplanung,+41 26 305 36 89,pedro.lopez@fr.ch,1,,Sektorchef,FALSE,male
+880,Losey,Ilona,Planung und Mobilität,+41 26 304 14 31,ilona.losey@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+881,Losey,Pascal,SANIMA - Nutztierversicherungsanstalt,+41 26 305 22 81,,0,,Verwaltungsadjunkt,FALSE,male
+882,Loup,Axel,Empfang - Sekretariat - Verwaltung,+41 26 305 41 25,LoupA@edufr.ch,1,,Vorsteher,FALSE,male
+883,Luisoni,Marc,Pädagogische Berater/innen,+41 26 305 72 89,marc.luisoni@fr.educanet2.ch,1,,Analyse und Schule Entwicklung,FALSE,male
+884,Lunghi,Alain,Wirtschaftsförderung Kanton Freiburg,+41 26 304 14 00,alain.lunghi@fr.ch,1,,Verantwortlicher Regionalpolitik,FALSE,male
+885,Lupi,Juliane,Freiburger Fachstelle für sexuelle Gesundheit,,,0,,Sexualpädagogin,TRUE,female
+886,Lüscher,Tim,Abteilung Ortsplanung,+41 26 305 36 13,tim.luescher@fr.ch,1,,Raumplanerin,TRUE,male
+887,Lüscher Bertocco,Monika,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel); Direktion",+41 26 305 57 35,monika.luescherbertocco@fr.ch,1,,"Chefin Bildungszentrum Hauswirtschaft, Milch, Lebensmitteltechnologie",TRUE,female
+888,Lüthi,Irène,Weiterbildung Hauswirtschaft,+41 26 305 58 55,irene.luethi@fr.ch,1,,Verantwortliche Weiterbildung Hauswirtschaft,FALSE,female
+889,Lüthi,Nathan,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 57,nathan.luethi@fr.ch,1,,Landwirtschaftlicher Buchhalter,FALSE,male
+890,Maag,Andreas,Amt für deutschsprachigen obligatorischen Unterricht,+41 26 305 12 30,andreas.maag.doa@fr.ch,1,,Dienstchef,FALSE,male
+891,Mabboux,Manfred,Kreis 3,+41 26 305 37 12,,0,,Technischer Sachbearbeiter,FALSE,male
+892,Macherel,Nadia,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 63,nadia.macherel@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+893,Macheret,Dominique,Kreis 1,+41 26 305 44 35,dominique.macheret@fr.ch,1,,Strassenkontrolleur,FALSE,male
+894,Macheret,Sarah,Schulinspektorat,+41 26 305 73 80,inspectorat.scolaire@fr.ch,2,,Sekretärin,TRUE,female
+895,Macheret,Susanne,Amt für Sport,+41 26 305 12 63,,0,,Verwaltungssachbearbeiterin,TRUE,female
+896,Maeder,Peter,Generalsekretariat; Verwaltung der Staatsreben,+41 26 305 22 01,,0,,Generalsekretär; Vorsteher,FALSE,male
+897,Maendly,Sibylle,Empfang - Sekretariat - Verwaltung,+41 26 305 21 29,maendlys@edufr.ch,1,,Sekretärin,TRUE,female
+898,Magne,Claudia,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 64,claudia.magne@cpi.ch,1,,Sachbearbeiterin Ausbildung,TRUE,female
+899,Magne,Hervé,Strassenplanung,+41 26 305 36 55,herve.magne@fr.ch,1,,Projektleiter,FALSE,male
+900,Magne,Nathalie,Finanzen und Ausrüstungen,+41 26 305 12 03,nathalie.magne@fr.ch,1,,Buchhaltungssekretärin,TRUE,female
+901,Magne,Sylvie,Schulzahnpflegedienst,+41 26 305 98 00,,0,,Adjunktin des Dienstchefs,TRUE,female
+902,Magnin,André,Tiefbauamt,+41 26 305 36 40,andre.magnin@fr.ch,1,,"Kantonsingenieur, Amtsvorsteher",TRUE,male
+903,Magnin,Laurent,Sektor Gebäudeunterhalt,+41 26 305 38 02,laurent.magnin@fr.ch,1,,Mobiler Hauswart,FALSE,male
+904,Maillard,Cédric,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 46,cedric.maillard@fr.ch,1,,Landwirtschaftlicher Buchhalter,FALSE,male
+905,Maillard,Christophe,"Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen",+41 26 305 75 98,,0,,Dienstchef,FALSE,male
+906,Maillard,Colette,Rechtsdienst und verwaltung,+41 26 305 22 98,colette.maillard@fr.ch,1,,Bürochefin,TRUE,female
+907,Maillard,Jean-Jacques,Direktion - Verwaltung,+41 26 305 71 10,maillardJ01@edufr.ch,1,,Buchhalterin,TRUE,female
+908,Maillard,Willy,Pädagogische Berater/innen,+41 26 305 40 97,willy.maillard@fr.ch,1,,Sonderpädagogik,FALSE,male
+909,Maillard Russier,Mélanie,Generalsekretariat,+41 26 305 14 40,,0,,Juristische Beraterin,TRUE,female
+910,Mailler,Lorianne,Humanressourcen,+41 26 305 22 19,,0,,Verwaltungsangestellte,FALSE,female
+911,Mailler,Thierry,Museum für Kunst und Geschichte,+41 26 305 51 55,,0,,Aufseher,FALSE,male
+912,Maitre,Christian,Zentralsekretariat,+41 26 305 22 20,,0,,Verwaltungsadjunkt,FALSE,male
+913,Majeux,Maria,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 53 25,maria.majeux@fr.ch,1,,Sektionschefin Familienzulagen,TRUE,female
+914,Malesa,Corinne,Sondereinrichtungen,+41 26 305 29 86,,0,,Inspektorin,TRUE,female
+915,Mali,Franz,Rektorat,+41 26 300 74 00,franz.mali@unifr.ch,1,,Vizerektor,FALSE,male
+916,Mangold,Fabienne,Direktion,,office@ocn.ch,1,,Direktionssekretärin,TRUE,female
+917,Maradan,Carine,Generalsekretariat,+41 26 305 14 85,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+918,Maradan,Denis,Direktion - Verwaltung,+41 26 305 71 05,maradand@edufr.ch,1,,Verantwortlicher Verwaltung,FALSE,male
+919,Maradan,Jacques,Öffentliche Gewässer,+41 26 305 37 39,jacques.maradan@fr.ch,1,,Sektorchef,FALSE,male
+920,Marchand,Colette,Gesundheit und Soziales/Hauswirtschaft/Labor/Körperpflege/Brücken zur Lehre,+41 26 305 25 06,colette.marchand@edufr.ch,1,,Sektorchefin,TRUE,female
+921,Marchon,Isabelle,Kollegium Gambach,+41 26 305 79 11,marchoni@edufr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+922,Marchon,Lisa,Behörde für Grundstückverkehr,+41 26 305 22 52,,0,,Verwaltungsangestellte,FALSE,female
+923,Marchon,Stéphane,Öffentlicher Verkehr und Monitoring,+41 26 304 14 26,stephane.marchon@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+924,Marco,Eva,Sektion Verwaltung,+41 26 305 37 99,Eva.Marco@fr.ch,1,,Wissenschaftliche Beraterin,TRUE,female
+925,Margalhan-Ferrat,Corinne,Generalsekretariat,+41 26 305 36 46,corinne.margalhan-ferrat@fr.ch,1,,Koordinatorin der Agglomerationen,TRUE,female
+926,Margueron,Bertrand,Ausbildung Hauswirtschaft modular,+41 26 305 56 13,bertrand.margueron@fr.ch,1,,Lehrer,FALSE,male
+927,Margueron,Mireille,Küche,+41 26 305 55 21,Non renseigné,16,,Restaurant-Angestellte,FALSE,female
+928,Maric Fasel,Anita,"Sektion UVP, Bodenschutz und Anlagensicherheit",+41 26 305 51 90,anita.maricfasel@fr.ch,1,,"UVP, Biosicherheit, StFV",FALSE,female
+929,Maridor,Alice,Rechtsberatung und Streitsachen,+41 26 305 12 20,alice.maridor@fr.ch,1,,Juristische Beraterin,TRUE,female
+930,Märki,Jan,Amt für deutschsprachigen obligatorischen Unterricht,+41 26 305 40 95,jan.maerki@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+931,Marro,Marilyne,Generalsekretariat,+41 26 305 31 09,,0,,Verantwortliche der Fachstelle für die personalbewirtschaftung,FALSE,female
+932,Marti,Fabienne,Empfang - Sekretariat - Verwaltung,+41 26 305 65 02,MartiF@edufr.ch,1,,Sekretärin,TRUE,female
+933,Marti,Pierre,Kollegium Gambach,+41 26 305 79 13,MartiPi@edufr.ch,1,,Rektor,FALSE,male
+934,Martin Sölch,Chantal,Rektorat,+41 26 300 76 87,chantal.martinsoelch@unifr.ch,1,,Vizerektorin,TRUE,female
+935,Martins,Daniel,Strassenplanung,+41 26 305 38 30,daniel.martins@fr.ch,1,,Projektleiter,FALSE,male
+936,Mauron,Alexandre,Pädagogische Berater/innen,+41 26 305 73 76,alexandre.mauron@fr.ch,1,,Geografie-Geschichte 1. und 2. Zyklus,FALSE,male
+937,Mauron,Frédéric,Druckerei,+41 26 305 10 92,,0,,Werkstattchef,FALSE,male
+938,Mauron,Frédéric,Finanzplanung und Budgetkontrolle,+41 26 305 31 25,,0,,Wirtschaftswissenschaftlerin,TRUE,male
+939,Mauron Bays,Aline,Zentrale Dienste,+41 26 305 23 43,aline.mauronbays@fr.ch,1,,Sekretärin des Amtsvorstehers,TRUE,female
+940,Mauron-Hemmer,Elisabeth,Medien und Information,+41 26 305 72 20,Mauron-HemmerE@edufr.ch,1,x,Vorsteherin,TRUE,female
+941,Mauron-Hemmer,Elisabeth,Forschung und Entwicklung,+41 26 305 72 20,mauron-hemmere@edufr.ch,2,x,Vorsteherin,TRUE,female
+942,Mauroux,Mathias,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 24,mathias.mauroux@fr.ch,1,,Betriebsberater,FALSE,male
+943,Mauvilly,Michel,"Ausgrabungen, Forschungen und Publikationen",+41 26 305 82 46,Michel.Mauvilly@fr.ch,1,,Sektorchef Vor- und Frühgeschichte,FALSE,male
+944,Mavigök,Dilan,Bereich Finanzen,+41 26 305 25 73,,0,,Verwaltungsangestellte,FALSE,female
+945,May,Olivier,Schadstoffemissionen und VOCV,+41 26 305 37 53,olivier.may@fr.ch,1,,Emissionen aus Industrie und Landwirtschaft,FALSE,male
+946,Mayer,Alexander,Amt für Statistik,+41 26 305 28 25,alexandre.mayer@fr.ch,1,,Verwaltungssachbearbeiter,FALSE,male
+947,Mayer-Ladner,Johanna,Grundbuchamt des Sensebezirks,+41 26 305 74 84,johanna.mayer-ladner@fr.ch,1,,Adjunktin,TRUE,female
+948,Mayoraz,Nicolas,Secteur Sécurité,,,0,,Identitätsmanagement und IAM-Zugangsingenieurin,TRUE,male
+949,Mazotti,Benoît,Sektor Naturgefahren,+41 26 305 23 43,benoit.mazotti@fr.ch,1,,Wissenschaftlicher Mitarbeiter Naturgefahren,FALSE,male
+950,Medina,Adriano,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 57,adriano.medina@fr.ch,1,,Lehrer Allgemeinbildung,TRUE,male
+951,Meichtry,Daniela,Generalsekretariat,+41 26 305 12 15,,0,,Übersetzerin,TRUE,female
+952,Meier,Claudine,deutsche Abteilung,+41 26 305 71 26,MeierC@edufr.ch,1,,Sekretärin,TRUE,female
+953,Meisel,Felix,Fachstelle Fritic,+41 26 305 72 69,felix.meisel@edufr.ch,1,,Pädagogischer Mitarbeiter,FALSE,male
+954,Mejia-Hauser,Pia,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 67,pia.mejia-hauser@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+955,Mennel,Eric,Sektion Gewässerschutz,+41 26 305 37 56,eric.mennel@fr.ch,1,,Sektionschef,FALSE,male
+956,Merkhouf,Claudine,"Lärmschutz; Gesamtkonzept und Gemeindestrassen, Signalisation",+41 26 305 36 93,claudine.merkhouf@fr.ch,1,,Sekretärin,TRUE,female
+957,Mertens Fleury,Katharina,Direktion - Verwaltung,+41 26 305 71 20,MertensFleuryK@edufr.ch,1,,Rektorin,TRUE,female
+958,Mesot,Carmen,TRE Centre de formation,+41 26 304 13 26,,0,,Ausbildnerin,TRUE,female
+959,Messikommer,Reto,Amt für Statistik,+41 26 305 28 30,reto.messikommer@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+960,Mettler,Stéphane,CO de Jolimont,,,0,,Direktor,FALSE,male
+961,Mettraux,Marc,Finanzinspektorat,+41 26 305 31 42,marc.mettraux@fr.ch,1,,Finanz Inspektor,TRUE,male
+962,Mettraux,René,Freiburgisches Agro-Lebensmittellabor,+41 26 305 57 39,rene.mettraux@fr.ch,1,,Stellvertretender der Laborverantwortlichen,FALSE,male
+963,Metz,Karine,"Produkteförderung, Viehzucht und Weinbau; Allgemeine Dienste",+41 26 305 23 07,karine.metz@fr.ch,1,,Buchhaltungssekretärin,TRUE,female
+964,Meuwly,Anne-Françoise,Verwaltung,+41 26 305 55 00,anne-francoise.meuwly@fr.ch,1,,Telefonistin-Empfang,TRUE,female
+965,Meuwly,Christine,Pflegeheime für Betagte,,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+966,Meuwly,Nicole,Amt für Energie,+41 26 305 47 55,nicole.meuwly@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+967,Meuwly-Hausherr,Elisabeth,Sektion Gewässer,+41 26 305 37 36,elisabeth.meuwly@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+968,Meyer,Antoinette,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 12 28,antoinette.meyer@fr.ch,1,,Sekretärin,TRUE,female
+969,Meyer,Guy,Naturhistorisches Museum,+41 26 305 89 05,,0,,Technischer Sachbearbeiter,FALSE,male
+970,Meyer Genilloud,Marianne,Generalsekretariat,+41 26 305 12 29,marianne.meyergenilloud@fr.ch,1,,"Wissenschaftliche Beraterin, Ansprechperson für Information",TRUE,female
+971,Meyer Häni,Anita,Ausbildung Hauswirtschaft modular,+41 26 305 56 13,anita.meyerhaeni@fr.ch,1,,Lehrerin,TRUE,female
+972,Meyer Pitton,Liliane,Büro für die Gleichstellung von Frau und Mann und für Familienfragen,+41 26 305 45 36,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+973,Michel,Anouk,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 13,michela@edufr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+974,Michel,Benoît,Vereinigung des Kantonalen Berufsbildungszentrums,+41 26 305 26 12,benoit.michel@edufr.ch,1,,Verantwortlicher der Infrastrukturen,FALSE,male
+975,Michel,Vanessa,Sektor Wissenschaftliche Mitarbeit,+41 26 305 79 79,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+976,Michel,Vanessa,Freiburger Fachstelle für sexuelle Gesundheit,+41 26 305 45 69,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+977,Milan,Virginie,PS Fribourg Villa-Thérèse,+41 26 484 80 52,direction.ep.fribourg.villa-therese@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+978,Millan,Martine,PS Avry-sur-Matran,+41 26 470 40 30,direction.ep.avry-sur-matran@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+979,Millan,Martine,PS Matran,+41 26 470 40 30,direction.ep.matran@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+980,Mingam,Martiall,Eikon - Berufsfachschule für Gestaltung,+41 26 305 46 96,,0,,Responsable PRO,FALSE,female
+981,Minguely,Christel,Medien und Information,,,0,,Wissenschaftliche Bibliothekar,FALSE,female
+982,Minnig,Sylviane,SIERA,+41 26 305 37 30,sylviane.Minnig@fr.ch,1,,Sekretärin,TRUE,female
+983,Mischler,Frédéric,Planung und Mobilität,+41 26 304 14 32,frederic.mischler@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+984,Moita-Babey,Ghislaine,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 95,ghislaine.moita@fr.ch,1,,Lehrerin,TRUE,female
+985,Mollard,Pauline,Amt für Sonderpädagogik (SoA),+41 26 305 41 06,pauline.mollard@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+986,Monnard,Christophe,PS Bossonnens,+41 21 947 45 30,direction.ep.bossonnens@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+987,Monney,Corinne,Kaufmännische Berufsfachschule,+41 26 305 25 27,Monneyc03@edufr.ch,1,,Sekretärin,TRUE,female
+988,Monney,Jean-Blaise,Sektor Verwaltung und Finanzen; Verwaltung,+41 26 305 23 43,jean-blaise.monney@fr.ch,1,,Bibliothekar,FALSE,male
+989,Monney,Jean-Marc,Überwachung und Planung von Kunstbauten,+41 26 305 38 79,jean-marc.monney@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+990,Monney,Maria-Elena,"PS Sâles, Vaulruz",+41 26 913 04 10,direction.ep.salesvaulruz@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+991,Monney,Pierre,Ausbildung Hauswirtschaft dual,+41 26 305 55 79,pierre.monney@fr.ch,1,,Lehrer Allgemeinbildung,TRUE,male
+992,Monney,Regina,Sektor Verwaltung und Finanzen,+41 26 305 23 43,regina.monney@fr.ch,1,,Sekretärin,TRUE,female
+993,Monney,Sandrine,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+994,Monnier,Jacques,"Ausgrabungen, Forschungen und Publikationen",+41 26 305 82 42,jacques.monnier@fr.ch,1,,Sektorchef Gallo-römisch,FALSE,male
+995,Monpays,Christine,PS Granges-Paccot - La Sonnaz,+41 26 460 68 41,direction.ep.granges-paccot@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+996,Monterrubio Leu,Cristina,Sektor Wissenschaftliche Mitarbeit,+41 26 305 79 92,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+997,Mooser,Coumba,Campus Schwarzsee,+41 26 304 16 27,coumba.mooser@fr.ch,1,,Verwaltungsangestellte,FALSE,female
+998,Morand,Monique,Personal; Verwaltung (Verw),+41 26 305 36 41,Monique.Morand@fr.ch,1,,Sektionschefin,TRUE,female
+999,Morel,Bernard,Buchhaltung,+41 26 305 55 10,bernard.morel@fr.ch,1,,Chefbuchhalter,FALSE,male
+1000,Morel,Fanny-Iona,Verzeichnis der Kulturgüter,+41 26 305 12 96,fanny-iona.morel@fr.ch,1,,"Dokumentation, Archivierung",FALSE,female
+1001,Morel,Géraldine,Kantonale Lehrmittelverwaltung,+41 26 305 13 98,geraldine.morel@ocms-fribourg.ch,1,,Lehrmittel und Schulmaterial,FALSE,female
+1002,Morel,Géraldine,Büro für die Gleichstellung von Frau und Mann und für Familienfragen,+41 26 305 23 73,geraldine.morel@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1003,Morel,Jean-Baptiste,Direktion - Verwaltung,+41 26 305 71 18,MorelJ01@edufr.ch,1,,Hauswart,FALSE,male
+1004,Morel,Nathalie,Ausbildung Hauswirtschaft modular,+41 26 305 56 23,nathalie.morel@fr.ch,1,,Abteilungsvorsteherin Hauswirtschaft,TRUE,female
+1005,Morerod,Matthieu-Louis,Generalsekretariat,+41 26 305 36 04,,0,,Juristischer Praktikant,FALSE,male
+1006,Moret,Anne,Sekretariat des Grossen Rates,+41 26 305 10 50,anne.moret@fr.ch,1,,Direktionsassistentin,TRUE,female
+1007,Möri,Christina,Deutschsprachige Lehrpersonen der obligatorischen Schulzeit,+41 26 305 12 32,,0,,Verwaltungssachbearbeiterin,TRUE,female
+1008,Morier,Françoise,Freiburger Fachstelle für sexuelle Gesundheit,,,0,,Sexualpädagogin,TRUE,female
+1009,Morier,Jean-Luc,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 43,jean-luc.morier@fr. ch,1,,"Lehrer, Vorsteher",FALSE,male
+1010,Morin,Cédric,Direktion,+41 26 305 98 94,morinc@edufr.ch,1,,Vorsteher,FALSE,male
+1011,Morisod-Zavadil,Isabelle,Empfang - Sekretariat - Verwaltung,+41 26 305 99 03,morisodI@edufr.ch,1,,Sekretärin,TRUE,female
+1012,Mornod,Vincent,Pädagogische Berater/innen,+41 26 305 73 67,vincent.mornod@fr.ch,1,,Mathematik 1. und 2. Zyklus,FALSE,male
+1013,Mory,Lyse,Finanzplanung und Budgetkontrolle,+41 26 305 54 74,,0,,Diplomierte Verwaltungssachbearbeiterin,TRUE,female
+1014,Moser,Catherine,FKJF,+41 26 305 15 30,catherine.moser@fr.ch,1,,Kinder- und Jugendbeauftragte (f),TRUE,female
+1015,Mossier,Jean-Luc,Generalsekretariat,+41 26 305 24 15,,0,,Projektleiter,FALSE,male
+1016,Mottas,Hervé,Amt für Unterricht der Sekundarstufe 2,+41 26 305 45 35,herve.mottas@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1017,Moulin,Céline,"Sektor Faune, Biodiversität, Jagd und Fischerei",+41 26 305 23 43,celine.moulin@fr.ch,1,,Höhere Verwaltungssachbearbeiterin,TRUE,female
+1018,Moullet,Irène,Finanzinspektorat,+41 26 305 31 35,irene.moullet@fr.ch,1,,Dienstchefin,TRUE,female
+1019,Moullet,Marianne,Stabsdienste,+41 26 304 14 33,marianne.moullet@fr.ch,1,,Sekretärin,TRUE,female
+1020,Moullet Auberson,Josette,Generalsekretariat,+41 26 305 31 12,josette.moulletauberson@fr.ch,1,,Juristische Beraterin,TRUE,female
+1021,Mueller,Emanuel,Abteilung Bauwesen,+41 26 305 36 13,emanuel.mueller@fr.ch,1,,Technischer Assistent,FALSE,male
+1022,Muhayeyezu,Maria Assumpta,Direktionssekretariat; Staatsarchiv,+41 26 305 50 69,,0,,Dokumentalistin,TRUE,female
+1023,Mujkic,Edin,Gesamtkonzept und Gemeindestrassen,+41 26 305 36 58,edin.mujkic@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+1024,Mujynya,Marie-Jeanne,Direktionssekretariat,+41 26 305 50 98,,0,,Direktionssekretärin,TRUE,female
+1025,Mülhauser,Alexandra,Administration und Beglaubigungen,+41 26 305 50 70,,0,,Apostillen und Beglaubigungen,FALSE,female
+1026,Mülhauser,Karin,2. Forstkreis,+41 26 305 75 10,karin.muelhauser@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1027,Müller,Marie-Christine,Büro für Information,+41 26 305 50 74,,0,,Adjunktin des Verantwortlichen,TRUE,female
+1028,Müller,Matthias,Kantons- und Universitätsbibliothek,+41 26 305 13 40,matthias.mueller@fr.ch,1,,Sektorchef Benutzung,FALSE,male
+1029,Müller,Stève,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 42,steve.mueller@fr.ch,1,,Lehrer BHML,FALSE,male
+1030,Murith,Sylvianne,Couture-Lehratelier,+41 26 305 26 01,MurithS@edufr.ch,1,,Verantwortliche Atelier 1,FALSE,female
+1031,Murmann Jentsch,Gisela,Direktion,+41 26 305 41 33,murmanng@edufr.ch,1,,Vorsteherin,TRUE,female
+1032,Mussoi,Isabelle,Konservatorium,+41 26 305 99 52,,0,,Buchhaltungsangestellte,FALSE,female
+1033,Mutrux,Gérald,Amt für Gemeinden,+41 26 305 22 35,Gerald.Mutrux@fr.ch,1,,Dienstchef,FALSE,male
+1034,Nadig-Schor,Sandra,Ausbildung Hauswirtschaft dual,+41 26 305 56 13,sandra.nadig-schor@fr.ch,1,,Hauswirtschaftslehrerin,TRUE,female
+1035,Nagel,Kaja,2. Forstkreis,+41 26 305 75 18,kaja.nagel@fr.ch,1,,Dipl. technischer Sachbearbeiter,FALSE,female
+1036,Neuenschwander,Hansueli,"CASEi, milchwirtschaftliche Beratung",+41 26 305 57 00,hansueli.neuenschwander@casei.ch,1,,Käsereiberater,FALSE,male
+1037,Neuhaus,Esther,Amt für deutschsprachigen obligatorischen Unterricht,+41 26 305 12 31,esther.neuhaus@fr.ch,1,,Sekretärin,TRUE,female
+1038,Neuhaus,Sophie,Landwirtschaftliches Beratungszentrum (LBZ),+41 26 305 58 00,sophie.neuhaus2@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1039,Neuhold,Andrea,Forschung und Entwicklung,,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1040,Nicod,Philippe,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 12,,0,,Abteilungsvorsteher C,FALSE,male
+1041,Nicolas,Elisabeth,PS Grolley,+41 26 475 13 79,direction.ep.grolley@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1042,Nicolet,Robert,Werkhof Tour Rouge,+41 26 305 37 00,,0,,Werkstattchef,FALSE,male
+1043,Niederberger,Samuel,Kollegium Gambach,+41 26 305 79 23,niederbergs@edufr.ch,1,,Vorsteher,FALSE,male
+1044,Nieth,Rodolphe,Strassenplanung,+41 26 305 47 11,rodolphe.nieth@fr.ch,1,,Projektleiter,FALSE,male
+1045,Nieva,Alessia,Bereich Personal,+41 26 305 25 75,alessia.nieva@edufr.ch,1,,HR-Fachfrau,FALSE,female
+1046,Nieva,Catherine,Generalsekretariat,+41 26 305 24 18,catherine.nieva@fr.ch,1,,Direktionsassistentin,TRUE,female
+1047,Niquille,Gaël,Milchwirtschaftliche Werkstätten,+41 26 305 55 25,gael.niquille@fr.ch,1,,Verantwortlicher Milchwirtschaftliche Werkstätten,FALSE,male
+1048,Noël,Rita,Oberamt des Greyerzbezirks,+41 26 305 64 05,rita.noel@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1049,Noël,Stéphane,Amt für Sonderpädagogik (SoA),+41 26 305 40 70,stephane.noel@fr.ch,1,,Dienstchef,FALSE,male
+1050,Noorjan,Nesrine,PS Courtepin,+41 26 684 85 06,direction.ep.courtepin@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1051,Noris,Gianfranco,Planung und Mobilität,+41 26 304 14 30,gianfranco.noris@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+1052,Nuoffer,Pierre,FRee Trading,+41 26 305 27 77,,0,,Responsable de mesure,FALSE,male
+1053,Nussbaum,Karin,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 27,karin.nussbaum@fr.ch,1,,Betriebsberaterin,TRUE,female
+1054,Nussbaumer,Cynthia,Verwaltung und Schutz der Gewässer,+41 26 305 37 46,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1055,Nydegger,Christophe,Direktion und Sekretariat,+41 26 305 24 90,christophe.nydegger@edufr.ch,1,,Dienstchef,FALSE,male
+1056,Nydegger,Nathalie,Amt für Unterricht der Sekundarstufe 2,+41 26 305 12 41,nathalie.nydegger@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1057,Oberson,Bernadette,Wirtschaftsförderung Kanton Freiburg,+41 26 304 14 10,bernadette.oberson@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1058,Oberson,Delphine,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 41,delphine.oberson2@fr.ch,1,,Landwirtschaftliche Buchhalterin,TRUE,female
+1059,Oberson,Floriane,Amt für Sonderpädagogik (SoA),+41 26 305 40 63,floriane.oberson@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1060,Oberson,Hélène,Zivilstandsamt Vivisbach,+41 26 305 75 73,ObersonH@fr.ch,1,,Vorsteherin des Zivilstandsamtes,TRUE,female
+1061,Oberson,Jean-Marc,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 12 68,jean-marc.oberson@fr.ch,1,,Adjunkt des Dienstchefs,FALSE,male
+1062,Oberson,Nathalie,Berufsfachschule Soziales-Gesundheit,+41 26 305 56 27,obersonn02@edufr.ch,1,,Abteilungsvorsteherin Gesundheit,TRUE,female
+1063,Oberson,Pascal,Kantonale Lehrmittelverwaltung,+41 26 305 13 87,,0,,"Wareneingang, Lager und Vertrieb",TRUE,male
+1064,Oberson-Schoepfer,Martine,Museum für Kunst und Geschichte,+41 26 305 51 40,,0,,Sekretärin,TRUE,female
+1065,Oetiker,Leandro,Abteilung kantonale Planung,+41 26 305 36 13,leandro.oetiker@fr.ch,1,,Raumplaner,FALSE,male
+1066,Oezen,Emel,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 60,emel.oezen@cpi.ch,1,,Finanz- und Buchhaltungsleiter,TRUE,female
+1067,Offner Deillon,Marie-Christine,Oberamt des Glanebezirks,+41 26 305 95 05,,0,,Verwaltungssachbearbeiterin,TRUE,female
+1068,Oliveira,Carla,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 70,,0,,Sachbearbeiterin Ausbildung,TRUE,female
+1069,Oliveira da Silva,Virginie,Generalsekretariat,+41 26 305 30 37,Virginie.OliveiradaSilva@fr.ch,1,,Diplomierte Verwaltungsangestellte,FALSE,female
+1070,Olivier,Caroline,Abteilung Bauwesen,+41 26 305 61 77,caroline.olivier@fr.ch,1,,Architektin,TRUE,female
+1071,Ortner,Sophie,Direktzahlungen,+41 26 305 22 95,sophie.ortner@fr.ch,1,,Umwelt-und Landschaftsagrarmassnahmen,FALSE,female
+1072,Ory,Elisabeth,Interprofessionelles Weiterbildungszentrum,,,0,,Direktorin,TRUE,female
+1073,Osmani,Alban,PS Fribourg - Jura,+41 26 352 91 33,direction.ep.fribourg.jura@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1074,Oswald,Nicole,Generalsekretariat,+41 26 305 29 35,,0,,Generalsekretärin,TRUE,female
+1075,Overney,Catherine,???,,,0,,0,FALSE,female
+1076,Overney,Jean-David,Sektion Finanzmanagementinstrumente und Subventionsverwaltung (FIMIS); Finanzverwaltung,+41 26 305 31 19,jean-david.overney@fr.ch,1,,Sektionschef; Wirtschaftswissenschaftlicher Berater,FALSE,male
+1077,Ozelley,Marilyne,Amt für Energie,+41 26 305 28 50,marilyne.ozelley@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+1078,Pache,Benoît,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 66 49,Benoit.Pache@fr.ch,1,,Sektionschef DMC,FALSE,male
+1079,Pache,Valérie,FRee Trading,+41 26 305 27 77,,0,,Erwachsenenbildnerin,TRUE,female
+1080,Pagani,Angela,Rechtsdienst und verwaltung; Amt für Landwirtschaft,+41 26 305 23 19,angela.pagani@fr.ch,1,,Sektionschefin / Juristische Beraterin; Juristische Beraterin,TRUE,female
+1081,Page,Anne-Catherine,Denkmalpflege,+41 26 305 13 03,anne-catherine.page@fr.ch,1,,Stadt Freiburg,FALSE,female
+1082,Page,Bruno,Abteilung kantonale Planung,+41 26 305 36 25,bruno.page@fr.ch,1,,Zeichner,FALSE,male
+1083,Page,Didier,Generalsekretariat,+41 26 305 14 65,,0,,Stv. Generalsekretär,FALSE,male
+1084,Page,Dominique,Amt für Statistik,,dominique.page@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1085,Palard,Marie-Claude,Mikrofilm-Atelier,+41 26 305 10 96,,0,,Technische Sachbearbeiterin,TRUE,female
+1086,PANCHAUD,Freddy,Technisches Büro - Bauten,+41 26 304 10 33,Freddy.Panchaud@fr.ch,1,,Bereichsleiter,FALSE,male
+1087,Papaux,Laura,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 91,laura.papaux@fr.ch,1,,Lehrerin,TRUE,female
+1088,Papi,Giancarla,Bau- und Raumplanungsamt,+41 26 305 36 17,Giancarla.Papi@fr.ch,1,,Dienstchefin,TRUE,female
+1089,Pasquier,Emilie,Generalsekretariat,+41 26 305 47 44,,0,,Juristische Praktikantin,TRUE,female
+1090,Pasquier,Jean-Luc,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 68,jean-luc.pasquier@fr.ch,1,,Verantwortlicher Gärtnerfachausweis,FALSE,male
+1091,Pasquier,Killian,Sektion Labor und Stoffe,+41 26 305 63 60,killian.pasquier@fr.ch,1,,Auszubildender,FALSE,male
+1092,Pasquier,Louis,Sektion Labor und Stoffe,+41 26 305 38 29,louis.pasquier@fr.ch,1,,Fachlaborant,FALSE,male
+1093,Pasquier,Michel,Gewerbliche und Kaufmännische Berufsschule,+41 26 305 87 17,pasquiermi@edufr.ch,1,,Hauswart,FALSE,male
+1094,Pasquier-Ropraz,Françoise,PS Pont-en-Ogoz,+41 26 915 13 68,direction.ep.pont-en-ogoz@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1095,Pauchard,Géraldine,Öffentliche Gewässer,+41 26 305 37 43,geraldine.pauchard@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+1096,Pauchard,Jean-Michel,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 304 13 61,jean-michel.pauchard@fr.ch,1,,Lehrer BHML,FALSE,male
+1097,Pauchard,Michel,Amtliche Vermessung (AV),+41 26 305 35 53,Michel.Pauchard@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+1098,Pauchard,Rose-Marie,Sportarten,+41 26 466 28 91,Non renseigné,17,,Musik und Bewegung,FALSE,female
+1099,Pauli,Stéphane,Landwirtschaftliche Gebäude und Betriebshilfen,+41 26 305 23 12,stephane.pauli@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+1100,Payot,Jean-Luc,Musée romain de Vallon,+41 26 667 97 90,Non renseigné,18,,Aufseher,FALSE,male
+1101,Pégourié,Alexia,Denkmalpflege,+41 26 305 12 87,alexia.pegourie2@fr.ch,1,,PAL francophone,FALSE,female
+1102,Perini,Rapaël,PS La Brillaz,+41 26 477 07 33,direction.ep.brillaz@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1103,Perler,André,Schulbauernhof von Sorens,+41 26 305 57 71,andre.perler@fr.ch,1,,Mitarbeiter Landwirtschaftsbetrieb Sorens,FALSE,male
+1104,Perler,Urs,Direktion,+41 26 305 21 25,perleru@edufr.ch,1,,Vorsteher,FALSE,male
+1105,Perler Antille,Laurence,Naturhistorisches Museum,+41 26 305 89 24,,0,,Verwaltungsadjunktin,TRUE,female
+1106,Perriard,Alain,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 84,alain.perriard@cpi.ch,1,,Ausbildungsleiter,FALSE,male
+1107,Perriard,Michel,Generalsekretariat,+41 26 305 12 01,Michel.Perriard@fr.ch,1,,Generalsekretär,FALSE,male
+1108,Perrier,Sophie,Staatskanzlei; Sekretariat des Staatsrats,+41 26 305 10 40,,0,,Vizekanzlerin,TRUE,female
+1109,Perrin,Sonia,Direktion,+41 26 305 41 24,perrinso@edufr.ch,1,,Vorsteherin,TRUE,female
+1110,Perritaz,Pierre,Amt für Sonderpädagogik (SoA),+41 26 305 40 69,pierre.perritaz@fr.ch,1,,Adjunkt des Dienstchefs,FALSE,male
+1111,Perritaz,Steve,Finanzverwaltung,+41 26 305 31 17,Steve.Perritaz@fr.ch,1,,Stellvertretender Dienstchef,FALSE,male
+1112,Perroud,Corinne,Verwaltung - Sekretariat,+41 26 305 10 82,,0,,Sekretariat - Anmeldung,FALSE,female
+1113,Perroud,Florence,Oberamt des Vivisbachbezirks,,,0,,Praktikant,FALSE,female
+1114,Perroud,Frédéric,PS Marly - Grand-Pré,+41 26 552 15 07,direction.ep.marly.grand-pre@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1115,Perroud,Véronique,Empfang - Sekretariat - Verwaltung,+41 26 305 99 05,perroudgrecov@edufr.ch,1,,Sekretär,FALSE,female
+1116,Pesenti,Elias,"Sektor Faune, Biodiversität, Jagd und Fischerei",+41 26 305 23 43,elias.pesenti@fr.ch,1,,"Wissenschaftlicher Mitarbeiter, terrestrische Fauna und Jagd",FALSE,male
+1117,Pession,Luca,Kaufmännische Berufsfachschule,+41 26 305 25 45,pessionl@edufr.ch,1,,Direktor,FALSE,male
+1118,Pfaffen,Richard,Oberamt des Seebezirks,+41 26 305 90 73,richard.pfaffen@fr.ch,1,,Höherer Verwaltungssachbearbeiter,FALSE,male
+1119,Pfister Aspert,Catherine,Naturhistorisches Museum,+41 26 305 89 28,,0,,Kulturvermittlerin,TRUE,female
+1120,Pham,Thi Thanh Thuy,Freiburger Fachstelle für sexuelle Gesundheit,+41 26 305 29 55,,0,,Sekretärin,TRUE,female
+1121,Pharisa,Christine,Gewerbliche und Kaufmännische Berufsschule,+41 26 305 87 08,pharisaC@edufr.ch,1,,Verwaltungsadjunktin,TRUE,female
+1122,Philipona,Françoise,Kreis 1,+41 26 305 44 33,francoise.philipona@fr.ch,1,,Sekretärin,TRUE,female
+1123,Philipona,Jean-Charles,Tierproduktion (TP),+41 26 305 58 97,jean-charles.philipona@fr.ch,1,,Verantwortlicher für Tierproduktion,FALSE,male
+1124,Philipona,Marie-Louise,Schulgärten von Grangeneuve,+41 26 305 57 66,Non renseigné,19,,Verkäuferin,TRUE,female
+1125,Piccand,Astrid,Weiterbildung Hauswirtschaft,+41 26 304 13 75,astrid.piccand@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1126,Piccand,François,Amt für Unterricht der Sekundarstufe 2,+41 26 305 12 40,francois.piccand@fr.ch,1,,Dienstchef,FALSE,male
+1127,Piccand,Sonia,PS Vuisternens-dt-Romont,+41 26 655 03 21,direction.ep.vuisternens-dt-romont@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1128,Pichonnaz,Fabrice,Bildungszentrum für Naturberufe (BZNB),+41 26 305 59 33,fabrice.pichonnaz@fr.ch,1,,Lehrer Gärtnerschule,FALSE,male
+1129,Pichonnaz,Pascal,Rechtswissenschaftliche Fakultät,+41 26 300 80 01,pascal.pichonnaz@unifr.ch,1,,Dekan,FALSE,male
+1130,Pichonnaz,Raphaël,Data Governance,+41 26 305 50 71,,0,,Experte für Data Governance,FALSE,male
+1131,Pico,Rachel,Funktionsbewertung (SPO-E),+41 26 305 54 66,Rachel.Pico@.fr.ch,1,,Verwaltungsangestellte,FALSE,female
+1132,Piek,Michaël,Weiterbildung,+41 26 305 72 10,PiekM@edufr.ch,1,,Dekan,FALSE,male
+1133,Pieren,Simone,Generalsekretariat,+41 26 305 29 05,,0,,Übersetzerin,TRUE,female
+1134,Pierret,Méline,Amt für Sport,,,0,,Kaufmännischer Lernender,FALSE,female
+1135,Pierret,Philippe,Abteilung Organisation und Support; Direktion,+41 26 305 96 63,philippe.pierret@fr.ch,1,,Sektionschef; Adjunkt des Dienstchefs,FALSE,male
+1136,Piller,Andreas,Sondereinrichtungen,+41 26 305 29 76,,0,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1137,Piller,Chantal,Französischsprachige Lehrpersonen der Orientierungsschule,+41 26 305 12 10,,0,,Sekretärin,TRUE,female
+1138,Piller,Christian,Direktion,+41 26 305 98 98,pillerch@edufr.ch,1,,Vorsteher,FALSE,male
+1139,Piller,Madeleine,Generalsekretariat,+41 26 305 22 13,,0,,Verantwortliche HR,FALSE,female
+1140,Piller,Michel,Schulinspektorat,+41 26 305 12 34,michel.piller@fr.ch,1,,Schulinspektor,TRUE,male
+1141,Piller-Tinguely,Gisèle,Generalsekretariat,+41 26 305 22 10,,0,,Direktionsassistentin,TRUE,female
+1142,Piller-Waeber,Eliane,Handelsregisteramt,+41 26 305 30 94,eliane.piller-waeber@fr.ch,1,,Sekretariat und Schalter,FALSE,female
+1143,Pillonel,Daniel,Museum für Kunst und Geschichte,+41 26 305 51 53,,0,,Technischer Leiter,FALSE,male
+1144,Pillonel,Jean-Marc,Kreis 2,+41 26 305 91 38,,0,,Technischer Sachbearbeiter,FALSE,male
+1145,Pillonel,Marlyse,Pädagogische Berater/innen,+41 26 322 26 61,marlyse.pillonel@bluewin.ch,1,,Analyse und Schule Entwicklung,FALSE,female
+1146,Pillonel,Pierre,Amt für Ausbildungsbeiträge,+41 26 305 12 50,pierre.pillonel@fr.ch,1,,Dienstchef,FALSE,male
+1147,Pillonel,Sylvie,Bildungszentrum für Naturberufe (BZNB),+41 26 305 59 20,sylvie.pillonel@fr.ch,1,,Berufsschullehrerin,TRUE,female
+1148,PINTO,Diana,Verwaltung und Empfang,+41 26 305 49 65,,0,,Kaufmännischer Praktikant,FALSE,female
+1149,Pironneau,Jean-François,Secteur Environnement Utilisateurs,,,0,,Architecte en GED,FALSE,male
+1150,Pittet,Jeanne,Generalsekretariat,+41 26 305 36 04,jeanne.pittet@fr.ch,1,,Praktikant,FALSE,female
+1151,Pittet,Olivier,Tierproduktion (TP),+41 26 305 58 99,olivier.pittet@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1152,Pittet,Sylvie,Generalsekretariat,+41 26 305 31 01,sylvie.pittet@fr.ch,1,,Direktionsassistentin,TRUE,female
+1153,Pittet-Goumaz,Florence,PS Montagny,+41 26 662 46 52,direction.ep.montagny@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1154,Plancherel,Carole,Schulzahnpflegedienst,+41 26 305 98 00,,0,,Dienstchefin,TRUE,female
+1155,Plattner,Thomas,Amt für Gesundheit,+41 26 305 29 10,,0,,Amtsvorsteher,FALSE,male
+1156,Pleines,Thierry,3. Forstkreis,+41 26 305 23 61,thierry.pleines@fr.ch,1,,Leiter Forstkreis,FALSE,male
+1157,Pochon,Michel,PS Neyruz,+41 26 916 15 60,direction.ep.neyruz@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1158,Poffet,Sylvia,Automobil/Mechanik/Elektronik/Multi Massenmedien/Metallindustrie/Haustechnik/Künst und Industrie grafische/Reinigung/Uhrenfabrik,+41 26 305 25 00,sylvia.poffet@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+1159,Pollino,Davide,Freiburgisches Agro-Lebensmittellabor,,davide.pollino@fr.ch,1,,Laborant,FALSE,male
+1160,Pompini,Manuel,"Sektor Faune, Biodiversität, Jagd und Fischerei",+41 26 305 23 43,manuel.pompini@fr.ch,1,,"Wissenschaftlicher Mitarbeiter, aquatische Lebensräume und Fischerei",FALSE,male
+1161,Pompini,Olivier,Entwässerung und Abwasserreinigung,+41 26 305 37 58,olivier.pompini@fr.ch,1,,Verantwortlicher Einzugsgebiet,TRUE,male
+1162,Portmann,Manfred,Lärm und nichtionisierende Strahlung (NIS),+41 26 305 64 88,manfred.portmann@fr.ch,1,,Lärm und nichtionisierende Strahlung,FALSE,male
+1163,Portmann,Stéphanie,Sektion Finanzmanagementinstrumente und Subventionsverwaltung (FIMIS),+41 26 305 54 72,,0,,Wirtschaftswissenschaftlerin,TRUE,female
+1164,Portmann-Hächler,Susanne,Fachstelle Fritic,+41 26 305 72 64,susanne.portmann@edufr.ch,1,,Pädagogische Mitarbeiterin,TRUE,female
+1165,Postiguillo,Sabrina,Gewerbliche und Industrielle Berufsschule,+41 26 305 45 60,postiguillos01@edufr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1166,Poulat,Hugues,Entwässerung und Abwasserreinigung,+41 26 305 38 36,hugues.poulat@fr.ch,1,,Sektorchef,FALSE,male
+1167,Poursac,Camille,Direktion - Verwaltung,+41 26 305 71 12,PoursacC@edufr.ch,1,,"Wissenschaftlicher Mitarbeiter, Qualitätsverantwortlicher",FALSE,male
+1168,Praz,Emmanuel,Amt für Sonderpädagogik (SoA),+41 26 305 40 54,emmanuel.praz@fr.ch,1,,Pädagogischer Mitarbeiter,FALSE,male
+1169,Preisig,Rahel,Behörde für Grundstückverkehr,,,0,,Juristische Beraterin,TRUE,female
+1170,Priou,Claudine,Sektor Wissenschaftliche Mitarbeit,+41 26 305 74 78,,0,,Kantonale Pflegefachfrau für Inkeftionsprävention,FALSE,female
+1171,Privet,Patricia,Amt für Gemeinden,+41 26 305 22 42,patricia.privet@fr.ch,1,,Sekretärin,TRUE,female
+1172,Progin,Alexandra,Sektor Verwaltung und Finanzen,+41 26 305 23 43,alexandra.progin@fr.ch,1,,Sekretärin-Buchhalterin / HR Assistentin,TRUE,female
+1173,Progin,Florence,Sekretariat,+41 26 305 37 84,florence.progin@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1174,Progin,José,Generalsekretariat,+41 26 305 31 05,jose.progin@fr.ch,1,,Jurist,FALSE,male
+1175,Progin,Nathanaël,Bindeatelier,+41 26 305 10 82,,0,,Buchbinder,TRUE,male
+1176,Progin de Raemy,Catherine,Fachstelle Fritic,+41 26 305 72 66,catherine.progin@edufr.ch,1,,Pädagogische Mitarbeiterin,TRUE,female
+1177,Progin-Sonney,Mélanie,Direktion,+41 26 305 98 95,proginme@edufr.ch,1,,Vorsteherin,TRUE,female
+1178,Prongué,Marie-Hélène,Couture-Lehratelier,+41 26 305 26 01,Non renseigné,20,,Verantwortliche Atelier 1,FALSE,female
+1179,Puerro-Freiburghaus,Sandra,Amt für Sonderpädagogik (SoA),+41 26 305 40 53,sandra.puerro-freiburghaus@fr.ch,1,,Pädagogische Mitarbeiterin,TRUE,female
+1180,Pugin,Anita,Planung und Mobilität,+41 26 304 14 28,anita.pugin@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1181,Pugin,Daniel,Wasserbau und Unterhalt,+41 26 305 37 42,daniel.pugin@fr.ch,1,,Sektorchef/Stellvertretender Sektionschef,FALSE,male
+1182,Pugin,Patrick,Sekretariat des Grossen Rates,+41 26 305 10 69,patrick.pugin@fr.ch,1,,Parlamentssekretär,FALSE,male
+1183,Pürro,David,Vereinigung des Kantonalen Berufsbildungszentrums,+41 26 305 25 01,,0,,Buchhalterin,TRUE,male
+1184,Pürro,Lucas,Sekretariat,+41 26 305 35 54,lucas.puerro@fr.ch,1,,Kaufmännischer Lernender,FALSE,male
+1185,Purro,Philippe,Kantons- und Universitätsbibliothek,+41 26 305 13 49,philippe.purro@fr.ch,1,,Hauswart,FALSE,male
+1186,Python,Béatrice,Küche,+41 26 305 55 21,Non renseigné,21,,Restaurant-Angestellte,FALSE,female
+1187,Python,Isabelle,Pädagogische Berater/innen,+41 26 305 73 98,isabelle.python@fr.ch,1,,Schulentwicklung und Überfachliche Kompetenzen,FALSE,female
+1188,Python,Michel,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 72,michel.python@fr.ch,1,,Werkmeister für Maurerarbeiten,FALSE,male
+1189,Python Progin,Catherine,Abteilung Bauwesen,+41 26 305 36 33,Catherine.PythonProgin@fr.ch,1,,Architektin,TRUE,female
+1190,Raemy,Aurélie,Finanzverwaltung (FiVe),+41 26 305 45 38,aurelie.raemy@fr.ch,1,,Lernende,FALSE,female
+1191,Raemy,Beat,Kantonaler Finanzdienst,+41 26 305 31 31,Beat.Raemy@fr.ch,1,,Höherer Verwaltungssachbearbeiter,FALSE,male
+1192,Raemy,Jean-Claude,Verwaltung und Schutz der Gewässer,+41 26 305 37 35,jean-claude.raemy@fr.ch,1,,Sektorchef,FALSE,male
+1193,Raemy,Manfred,Oberamt des Sensebezirks,+41 26 305 74 34,,0,,Oberamtmann,FALSE,male
+1194,Raemy,Mireille,Tierproduktion (TP),+41 26 305 58 68,mireille.raemy@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1195,Raemy-Mugny,Valèrie,Schulinspektorat,+41 26 305 73 80,inspectorat.scolaire@fr.ch,3,,Sekretärin,TRUE,female
+1196,Rais,Lise,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 05,lise.rais@fr.ch,1,,Betriebsberaterin,TRUE,female
+1197,Ramseier,Claude,Kantonschemiker und Lebensmittelsicherheit; Amt für Lebensmittelsicherheit und Veterinärwesen,+41 26 305 80 00,,0,,Kantonschemiker; Kantonschemiker und Stellvertretender Amtsvorsteher,FALSE,male
+1198,Ramuz,Patrick,Juristische Abteilung,+41 26 305 36 11,Patrick.Ramuz@fr.ch,1,,Juristischer Berater,FALSE,male
+1199,Rappo Gumy,Evelyne,Generalsekretariat,+41 26 305 30 38,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1200,Rarivo Heimoz,Murielle,Grundbuchamt des Saanebezirks,+41 26 305 35 84,,0,,Verwaltungsangestellte,FALSE,female
+1201,Rauber,Jean-François,Schulbauernhof von Grangeneuve,+41 26 305 57 50,jean-francois.rauber@fr.ch,1,,Chef des Landwirtschaftsbetriebs,FALSE,male
+1202,Rauber,Sandra,Empfang - Sekretariat - Verwaltung,+41 26 305 21 28,raubers01@edufr.ch,1,,Sekretärin,TRUE,female
+1203,Rebetez,Corinne,Generalsekretariat,+41 26 305 36 07,corinne.rebetez@fr.ch,1,,Kommunikationsverantwortliche,FALSE,female
+1204,Reicherts,Simone,Direktion,+41 26 305 21 24,reichertssim@edufr.ch,1,,Vorsteherin,TRUE,female
+1205,Reidy Aebischer,Ursula,Amt für Unterricht der Sekundarstufe 2,+41 26 305 45 13,ursula.reidyaebischer@fr.ch,1,,Stellvertetende Amtsvorsteherin,TRUE,female
+1206,Reinhard,Fabien,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 25,fabien.reinhard@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1207,Reinhard,Nicolas,GIS-Kompetenzzentrum (GISKZ),+41 26 305 85 67,nicolas.reinhard@fr.ch,1,,Spezialisierter Mitarbeiter auf SIG,FALSE,male
+1208,Reinhard,Samuel,Pflanzenbau (PB),+41 26 305 58 49,samuel.reinhard@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1209,Remy,Franziska,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 93,franziska.corpataux@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1210,Renz-Kaeser,Claudine,Réception,+41 26 305 25 95,claudine.renzkaeser@edufr.ch,1,,Receptionistin-Telefonistin,TRUE,female
+1211,Repond,Christel,Generalsekretariat,+41 26 305 36 05,christel.repond@fr.ch ,1,,Direktionsassistentin,TRUE,female
+1212,Repond,Frédéric,Oberamt der Saane,+41 26 305 22 23,frederic.repond@fr.educanet2.ch,1,,Association du cycle d´orientation Sarine-Campagne et Haut-Lac français,TRUE,male
+1213,Rey,Ludovic,Amtliche Vermessung (AV),+41 26 305 35 48,ludovic.rey@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1214,Rey,Véronique,Werkhof Tour Rouge,+41 26 305 37 33,veronique.rey@fr.ch,1,,Technische Sachbearbeiterin,TRUE,female
+1215,Reyes Repond,Sylvie,Verwaltung,+41 26 305 55 38,sylvie.reyes@fr.ch,1,,Verantwortliche Hausverwaltung,FALSE,female
+1216,Reynaud,Jean-Luc,Kantonale Lehrmittelverwaltung,+41 26 305 13 93,jean-luc.reynaud@ocms-fribourg.ch,1,,"Wareneingang, Lager und Vertrieb",TRUE,male
+1217,Reynaud,Serge,Finanzinspektorat,+41 26 305 31 39,serge.reynaud@fr.ch,1,,Finanz Inspektor,TRUE,male
+1218,Rhême,Christophe,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 55 61,christophe.rheme@fr.ch,1,,Lehrer BHML,FALSE,male
+1219,Rhyn,Louis,"PS Cottens, Autigny-Chénens",+41 26 477 93 02,direction.ep.cottens@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1220,Rhyn,Marcel,Berufsfachschule Soziales-Gesundheit,+41 26 305 56 28,,0,,Abteilungsvorsteher Soziales,FALSE,male
+1221,Ribeiro,Alicia,Juristische Abteilung,+41 26 305 36 13,alicia.ribeiro@fr.ch,1,,Juristin,TRUE,female
+1222,Ribordy,Pascale,Studien und Planung,+41 26 305 37 49,pascale.ribordy@fr.ch,1,,Sektorchefin,TRUE,female
+1223,Richard,Silvia,Bereich Ausbildung,+41 26 305 25 00,silvia.richard@edufr.ch,1,x,Direktionssekretärin,TRUE,female
+1224,Richard,Silvia,Gartenbau/Lebensmittel/Holz/Berufsmaturität,+41 26 305 25 00,silvia.richard@edufr.ch,2,x,Verwaltungsangestellte,FALSE,female
+1225,Richoz,Simon,Abteilung kantonale Planung,+41 26 305 61 60,simon.richoz@fr.ch,1,,Sektionschef,FALSE,male
+1226,Richoz,Yvan,Abteilung Strafsachen,+41 26 305 22 27,Yvan.Richoz@fr.ch,1,,Verwaltungssachbearbeiter,FALSE,male
+1227,Ridoré,Carl-Alex,Stab,+41 26 305 22 26,,0,,Oberamtmann,FALSE,male
+1228,Riedo,Dane,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 73,dane.riedo@fr.ch,1,,Werkmeister für Landmaschinen,TRUE,male
+1229,Riedo,Tamara,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+1230,Ries,Bernard,Rektorat,+41 26 300 83 33,bernard.ries@unifr.ch,1,,Vizerektor,FALSE,male
+1231,Rime,Ludovic,"Tätigkeitsgebiet: Landwirtschaft, Kanzlei, Legislative, Raumordnung & Gesundheit",,,0,,Analytiker-Programmierer,FALSE,male
+1232,Rime,Marion,Amt für Kultur,+41 26 305 12 81,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1233,Rime,Pierre,Ausführung,+41 26 305 36 70,pierre.rime@fr.ch,1,,Projektleiter,FALSE,male
+1234,Rime,Thomas,Landwirtschaftliches Beratungszentrum (LBZ),+41 26 304 13 80,thomas.rime@fr.ch,1,,Verantwortlicher Projekt Innovation,FALSE,male
+1235,Rimensberger,Timon,Fachstelle Fritic,+41 26 305 72 70,timon.rimensberger@edufr.ch,1,,Pädagogischer Mitarbeiter,FALSE,male
+1236,Rion,Catherine,Freiburger Fachstelle für sexuelle Gesundheit,+41 26 305 29 55,,0,,Fachfrau für sexuelle Gesundheit,FALSE,female
+1237,Ripollés,Javier,Amt für Statistik,+41 26 305 28 32,javier.ripolles@fr.ch,1,,Verwaltungssachbearbeiter,FALSE,male
+1238,Risse,Jean-Luc,Technischer Dienst,+41 26 305 57 65,jean-luc.risse@fr.ch,1,,Chauffeur,FALSE,male
+1239,Robatel,Eric,SANIMA - Nutztierversicherungsanstalt,+41 26 305 22 75,,0,,Höherer Verwaltungssachbearbeiter,FALSE,male
+1240,Robatel,Jacques,Finanzverwaltung (FiVe),+41 26 305 36 52,jacques.robatel@fr.ch,1,,Sektionschef,FALSE,male
+1241,Robatel,Mélissa,Veranstaltungen und öffentliche Gaststätten,+41 26 305 22 20,,0,,Verwaltungssachbearbeiter Direktion,FALSE,female
+1242,Robert,Nicolas,Kantonale Sozialversicherungsanstalt; Invalidenversicherungsstelle,+41 26 305 69 68,nicolas.robert@fr.oai.ch,1,,Stellvertretender Direktor; Direktor,FALSE,male
+1243,Roch,Michel,4. Forstkreis,+41 26 305 95 30,michel.roch@fr.ch,1,,Förster,FALSE,male
+1244,Rodriguez,José Joaquin,CO de Riaz,+41 26 919 28 00,direction.riaz@co-gruyere.ch,1,,Direktor,FALSE,male
+1245,Rody,Frédéric,"PS Marsens, Echarlens, Sorens",+41 26 915 90 30,direction.ep.echarlens-marsens-sorens@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1246,Roeske,Yvan,Rechtsdienst,+41 26 305 22 20,,0,,Juristischer Berater,FALSE,male
+1247,Roggo,Béatrice,Bereich Finanzen,+41 26 305 25 07,beatrice.roggo@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+1248,Roggo,Magalie,Administratives Personal; Lehrpersonen der Sekundarstufe 2,+41 26 305 12 06,,0,,Sekretärin,TRUE,female
+1249,Rolle,Lionel,Schulinspektorat,+41 26 305 73 69,lionel.rolle@fr.ch,1,,Schulinspektor des 7. Kreises,TRUE,male
+1250,Rolle,Yona,Landwirtschaftliches Beratungszentrum (LBZ),+41 26 305 58 90,yona.rolle@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1251,Romanens,Claude,Verwaltung (Verw); Qualität und Sicherheit,+41 26 305 36 75,claude.romanens@fr.ch,1,,Sektorchef,FALSE,male
+1252,Romanens,Marion,Sozialvorsorgeamt,+41 26 305 29 26,,0,,Verwaltungssachbearbeiterin,TRUE,female
+1253,Romanens,Valérie,Ausbildung Hauswirtschaft dual,+41 26 305 56 13,valerie.romanens@fr.ch,1,,Lehrerin,TRUE,female
+1254,ROPRAZ,Bertrand,Verwaltung und Empfang,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+1255,Ropraz,Maurice,Mitglieder des SR,+41 26 305 14 00,,0,,Staatsrat - Sicherheits- und Justizdirektion,FALSE,male
+1256,Ropraz,Maurice,Generalsekretariat,+41 26 305 14 00,,0,,"Staatsrat, Direktor",FALSE,male
+1257,Roschi,Valérie,PS Le Mouret,+41 26 413 14 20,direction.ep.lemouret@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1258,Rosenmund,Alain,Generalsekretariat,+41 26 305 36 06,alain.rosenmund@fr.ch,1,,Übersetzer,FALSE,male
+1259,Rossel,Anaïs,Naturhistorisches Museum,+41 26 305 89 08,,0,,Digitalkommunikationsverantwortliche-r,FALSE,female
+1260,Rossel Imanze,Sophie,Gewerbebibliothek,+41 26 305 25 09,rossels@edufr.ch,1,,Verantwortlicher,FALSE,female
+1261,Rosset,Véronique,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 54 46,Veronique.Rosset@fr.ch,1,,Personaldienst,FALSE,female
+1262,Rossier,Eric,SIERA,+41 26 305 37 21,,0,,Verantwortlicher Elektromechanik,FALSE,male
+1263,Rossier,Fabienne,Sektor Natur und Landschaft,+41 26 305 51 86,fabienne.rossier@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1264,Rossier,Gaëtan,Direktion; Rechtsdienst,+41 26 305 97 10,gaetan.rossier@fr.ch,1,,Adjunkt des Dienstchefs; Sektionschef,FALSE,male
+1265,Rossier,Laurence,Pädagogische Berater/innen,+41 26 305 40 94,laurence.rossier@fr.ch,1,,Allgemeinbildung und Gesundheit in der Schule,TRUE,female
+1266,Rossier,Marc,Direktion,,marc.rossier@ocn.ch,1,,Direktor,FALSE,male
+1267,Rossier,Marianne,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 47,marianne.rossier@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1268,Rossier,Patrick,4. Forstkreis,+41 26 305 95 30,patrick.rossier@fr.ch,1,,Leiter Forstkreis,FALSE,male
+1269,Rossy,Roselyne,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+1270,Rothenbühler,Marianne,Couture-Lehratelier,+41 26 305 26 06,rothenbühlerm@edufr.ch,1,,Verantwortliche Atelier 2,FALSE,female
+1271,Rotzetter,Carole,Abteilung Bauwesen,+41 26 305 36 32,Carole.Rotzetter@fr.ch,1,,Architektin,TRUE,female
+1272,Rotzetter,Gabrielle,Sektion Labor und Stoffe,,gabrielle.rotzetter@fr.ch,1,,Fachlaborantin,TRUE,female
+1273,Rotzetter,Gilbert,PS La Verrerie,+41 26 552 06 02,direction.ep.semsales-verrerie@fr.educanet2.ch,1,x,Schulleiter-in,TRUE,male
+1274,Rotzetter,Gilbert,PS Semsales,+41 26 918 58 00,direction.ep.semsales-verrerie@fr.educanet2.ch,2,x,Schulleiter-in,TRUE,male
+1275,Rotzetter,Mireille,Kantonales Sozialamt,+41 26 305 29 88,,0,,Buchhaltungsangestellte,FALSE,female
+1276,Rouiller,Christophe,Signalisation,+41 26 305 37 09,christophe.rouiller@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+1277,Rouiller Zbinden,Carmen,Sozialvorsorgeamt,+41 26 305 29 79,,0,,Stellvertetende Amtsvorsteherin,TRUE,female
+1278,Roulin,Audrey,Generalsekretariat,+41 26 305 45 51,,0,,Verwaltungsangestellte,FALSE,female
+1279,Roulin,Brigitte,Eikon - Berufsfachschule für Gestaltung,+41 26 305 46 86,roulinb@edufr.ch,1,,Verwaltungsadjunktin,TRUE,female
+1280,Roulin,Dominique,Direktion,+41 26 305 65 13,RoulinD@edufr.ch,1,,Vorsteher,FALSE,male
+1281,Roulin,Michel,SANIMA - Nutztierversicherungsanstalt,+41 26 305 22 80,,0,,Vorsteher,FALSE,male
+1282,Roulin,Nathalie,Amt für Energie,+41 26 305 28 47,nathalie.roulin@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1283,Roulin,Yvan,"Direktzahlungen; Produkteförderung, Viehzucht und Weinbau",+41 26 305 23 18,yvan.roulin@fr.ch,1,,Umwelt-und Landschaftsagrarmassnahmen; Verantwortlicher Viehzucht,FALSE,male
+1284,Rück,Stanislas,Amt für Kulturgüter,+41 26 305 12 85,stanislas.rueck@fr.ch,1,,Dienstchef,FALSE,male
+1285,Ruffieux,Alexandre,Abteilung kantonale Planung,+41 26 305 36 21,alexandre.ruffieux.seca@fr.ch,1,,Geoinformatiker,TRUE,male
+1286,Ruffieux,Alexandre,Sektor Gebäudeunterhalt,+41 26 305 38 02,alexandre.ruffieux@fr.ch,1,,Schreiner,TRUE,male
+1287,Ruffieux,Claude,Empfang - Sekretariat - Verwaltung,+41 26 305 99 02,ruffieuxc01@edufr.ch,1,,Vorsteher,FALSE,male
+1288,Ruffieux,Mireille,Generalsekretariat,+41 26 305 29 08,,0,,Direktionssekretärin,TRUE,female
+1289,Ruffieux,Sébastien,Freiburger Spital,+41 26 426 88 30,sebastien.ruffieux@h-fr.ch,1,,Generalsekretär,FALSE,male
+1290,Rüffieux,Thomas,Automobil/Mechanik/Elektronik/Multi Massenmedien/Metallindustrie/Haustechnik/Künst und Industrie grafische/Reinigung/Uhrenfabrik,+41 26 305 25 51,thomas.rueffieux@edufr.ch,1,,Sektorchef,FALSE,male
+1291,Ruffini,Andrea Marco,Fachstelle Fritic,+41 26 305 72 76,andrea.ruffini@edufr.ch,1,,Informaticien de gestion,FALSE,male
+1292,Ruggli,Dominique,Pflanzenbau (PB),+41 26 305 58 66,dominique.ruggli@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1293,Rumo,Charles,Küche,+41 26 305 55 24,Non renseigné,22,,Küchenhilfe,FALSE,male
+1294,Rumo,Christoph,Fachstelle Fritic,+41 26 305 72 62,christoph.rumo@edufr.ch,1,,Informatische Beratung,FALSE,male
+1295,Rumo,Leo,Naturhistorisches Museum,+41 26 305 89 00,,0,,Technischer Sachbearbeiter,FALSE,male
+1296,Rumo,Manfred,Bereich Personal,+41 26 305 25 22,manfred.rumo@edufr.ch,1,x,Bereichsleiter HR,FALSE,male
+1297,Rumo,Manfred,Direktion und Sekretariat,+41 26 305 25 00,manfred.rumo@edufr.ch,2,x,Bereichsleiter HR,FALSE,male
+1298,Ruprecht,Olivier,Tierproduktion (TP),+41 26 305 58 93,olivier.ruprecht@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1299,Rusca,Corinne,Abteilung Institutionen und Rechtsangelenheiten,+41 26 305 75 37,corinne.rusca@fr.ch,1,,Juristin,TRUE,female
+1300,Rusca,Sylviane,Pädagogische Berater/innen,+41 26 305 40 52,sylviane.rusca@fr.ch,1,,Unterstützungsmassnahmen,FALSE,female
+1301,Rüssi,Irene,Sektion Finanzmanagementinstrumente und Subventionsverwaltung (FIMIS),+41 26 305 54 71,,0,,Adjunktin des Sektionschefs,TRUE,female
+1302,Russier,Samuel,Generalsekretariat,+41 26 305 45 54,,0,,Generalsekretär,FALSE,male
+1303,S. Esseiva,Nora,Landwirtschaftliches Beratungszentrum (LBZ),+41 26 305 58 28,nora.esseiva@fr.ch,1,,Juristin,TRUE,female
+1304,Sabri,Sami,Finanzverwaltung (FiVe),+41 26 305 45 38,sami.sabri@fr.ch,1,,Auszubildender,FALSE,male
+1305,Sacco,Vittoria,Amt für Statistik,,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1306,Sagnol,Pierre-Etienne,Pädagogische Berater/innen,+41 26 305 40 92,pierre-etienne.sagnol@fr.ch,1,,Musik,FALSE,male
+1307,Sailer,Nilgün,Abteilung Ortsplanung,+41 26 305 61 58,Nilguen.Sailer@fr.ch,1,,Raumplanerin,TRUE,female
+1308,Salicio,Danielle,Pädagogische Berater/innen,+41 26 305 73 91,danielle.salicio@fr.ch,1,,Französisch 2. Zyklus,FALSE,female
+1309,Sallin,Françoise,PS Hauterive,+41 26 411 22 57,direction.ep.hauterive@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1310,Sallin,Michaël,Staatsbuchhaltung,+41 26 305 31 33,michael.sallin@fr.ch,1,,Stellvertreter,FALSE,male
+1311,Salulessa,Marina,Direktionssekretariat,+41 26 305 10 40,,0,,Verwaltungsadjunktin,TRUE,female
+1312,Sampaio,Fatima,Küche,+41 26 305 55 21,Non renseigné,23,,Restaurant-Angestellte,FALSE,female
+1313,Sapia,Jean-Claude,Öffentlicher Verkehr und Monitoring,+41 26 304 14 29,jean-claude.sapia@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+1314,Sapia,Martine,Kaufmännische Berufsfachschule,+41 26 305 25 81,sapiam@edufr.ch,1,,Verwaltungsadjunktin,TRUE,female
+1315,Sapin,Marie-Christine,Kantonale Lehrmittelverwaltung,+41 26 305 13 98,,0,,Lehrmittel und Schulmaterial,FALSE,Female
+1316,Saudan,Marion,Amt für Sport,+41 26 305 44 93,marion.saudan@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1317,Sauterel,Eric,Wasserbau und Unterhalt,+41 26 305 37 44,eric.sauterel@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+1318,Sauteur,Emmanuelle,Direktion; Archäologie und Territorium,+41 26 305 82 33,emmanuelle.sauteur@fr.ch,1,,Adjunktin des Dienstchefs ad interim; Sektorchefin,TRUE,female
+1319,Sauteur,Laure,Fachstelle Fritic,+41 26 305 45 44,Laure.Sauteur@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1320,Sauteur,Laurent,Abteilung Bauwesen,+41 26 305 36 29,laurent.sauteur@fr.ch,1,,Architektin,TRUE,male
+1321,Sauteur-Brodard,Myriam,Sektion Labor und Stoffe,+41 26 305 63 57,myriam.sauteur@fr.ch,1,,Fachlaborantin,TRUE,female
+1322,Sautière,Hugues,Abteilung Arbeitslosigkeit; Direktion,+41 26 305 97 27,hugues.sautiere@fr.ch,1,,Sektionschef; Adjunkt des Dienstchefs,FALSE,male
+1323,Savary,Danièle,Sektor Gebäudeverwaltung,+41 26 305 37 81,daniele.savary@fr.ch,1,,Höhere Verwaltungssachbearbeiterin,TRUE,female
+1324,Savoy,Anne,Abteilung Bauwesen,+41 26 305 61 62,anne.savoy@fr.ch,1,,Architektin,TRUE,female
+1325,Schaad,Marcel,Freiburgisches Agro-Lebensmittellabor,+41 26 305 57 39,marcel.schaad@fr.ch,1,,Laborant,FALSE,male
+1326,Schaer,Raphaël,Pädagogische Berater/innen,+41 26 305 40 50,raphaël.schaer@fr.ch,1,,Natur Mensch Gesellschaft,FALSE,male
+1327,Schaerz,Mélanie,Amt für Sonderpädagogik (SoA),+41 26 305 40 62,melanie.schaerz@fr.ch,1,,Sekretärin,TRUE,female
+1328,Schafer,Sébastien,Sektor Gebäudeunterhalt,+41 26 305 37 96,Sebastien.Schafer@fr.ch,1,,Verwalterin,TRUE,male
+1329,Schafer Blanc,Catherine,Sektion Abfall und Altlasten,+41 26 305 63 64,catherine.schafer@fr.ch,1,,"Abfall, Altlasten",FALSE,female
+1330,Schaller,Christophe,Direktion,+41 26 304 13 82,christophe.schaller@fr.ch,1,,Wissenschaftlicher Berater,FALSE,male
+1331,Schaller,Dominique,Zentrale Dienste,+41 26 305 23 43,dominique.schaller@fr.ch,1,,Dienstchef,FALSE,male
+1332,Schaller,Sabrina,free win,,,0,,Direktionsassistentin,TRUE,female
+1333,Schellenberg,Daniela,Generalsekretariat,+41 26 305 22 14,,0,,Wissenschaftliche Beraterin,TRUE,female
+1334,Schenker,Marie-France,Invalidenversicherungsstelle,+41 26 305 53 64,marie-france.schenker@fr.oai.ch,1,,Stellvertretende Direktorin,TRUE,female
+1335,Schibler,Corinne,Oberamt des Greyerzbezirks,+41 26 305 64 10,corinne.schibler@fr.ch,1,,Sekretärin,TRUE,female
+1336,Schild,Lisa,Naturhistorisches Museum,+41 26 305 89 28,,0,,Kulturvermittlerin,TRUE,female
+1337,Schildknecht,Nathanaël,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 09,nathanael.schildknecht@fr.ch,1,,Betriebsberater,FALSE,male
+1338,Schinz,Marcel,Kantons- und Universitätsbibliothek,+41 26 305 13 37,marcel.schinz@fr.ch,1,,Sektorchef Katalogisierung,FALSE,male
+1339,Schmid,Christina,Amt für Sonderpädagogik (SoA),+41 26 305 40 68,christina.schmid@fr.ch,1,,Inspektorin der Sonderschule,TRUE,female
+1340,Schmid,Christoph,Bildungszentrum für Naturberufe (BZNB),+41 26 305 59 34,christophe.schmid@fr.ch,1,,Lehrer,FALSE,male
+1341,Schmid,Karen,Öffentlicher Verkehr und Monitoring,+41 26 304 14 38,karen.schmid@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1342,Schmid,Reto,Sekretariat des Grossen Rates,+41 26 305 10 55,reto.schmid@fr.ch,1,,Stv. Generalsekretär,FALSE,male
+1343,Schmid,Roland,Amt für Gemeinden,+41 26 305 22 45,roland.schmid@fr.ch,1,,Juristischer Berater,FALSE,male
+1344,Schmoutz,Chantale,Kantonale Lehrmittelverwaltung,+41 26 305 13 92,,0,,"Wareneingang, Lager und Vertrieb",TRUE,female
+1345,Schmutz,Anne,Stabsdienste,+41 26 304 14 27,anne.schmutz@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1346,Schmutz,Bernhard,"CASEi, milchwirtschaftliche Beratung",+41 26 305 57 00,bernhard.schmutz@casei.ch,1,,Käsereiberater,FALSE,male
+1347,Schmutz,Justine,Amt für Statistik,+41 26 305 28 26,,0,,Lehrling Kauffrau,TRUE,female
+1348,Schmutz,Samuel,2. Forstkreis,+41 26 305 75 10,samuel.schmutz@fr.ch,1,,Forstingenieuradjunkt,TRUE,male
+1349,Schmutz Julmy,Valentine,Aussenbeziehungen,+41 26 305 50 73,,0,,Direktionssekretärin,TRUE,female
+1350,Schneider,Adrienne,Abteilung kantonale Planung,+41 26 305 36 10,adrienne.schneider@fr.ch,1,,Raumplanerin,TRUE,female
+1351,Schneider,Carine,Gartenbau/Lebensmittel/Holz/Berufsmaturität,+41 26 305 24 97,carine.schneider@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+1352,Schneider,Frédéric,1. Forstkreis,+41 26 305 56 50,frederic.schneider@fr.ch,1,,Leiter Forstkreis,FALSE,male
+1353,Schneider,Vanessa,Bildungszentrum für Naturberufe (BZNB),+41 26 304 13 73,vanessa.schneider@fr.ch,1,,Unterrichtswesen,FALSE,female
+1354,Schneider,Werner,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 71,werner.schneider@fr.ch,1,,Werkmeister für Holzbearbeitung,FALSE,male
+1355,Schneuwly,Gérard,Sektor Gebäudeunterhalt,+41 26 305 38 02,gerard.schneuwly@fr.ch,1,,Maler,FALSE,male
+1356,Schneuwly,Michelle,Sektor Natur und Landschaft,+41 26 305 45 23,michelle.schneuwly@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1357,Schneuwly,Tanja,Kantonale Lehrmittelverwaltung,+41 26 305 45 16,,0,,"Wareneingang, Lager und Vertrieb",TRUE,female
+1358,Schneuwly,Valentine,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 12 44,valentine.schneuwly@fr.ch,1,,Pädagogische Mitarbeiterin,TRUE,female
+1359,Schneuwly Dubosson,Isabelle,Direktion,+41 26 305 65 11,SchneuwlyDI@edufr.ch,1,,Vorsteherin,TRUE,female
+1360,Schnider,Marie-Noëlle,Administration,+41 26 305 37 61,marie-noelle.schnider@fr.ch,1,,Sekretärin,TRUE,female
+1361,Schoepfer,Bruno,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 15,schoepferb@edufr.ch,1,,Abteilungsvorsteher D,FALSE,male
+1362,Schoepfer,Roxane,Pflanzenbau (PB),+41 26 305 58 45,roxane.schoepfer@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1363,Schöpfer,Pascal,Naturhistorisches Museum,+41 26 305 89 06,,0,,Technischer Sachbearbeiter,FALSE,male
+1364,Schor,Andreas,Übersetzung,+41 26 305 10 57,,0,,Verantwortlicher,FALSE,male
+1365,Schorderet,Willy,Oberamt des Glanebezirks,+41 26 305 95 00,,0,,Oberamtmann,FALSE,male
+1366,Schorro,Lindsay,PS Fribourg-Neuveville-Auge,+41 26 322 37 41,direction.ep.fribourg.neuveville@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1367,Schott,Kevin,Berufsfachschule Soziales-Gesundheit,+41 26 305 56 26,schottk@edufr.ch,1,,Verwaltungsangestellter,FALSE,male
+1368,Schouwey,Alexandre,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 14,alexandre.schouwey@fr.ch,1,,Betriebsberater,FALSE,male
+1369,Schouwey,Didier,CO d'Estavayer-le-Lac,,direction@co-estavayer.ch,1,,Direktor,FALSE,male
+1370,SCHOUWEY,Dominique,Verwaltung und Empfang,+41 26 305 21 07,,0,,Bürochef,FALSE,male
+1371,Schranz,Nicole,Amt für Statistik,+41 26 305 28 36,nicole.schranz@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1372,Schuster Cordone,Caroline,Museum für Kunst und Geschichte,+41 26 305 51 45,,0,,Stellvertretende Direktorin,TRUE,female
+1373,Schutter,Tabea,Entwässerung und Abwasserreinigung,+41 26 305 37 75,tabea.schutter@fr.ch,1,,Verantwortliche Einzugsgebiet,TRUE,female
+1374,Schütz,Anne,Qualität und Sicherheit,+41 26 305 45 37,anne.schuetz@fr.ch,1,,Sekretärin-Telefonistin,TRUE,female
+1375,Schuwey,Fabienne,Zahnklinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+1376,Schuwey,Valeska,Generalsekretariat,+41 26 305 24 02,,0,,Direktionssekretärin,TRUE,female
+1377,Schuwey,Wolfram,Schulbauernhof von Grangeneuve,+41 26 305 57 54,wolfram.schuwey@fr.ch,1,,Landwirtschaftlicher Angestellter,FALSE,male
+1378,Schuwey Wolfer,Anne-Catherine,Hoch- und Tiefbau/Elektrizität/Logistik/IT,+41 26 305 24 92,schuweyac@edufr.ch,1,,Verwaltungsangestellte,FALSE,female
+1379,Schwab,Stéphane,E-Government-Sekretariat,+41 26 305 85 48,stephane.schwab@fr.ch,1,,Verantwortlicher,FALSE,male
+1380,Schwab,Véronique,Mediation für die Belange der Arbeitslosenversicherung,+41 26 305 95 60,veronique.schwab@fr.ch,1,,Mediatorin,TRUE,female
+1381,Schwaller,Sabine,Kantonale Lehrmittelverwaltung,+41 26 305 13 97,,0,,Technisches Gestalten,FALSE,female
+1382,Schwartz,Olivier,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 56,olivier.schwartz@fr.ch,1,,Ausbildungsverantwortlicher Gärtner,FALSE,male
+1383,Schweizer,Tanja,Oberamt des Seebezirks,+41 26 305 90 77,tanja.schweizer@fr.ch,1,,Buchhaltungssekretärin,TRUE,female
+1384,Schwizer-Seydoux,Florence,Amt für Unterricht der Sekundarstufe 2,+41 26 305 45 26,florence.seydoux@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1385,Scolari,Giovanna,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 91,giovanna.scolari@fr.ch,1,,Lehrerin Allgemeinbildung,TRUE,female
+1386,Secteur prévention,& cours,Administrativmassnahmen und Prävention,,,0,,-,FALSE,no_person
+1387,Seilaz,Christophe,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 72,christophe.seilaz@cpi.ch,1,,Techniker Info-Center,FALSE,male
+1388,Seitert,Grégoire,Kantonstierarzt und Veterinärwesen; Amt für Lebensmittelsicherheit und Veterinärwesen,+41 26 305 80 00,,0,,Kantonstierarzt; Amtsvorsteher und Kantonstierarzt,FALSE,male
+1389,Senay,Thibaut,Sektion Applikation,,,0,,Testmanager,FALSE,male
+1390,Seydoux,Isabelle,Gewerbliche und Kaufmännische Berufsschule,+41 26 305 87 00,seydouxl@edufr.ch,1,,Sekretärin,TRUE,female
+1391,Seydoux,Jeanine,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 52 71,jeanine.seydoux@fr.ch,1,,Direktionsassistentin,TRUE,female
+1392,Seydoux,Jean-Marie,Strassenplanung; Strassenprojekte (StrP),+41 26 305 36 86,jean-marie.seydoux@fr.ch,1,,Projektleiter,FALSE,male
+1393,Sibilia,Paola,Stabsdienste; Öffentlicher Verkehr und Monitoring,+41 26 304 14 34,paola.sibilia@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1394,Sieber,Christina,Abteilung Ortsplanung,+41 26 305 36 13,christina.sieber@fr.ch,1,,Raumplanerin,TRUE,female
+1395,Siggen,Jean-Pierre,Generalsekretariat,+41 26 305 12 00,,0,,"Staatsrat, Direktor",FALSE,male
+1396,Siggen,Jean-Pierre,Mitglieder des SR,+41 26 305 12 00,,0,,"Staatsrat - Direktion für Erziehung, Kultur und Sport",FALSE,male
+1397,Simioni,Olivier,Kantons- und Universitätsbibliothek,+41 26 305 13 11,olivier.simioni@fr.ch,1,,Sektorchef Erwerbung,FALSE,male
+1398,Simonet,Jean-Paul,Pädagogische Berater/innen,+41 26 305 73 95,jean-paul.simonet@fr.ch,1,,Deutsch 2. Zyklus und Beurteilung,FALSE,male
+1399,Simonin,Evelyne,Kantons- und Universitätsbibliothek,+41 26 305 13 46,evelyne.simonin@fr.ch,1,,Verantwortliche für die angeschlossenen Bibliotheken,FALSE,female
+1400,Sinda,Zormati,Zahnklinik Romont,+41 26 305 86 91,,0,,Zahnärztin,TRUE,Female
+1401,Sobral,Suzana,Kieferorthopädische Klinik Bulle; Kieferorthopädische Klinik Freiburg,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+1402,Soder,Justine,Amt für Sport,+41 26 305 44 92,justine.soder@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1403,Soifer,Esther,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 73,,0,,Kaufmännischer Lernender,FALSE,female
+1404,Solomon,Sofia,Interprofessionelles Weiterbildungszentrum,+41 26 305 27 74,,0,,Sachbearbeiterin Ausbildung,TRUE,female
+1405,Somsaath Dissenbach,Khampane,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 304 13 58,khampane.somsaathdissenbach@fr.ch,1,,Lehrerin BHML,TRUE,female
+1406,Sonnenwyl,Pascal,Sektor Naturgefahren; Sektor Walderhaltung und Raumplanung,+41 26 305 23 43,pascal.sonnenwyl@fr.ch,1,,Förster / Technischer Sachbearbeiter Naturgefahren,FALSE,male
+1407,Sottas,François,3. Forstkreis,+41 26 305 23 61,francois.sottas@fr.ch,1,,Försteradjunkt,FALSE,male
+1408,Sottas,Ludovic,Neue Instrumente für das Finanzmanagement,+41 26 305 45 05,ludovic.sottas.afin@fr.ch,1,,Höherer Verwaltungssachbearbeiter,FALSE,male
+1409,Sottiaux,Marie-Paule,Fachstelle Fritic,+41 26 305 85 30,Marie-Paule.Sottiaux@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1410,Spang,Rémi,Administration,+41 26 305 38 37,remi.spang@fr.ch,1,,Kaufmännischer Lernender,FALSE,male
+1411,Spicher,Michel,Sektor Walderhaltung und Raumplanung,+41 26 305 23 43,michel.spicher@fr.ch,1,,Wissenschaftlicher Mitarbeiter Geomatik,FALSE,male
+1412,Spring,Lisbeth,Pädagogische Mitarbeit,+41 26 305 40 86,lisbeth.spring@fr.ch,1,,Pädagogische Mitarbeiterin,TRUE,female
+1413,Stäger,Karin,Grundbuchamt des Sensebezirks,+41 26 305 74 84,Karin.Staeger@fr.ch,1,,Grundbuchverwalterin,TRUE,female
+1414,Stancov,Crina,FRee Trading,+41 26 305 27 77,,0,,Lehrtochter ALS,FALSE,female
+1415,Staremberg,Valérie,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML N - Berufe Hauswirtschaft)",+41 26 305 56 12,,0,,Verantwortliche des Freiburger Lehrbetriebsverbunds,FALSE,female
+1416,Stauffer,Hervé,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 52 55,,0,,EDV- Koordinator,TRUE,male
+1417,Steffes,Françoise,Direktion,+41 26 305 65 14,SteffesF@edufr.ch,1,,Vorsteherin,TRUE,female
+1418,Steiert,Jean-François,,+41 26 305 36 00,,0,,,FALSE,doppel
+1419,Steiert,Jean-François,Mitglieder des SR,+41 26 305 36 00,Jean-Francois.Steiert@fr.ch,1,,"Staatsrat, Direktor; Staatsrat - Raumplanungs-, Umwelt- und Baudirektion",FALSE,male
+1420,Steinbach,Sylvie,Pädagogische Berater/innen,+41 26 305 40 98,sylvie.steinbach@fr.ch,1,,Französisch 3. Zyklus,FALSE,female
+1421,Steiner,Carole,Zahnprophylaxe,+41 26 305 98 00,,0,,Zahnprophylaxe,FALSE,female
+1422,Steiner,Didier,Informatikprojekte,+41 26 305 10 70,,0,,Verantwortlicher,FALSE,male
+1423,Steiner,Kyria,Abteilung Ortsplanung,+41 26 305 36 22,kyria.steiner@fr.ch,1,,Raumplanerin,TRUE,female
+1424,Steiner,Suzanne,Empfang - Sekretariat - Verwaltung,+41 26 305 21 20,suzanne.steiner@fr.ch,1,,Sekretärin,TRUE,female
+1425,Steingruber,Vincent,Denkmalpflege,+41 26 305 12 88,vincent.steingruber@fr.ch,1,,"Greyerz, Alphütten",FALSE,male
+1426,Steinmann,Martin,Direktion,+41 26 305 41 34,steinmannm@edufr.ch,1,,Vorsteher,FALSE,male
+1427,Stempfel,Frédéric,Abteilung Bauwesen,+41 26 305 36 28,frederic.stempfel@fr.ch,1,,Sektionschef,FALSE,male
+1428,Stern,Hugo,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 12 25,hugo.stern@fr.ch,1,,Dienstchef,FALSE,male
+1429,Sterren,Marianne,Juristische Abteilung,+41 26 305 36 13,marianne.sterren@fr.ch,1,,Juristin,TRUE,female
+1430,Stettler,André,Zentrale Dienste; Bildungszentrum für Naturberufe (BZNB),+41 26 305 23 43,andre.stettler@fr.ch,1,,Stellvertreter des Chefs BZNB / Ausbildungsverantwortlicher Forstwarte; Adjunkt des Direktors des BZNB / Ausbildungverantwortlicher Forstwarte,FALSE,male
+1431,Steulet,Pierre,Frima Centre de formation,,pierre.steulet@cpi.ch,1,,Ausbildner,FALSE,male
+1432,Stevan,Fabienne,PS Corminboeuf-Chésopelloz,+41 79 137 77 35,direction.ep.corminboeuf@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1433,Stevan,Nicolas,Eikon - Berufsfachschule für Gestaltung,+41 26 305 46 80,stevann@edufr.ch,1,,Direktor,FALSE,male
+1434,Stocker,Gilbert,Direktion und Sekretariat; Bereich Finanzen,+41 26 305 25 03,gilbert.stocker@edufr.ch,1,,Bereichsleiter Finanzen,TRUE,male
+1435,Stöckli,David,Direktzahlungen,+41 26 305 22 56,david.stoeckli@fr.ch,1,,Sektionschef - Sömmerungsgebiet deutschsprachiger Teil,FALSE,male
+1436,Stoffel,Martine,Kantonale Behörde für Öffentlichkeit und Datenschutz,+41 26 305 59 73,,0,,Beauftragte für Öffentlichkeit und Transparenz,FALSE,female
+1437,Strähl,Sabrina,Entwässerung und Abwasserreinigung,+41 26 305 37 57,sabrina.straehl@fr.ch,1,,Verantwortliche Einzugsgebiet,TRUE,female
+1438,Stritt,Géraldine,Generalsekretariat,+41 26 305 14 03,,0,,Direktionssekretärin,TRUE,female
+1439,Stritt,Yvar,Schadstoffemissionen und VOCV,+41 26 305 37 65,yvar.stritt@fr.ch,1,,Feuerungsanlagen,FALSE,male
+1440,Strüby,Fabien,Sektion Labor und Stoffe,+41 26 305 63 58,fabien.strueby@fr.ch,1,,Fachlaborant,FALSE,male
+1441,Stucki,Urs,Pflanzenbau (PB),+41 26 305 58 92,urs.stucki@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1442,Stucky,Christian,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 11,stuckyc@edufr.ch,1,,Verwaltungsadjunkt,FALSE,male
+1443,Studenmann,Julieta,Küche,+41 26 305 55 21,Non renseigné,24,,Hausangestellte,FALSE,female
+1444,Studer,Nadia,Amt für französischsprachigen obligatorischen Unterricht,+41 26 305 73 63,nadia.studer@fr.ch,1,,Pädagogische Mitarbeiterin,TRUE,female
+1445,Sturny,Bernard,Luftqualität,+41 26 305 37 66,bernard.sturny@fr.ch,1,,Sektorchef,FALSE,male
+1446,Sturny,Heribert,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 39,heribert.sturny@fr.ch,1,,Landwirtschaftlicher Buchhalter,FALSE,male
+1447,Suchet,Catherine,Direktion,,office@ocn.ch,2,,Direktionsassistentin,TRUE,female
+1448,Sudan,Hector,Tätigkeitsgebiet: Justiz und Sicherheit,+41 26 304 19 64,,0,,Technischer Sachbearbeiter,FALSE,male
+1449,Sudan,Léonie,Gewerbliche und Kaufmännische Berufsschule,+41 26 305 87 01,sudanl@edufr.ch,1,,Direktorin,TRUE,female
+1450,Sudan,Stéphane,PS Broc-Botterens,+41 26 921 37 47,direction.ep.broc@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1451,Sugnaux,Muriel,Amt für Sonderpädagogik (SoA),+41 26 305 40 65,muriel.sugnaux@fr.ch,1,,Verwaltungsadjunktin,TRUE,female
+1452,Sugnaux,Stéphane,PS Belfaux,+41 26 475 40 24,direction.ep.belfaux@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1453,Summermatter,Heinrich,Weiterbildung,+41 26 305 72 92,summermatterh@edufr.ch,1,,Berufseinführung,TRUE,male
+1454,SUPCIK,Patricia,Technisches Büro - Bauten,+41 26 304 10 33,Patricia.Supcik@fr.ch,1,,Zeichnerin,TRUE,female
+1455,Suter,Fiore,Abteilung kantonale Planung,+41 26 305 36 39,fiore.suter@fr.ch,1,,Geologe,FALSE,male
+1456,Sutter,Lorraine,Pflanzenbau (PB),+41 26 305 58 70,lorraine.sutter@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1457,Sylla,Tidiane,Amt für Umwelt,+41 26 305 59 49,tidiane.sylla@fr.ch,1,,Juristin,TRUE,female
+1458,Taboada,Tristan,4. Forstkreis,+41 26 305 95 30,tristan.taboada@fr.ch,1,,Stellvertretender Forstingenieur,TRUE,male
+1459,Tâche,Nathalie,Oberamt des Vivisbachbezirks,+41 26 305 94 13,Nathalie.Tache@fr.ch,1,,Sekretärin,TRUE,female
+1460,Tamborini,Aline,Generalsekretariat,+41 26 305 29 06,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1461,Tapia,Nicolas,Frima Centre de formation,,nicolas.tapia@cpi.ch,1,,Verantwortlicher,FALSE,male
+1462,Tapia,Rafael,Grund und Trinkwasser,+41 26 305 37 60,rafael.tapia@fr.ch,1,,Geomatik-Ingenieur,FALSE,male
+1463,Tapia,Rafael,Allgemeine Dienste,+41 26 305 23 05,rafael.tapia2@fr.ch,1,,Wissenschaftlicher Mitarbeiter HS,FALSE,male
+1464,Tazamoucht,Kamel,Secteur Environnement Utilisateurs,,,0,,Citrix-Spezialist,FALSE,male
+1465,Telley,Jean-Luc,"Stabsdienste; Amt für Mobilität, Öffentlicher Verkehr und Monitoring",+41 26 304 14 22,jean-luc.telley@fr.ch,1,,Stellvertretender Dienstchef,FALSE,male
+1466,Telley,Olivier,Sektor Gebäudeunterhalt,+41 26 305 37 92,olivier.telley@fr.ch,1,,Sektorchef,FALSE,male
+1467,Tempini,Pascale,Zentrale Dienste,+41 26 305 23 43,pascale.tempini@fr.ch,1,,Juristin,TRUE,female
+1468,Tendon,Jean-Marc,"Landwirtschaftliches Beratungszentrum (LBZ); Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 304 13 79,jean-marc.tendon@fr.ch,1,,Verantwortlicher Projekt Innovation; Lehrer,FALSE,male
+1469,Terreaux,Nicolas,Milchwirtschaftliche Werkstätten,+41 26 305 57 26,nicolas.terreaux@fr.ch,1,,Mitarbeiter milchwirtschaftliche Werkstätten,FALSE,male
+1470,Terrettaz,Pierre,GIS-Kompetenzzentrum (GISKZ),+41 26 305 31 76,pierre.terrettaz@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1471,Tettamanti,Rocco,Archäologie und Territorium,+41 26 305 82 40,Rocco.Tettamanti@fr.ch,1,,Wissenschaftliche Mitarbeiter,FALSE,male
+1472,Thalmann,Marcel,Landwirtschaftliche Entwicklung,+41 26 305 23 11,marcel.thalmann@fr.ch,1,,Güterzusammenlegungen - Wege - Entwässerungen - Bewässerungen,FALSE,male
+1473,Thévoz,Jacqueline,Abteilung Einbürgerungen,+41 26 305 75 48,,0,,Sekretärin,TRUE,female
+1474,Thiébaud,Charles-Edouard,Amt für Justiz,+41 26 305 54 58,CharlesEdouard.Thiebaud@fr.ch,1,,Archivar der Gerichtsarchive,FALSE,male
+1475,Thomet,Jean-Marie,Sportarten,+41 26 305 33 10,Non renseigné,25,,Reiten,FALSE,male
+1476,Thomet,Julien,"Tätigkeitsgebiet: Landwirtschaft, Kanzlei, Legislative, Raumordnung & Gesundheit",,,0,,Domain-Architekt,TRUE,male
+1477,Tille,Marie-Hélène,Amt für Statistik,+41 26 305 28 31,marie-helene.tille@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1478,Tinguely,André,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 12,,0,,Abteilungsvorsteher A,FALSE,male
+1479,Tinguely,Nathalie,Automobil/Mechanik/Elektronik/Multi Massenmedien/Metallindustrie/Haustechnik/Künst und Industrie grafische/Reinigung/Uhrenfabrik,+41 26 305 25 00,,0,,Verwaltungsangestellte,FALSE,female
+1480,Tissot,Chantal,Amt für Umwelt,+41 26 305 37 51,chantal.tissot@fr.ch,1,,Verwaltungsadjunktin,TRUE,female
+1481,Tissot,Lionel,Technische Abteilung,+41 26 305 37 80,lionel.tissot@fr.ch,1,,Architekt,FALSE,male
+1482,Tissot,Philippe,Zivilstandsamt Saane,+41 26 305 75 32,Philippe.Tissot@fr.ch,1,,Vorsteher des Zivilstandsamtes,FALSE,male
+1483,Tissot,Pierre-André,PS Fribourg-Pérolles,+41 26 351 73 51,direction.ep.fribourg.perolles@fr.educanet2.ch,1,,Schulleiter-in,TRUE,male
+1484,Toffel,Pascal,Direktion,+41 26 305 55 05,pascal.toffel@fr.ch,1,,Direktor,FALSE,male
+1485,Tordion,Olivier,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 06,olivier.tordion@fr.ch,1,,Lehrer BHML / Verantwortlicher Innovation,FALSE,male
+1486,Tornare,Jérôme,Amt für Lebensmittelsicherheit und Veterinärwesen; Kantonstierarzt und Veterinärwesen,+41 26 305 80 04,,0,,Adjunkt des Dienstchefs,FALSE,male
+1487,Torres,Adrian,Sektor Administration,,,0,,Praktikant,FALSE,male
+1488,Trachsel,Fritz,Schweineproduktion,+41 26 305 57 55,fritz.trachsel2@fr.ch,1,,Verantwortlicher Schweinehaltungsbetrieb,TRUE,male
+1489,Trevisan,Martine,Amt für Energie,+41 26 305 28 41,martine.trevisan@fr.ch,1,,Sekretärin,TRUE,female
+1490,Trinchan,Philippe,Amt für Kultur,+41 26 305 12 80,,0,,Dienstchef,FALSE,male
+1491,Tschümperlin,Rebecca,Kaufmännische Berufsfachschule,+41 26 305 25 78,TschuemperlinR@edufr.ch,1,,Vorsteherin Kaufm. Deutsch,TRUE,female
+1492,Turin,Emile,Unternehmensstrategie & Gemeinschaftsprojekte (USG),+41 26 305 58 15,emile.turin@fr.ch,1,,Betriebsberater,FALSE,male
+1493,Uebelhart-Mory,Sylvie,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 91,sylvie.uebelhart@fr.ch,1,,Lehrerin,TRUE,female
+1494,Uldry,Patrick,Bildungszentrum für Naturberufe (BZNB),+41 26 305 55 73,patrick.uldry@fr.ch,1,,Berufsschullehrer,FALSE,male
+1495,Uldry,Sebastien,Direktion,+41 26 305 41 23,uldrys@edufr.ch,1,,Vorsteher,FALSE,male
+1496,Vagnières,Martine,Amt für Sonderpädagogik (SoA),+41 26 305 40 57,martine.vagnieres@fr.ch,1,,Logopädin,TRUE,female
+1497,Vallat,Philippe,Kantonale Mediation,+41 26 305 10 45,,0,,Mediation für Verwaltungsangelegenheiten,FALSE,male
+1498,Valloton,Marc,"Büro für Information; Staatskanzlei, Sekretariat des Staatsrats","+41 26 305 10 75, +41 26 305 10 40",,0,,Verantwortlicher; Vizekanzler,FALSE,male
+1499,Valsangiacomo,Sara,Generalsekretariat,,,0,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1500,Vaucher,Francine,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 41,francine.vaucher@fr.ch,1,,Landwirtschaftlicher Buchhalter,FALSE,female
+1501,Vaucher,Stéphane,"CASEi, milchwirtschaftliche Beratung",+41 26 305 57 41,stephane.vaucher@fr.ch,1,,Chef CASEi,FALSE,male
+1502,Vauthey,Barbara,Amt für Universitätsfragen,+41 26 305 12 45,Barbara.Vauthey@fr.ch,1,,Dienstchefin,TRUE,female
+1503,Vauthey,Claude,Direktion,+41 26 305 65 00,VautheyC@edufr.ch,1,,Direktor,FALSE,male
+1504,Veglia,Juan,Mobile Einheit,+41 26 305 40 51,juan.veglia@fr.ch,1,,Verwaltungsangestellter,FALSE,male
+1505,Venetz,Christian,Verwaltung,+41 26 305 82 07,,0,,Verwaltungssachbearbeiter,FALSE,male
+1506,Venturi,Alexia,Berufsfachschule,+41 26 305 26 40,venturia@edufr.ch,1,,Lernende,FALSE,female
+1507,Verdon,Marianne,Abteilung Strafsachen,+41 26 305 22 47,,0,,Sekretärin,TRUE,female
+1508,Verdon Dévaud,Anne,"Französischsprachige Lehrpersonen des Kindergartens, der Primar- und Sonderschulen",+41 26 305 12 36,,0,,Bürochefin,TRUE,female
+1509,Verga,Gabriel,Direktion; Abteilung Arbeitsmarkt,+41 26 305 97 06,gabriel.verga@fr.ch,1,,Sektionschef,FALSE,male
+1510,Vernaz,Catherine,Direktion - Verwaltung,+41 26 305 71 04,vernazc@edufr.ch,1,,Administration/Kommunikation,TRUE,female
+1511,Vessaz,Philippe,Tätigkeitsgebiet: Justiz und Sicherheit,,,0,,Domain-Architekt,TRUE,male
+1512,Vésy,Christophe,SIERA,+41 26 305 42 90,,0,,Stellv. Zentrumsleiter Domdidier,FALSE,male
+1513,Veth,Tatiana,Rechtsdienst,+41 26 305 22 20,,0,,Juristische Beraterin,TRUE,female
+1514,Vetter,Sébastien,"Bildungszentrum für Hauswirtschaft, Milch- und Lebensmitteltechnologie (BHML P - Berufe Milch-u. Lebensmittel)",+41 26 305 57 48,sebastien.vetter@fr.ch,1,,Lehrer BZML,FALSE,male
+1515,Vial,André,Direktion,+41 26 305 55 06,andre.vial@fr.ch,1,,Verantwortlicher Verwaltung,FALSE,male
+1516,Vial,Myriam,Berufsfachschule,+41 26 305 26 48,vialmy@edufr.ch,1,,Bereichsleiterin Eurodyssée,TRUE,female
+1517,Vial,Thierry,Bereich Management; Direktion und Sekretariat,+41 26 305 25 05,thierry.vial@edufr.ch,1,,Bereichsleiter Management,FALSE,male
+1518,Vial Magnin,Céline,Pflanzenbau (PB),+41 26 305 58 76,celine.vial@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1519,Villiger,Verena,Museum für Kunst und Geschichte,+41 26 305 51 44,,0,,Direktorin,TRUE,female
+1520,Vionnet Caverzasio,Christine,"Kostenverteilung zwischen Staat und Gemeinden (Gemeinsamer Topf); Amt für Ressourcen, Administratives Personal; Französischsprachige Lehrpersonen der Orientierungsschule",+41 26 305 12 35,,0,,Dienstchefin,TRUE,female
+1521,Voeffray,Ines,Konservatorium,+41 26 305 99 44,,0,,Verwaltungssachbearbeiterin,TRUE,female
+1522,Volery,Jean-Marc,Betriebswirtschaft & Buchhaltung (BWB),+41 26 305 58 43,jean-marc.volery@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1523,Volery,Pascale,Administration,+41 26 305 63 63,pascale.volery@fr.ch,1,,Sekretärin,TRUE,female
+1524,Vollery,Luc,Amt für Gesetzgebung,+41 26 305 14 37,luc.vollery@fr.ch,1,,Dienstchef,FALSE,male
+1525,von Allmen,Didier,Schweineproduktion,+41 26 305 57 55,didier.vonallmen@fr.ch,1,,Qualifizierter Handwerker,FALSE,male
+1526,Von Heugel,Thomas,Sektion Abfall und Altlasten,+41 26 305 37 77,thomas.vonheugel@fr.ch,1,,"Abfall, Altlasten",FALSE,male
+1527,von Niederhäusern,Adrian,Pflanzenbau (PB),+41 26 305 58 83,adrian.vonniederhaeusern@fr.ch,1,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1528,Vonlanthen,Fabienne,französische Abteilung; deutsche Abteilung,+41 26 305 71 24,vonlanthenfa@edufr.ch,1,,Studienberaterin,TRUE,female
+1529,Vonlanthen,Luc,Pädagogische Berater/innen,+41 26 305 73 96,luc.vonlanthen@fr.ch,1,,Individuelle Unterstützung,FALSE,male
+1530,Vonlanthen,Michel,Öffentlicher Verkehr und Monitoring,+41 26 304 14 25,michel.vonlanthen@fr.ch,1,,Sektionschef,FALSE,male
+1531,Vonlanthen,Renate,Ausbildung Hauswirtschaft modular,+41 26 305 56 23,renate.vonlanthen@fr.ch,1,,"Hauswirtschaftslehrerin, Veranwortliche Modularausbildung D",TRUE,female
+1532,Vonlanthen,Ronald,Freiburger Spital,,,0,,Medizinischer Direktor,TRUE,male
+1533,Vorlet,Emilia,Pflanzenbau (PB),+41 26 305 58 73,emilia.vorlet@fr.ch,1,,Wissenschaftliche Mitarbeiterin,TRUE,female
+1534,Voser,Robert,Interprofessionelles Weiterbildungszentrum,+41 26 304 13 25,robert.voser.tre@cpi.ch,1,,Sachbearbeiterin Ausbildung,TRUE,male
+1535,Vuichard,Philippe,Freiburgisches Agro-Lebensmittellabor,+41 26 305 57 39,philippe.vuichard@fr.ch,1,,Laborant,FALSE,male
+1536,Waeber,Nadia,Kreis 3; Werkhof Tour Rouge,+41 26 305 37 04,nadia.waeber@fr.ch,1,,Sekretärin,TRUE,female
+1537,Waeber,Patricia,Druckerei,+41 26 305 10 87,,0,,Druckerei-Mitarbeiterin,TRUE,female
+1538,Waeber,Sandrine,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 83,waebers@edufr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1539,Waeber,Thomas,Technik,,thomas.waeber@ocn.ch,1,,Dienstchef,FALSE,male
+1540,Wäfler-Schmutz,Marlis,Ausbildung Hauswirtschaft dual,+41 26 305 56 20,marlis.waefler@fr.ch,1,,Vorsteherin,TRUE,female
+1541,Wagemester,Inga,"Strassenplanung; Ausführung, Überwachung und Planung von Kunstbauten, Strassenprojekte (StrP)",+41 26 305 36 85,inga.wagemester@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1542,Walser,Konrad,Übersetzung,+41 26 305 10 54,,0,,Übersetzung,FALSE,male
+1543,Walter,Lionel,Aussenbeziehungen,+41 26 305 47 75,,0,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1544,Walther,Margrith,Kaufmännische Berufsfachschule,+41 26 305 25 46,waltherm@edufr.ch,1,,Abteilungsvorsteherin Verkauf,TRUE,female
+1545,Wampach,Alain,Sondereinrichtungen,+41 26 305 29 87,,0,,Wissenschaftlicher Mitarbeiter,FALSE,male
+1546,Wandeler,Peter,Naturhistorisches Museum,+41 26 305 89 01,,0,,Direktor,FALSE,male
+1547,Wartmann,Dominique,Entwässerung und Abwasserreinigung,+41 26 305 37 64,dominique.wartmann@fr.ch,1,,Verantwortlicher Einzugsgebiet,TRUE,male
+1548,Wattendorff,Matthias,"Inspektorat für den deutschsprachigen obligatorischen Unterricht, Tafers",+41 26 305 12 43,matthias.wattendorff@fr.ch,1,,Inspektor,FALSE,male
+1549,Weber,Kristin,Kieferorthopädische Klinik Freiburg; Kieferorthopädische Klinik Bulle,+41 26 305 98 00,,0,,Dentalassistentin,TRUE,female
+1550,Wegmann,Stefanie,Grundstückerwerb,+41 26 305 38 32,stefanie.wegmann@fr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1551,Wehren,Rolf,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 16,wehrenr@edufr.ch,1,,Direktor,FALSE,male
+1552,Werlen,Klaus,Freiburger Spital,,,0,,Direktion Finanzen,TRUE,male
+1553,Wermeille,Eric,TRE Centre de formation,,,0,,Ausbildner,FALSE,male
+1554,Wéry,Denis,Strassenprojekte (StrP); Tiefbauamt,+41 26 305 36 73,denis.wery@fr.ch,1,,"Stellvertretender Kantonsingenieur, Sektionschef",TRUE,male
+1555,Wicht,Anne,Generalsekretariat,+41 26 305 24 05,anne.wicht@fr.ch,1,,Wirtschaftsberaterin,TRUE,female
+1556,Wicht,Hélène,Konservatorium,+41 26 305 99 50,,0,,Verwaltungsangestellte,FALSE,female
+1557,Wicht,Jacques,Naturhistorisches Museum,+41 26 305 89 00,,0,,Empfangsverantwortlicher,FALSE,male
+1558,Wicky,Karin,Verwaltung,+41 26 304 13 83,karin.wicky@fr.ch,1,,Verwaltungssachbearbeiterin HR,TRUE,female
+1559,Wider,Matthias,Direktion,+41 26 305 41 21,widerm@edufr.ch,1,,Rektor,FALSE,male
+1560,Wittler,Lisa-Marie,Verzeichnis der Kulturgüter,+41 26 305 12 93,lisa-marie.wittler@fr.ch,1,,Inventar Redaktorin,TRUE,female
+1561,Wohlhauser,Gilles,PS Arconciel-Ependes-Ferpicloz-Senèdes,+41 79 204 00 70,,0,,Schulleiter-in,TRUE,male
+1562,Wüthrich,Ludmilla,Gewerbliche und Industrielle Berufsschule,+41 26 305 25 67,WuethrichL@edufr.ch,1,,Vorsteherin Sektion G,TRUE,female
+1563,Wyrsch,Isabelle,Direktion,+41 26 305 41 22,wyrschi@edufr.ch,1,,Vorsteherin,TRUE,female
+1564,Wyss,Marielle,"Französischsprachige Lehrpersonen des Kindergartens, der Primar- und Sonderschulen",,,0,,Sekretärin,TRUE,female
+1565,Wyss,Nicole,PS Region von Murten,+41 26 672 94 29,direction.ep.regionmorat@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1566,Wyssa,Andres,Schulgärten von Grangeneuve,+41 26 305 57 62,Non renseigné,26,,Gemüse- Blumengärtner,FALSE,male
+1567,Yerly,Carina,Generalsekretariat; Verwaltung der Staatsreben,+41 26 305 22 65,,0,,Buchhaltung; Verwaltungsadjunktin,TRUE,female
+1568,Yerly,Laurent,Finanzverwaltung,+41 26 305 31 15,laurent.yerly@fr.ch,1,,Staatsschatzverwalter,FALSE,male
+1569,Yerly,Mélanie,"PS Le Flon, St-Martin",+41 26 907 14 08,direction.ep.flon-st-matin@fr.educanet2.ch,1,,Schulleiter-in,TRUE,female
+1570,Yerly,Noémie,Grundbuchamt des Greyerzbezirks,+41 26 305 93 56,noemie.yerly@fr.ch,1,,Sekretärin,TRUE,female
+1571,YERLY,Yves,Verwaltung und Empfang,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+1572,Yerly Vienne,Caroline,Zentrale Dienste; Sektor Verwaltung und Finanzen,+41 26 305 23 43,caroline.yerly@fr.ch,1,,Sektorchefin Verwaltung und Finanzen,TRUE,female
+1573,Zablot,Philippe,Museum für Kunst und Geschichte,+41 26 305 51 56,,0,,Technischer Assistent,FALSE,male
+1574,Zanetti,Jean-François,SIERA,+41 26 305 44 00,,0,,Stellv. Zentrumsleiter Vaulruz,FALSE,male
+1575,Zaugg,Claude,"Ausgrabungen, Forschungen und Publikationen",+41 26 305 82 48,claude.zaugg@fr.ch,1,,Verantwortlicher für das Fotoatelier,FALSE,male
+1576,ZAUGG,Fabien,Verwaltung und Empfang,+41 26 305 21 07,,0,,Fachmann für Justizvollzug,FALSE,male
+1577,Zaugg,Urs,"Produkteförderung, Viehzucht und Weinbau",+41 26 305 23 10,urs.zaugg@fr.ch,1,,Sektionschef,FALSE,male
+1578,Zbinden,Anita,Administration und Beglaubigungen,+41 26 305 10 71,,0,,Verantwortliche,FALSE,female
+1579,Zbinden,Claudia,Gewerbliche und Industrielle Berufsschule,+41 26 305 28 69,zbindenc@edufr.ch,1,,Verwaltungssachbearbeiterin,TRUE,female
+1580,Zbinden,Martin,Deutschsprachige Lehrpersonen der obligatorischen Schulzeit; Lehrpersonen der Sekundarstufe 2,+41 26 305 12 33,,0,,Adjunkt der Dienstchefin,TRUE,male
+1581,Zbinden-Barras,Marianne,Generalsekretariat,+41 26 305 29 04,,0,,Direktionsassistentin,TRUE,female
+1582,Zbinden-Thalmann,Brigitte,Amt für Gemeinden,+41 26 305 22 40,brigitte.zbinden@fr.ch,1,,Revisorin,TRUE,female
+1583,Zehnder-Jörg,Silvia,Kantons- und Universitätsbibliothek,+41 26 305 13 17,silvia.zehnder-joerg@fr.ch,1,,"Sektorchefin, Sammlungen und kulturelle Aktivitäten",TRUE,female
+1584,Zekjiri,lekha,FRee Trading,,,0,,Lernende,FALSE,female
+1585,Zollet,Peter,Direktion und Sekretariat; Bereich Ausbildung,+41 26 305 24 91,peter.zollet@edufr.ch,1,,Bereichsleiter Ausbildung,FALSE,male
+1586,Zosso,Alexandre,Kantonale Ausgleichskasse AH/IV/EO,+41 26 305 68 87,alexandre.zosso.avs@fr.ch,1,,Sektionschef Beiträge; Wissenschaftlicher Mitarbeiter (Beiträge),FALSE,male
+1587,Zosso,Bernadette,Réception,+41 26 305 25 95,bernadette.zosso@edufr.ch,1,,Receptionistin-Telefonistin,TRUE,female
+1588,Zosso,Daniel,Technische Abteilung,+41 26 305 37 90,daniel.zosso@fr.ch,1,,*,FALSE,male
+1589,Zosso,Hugo,Landwirtschaftliche Gebäude und Betriebshilfen,+41 26 305 23 08,hugo.zosso@fr.ch,1,,Technischer Sachbearbeiter,FALSE,male
+1590,Zürcher,Janine,Sektion Abfall und Altlasten,+41 26 305 37 68,janine.zuercher@fr.ch,1,,Altlasten,FALSE,female
+1591,Zurfluh,Marc,free win,+41 26 304 13 00,marc.zurfluh@cpi.ch,1,,Ausbildner,FALSE,male
+1592,Zurkinden,Simon,Gehaltsverwaltung,+41 26 305 32 54,simon.zurkinden@fr.ch,1,,Verwaltungsangestellter,FALSE,male
