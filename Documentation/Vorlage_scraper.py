@@ -30,3 +30,8 @@ scrape_full_page(base_url)
 
 for address in members.keys():
     print(members[address] + " {" + address + "}")
+
+
+r = requests.get(url)
+soup = BeautifulSoup(r.content, 'lxml')
+soup.find_all('div', {'class':'something'})
