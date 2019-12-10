@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>09/12/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Katrin" label="Katrin" />
+      <node id="Marius" label="Marius" />
+      <node id="Reto" label="Reto" />
+      <node id="Martin" label="Martin" />
+      <node id="Manuela" label="Manuela" />
+      <node id="Sandra" label="Sandra" />
+      <node id="Fabian" label="Fabian" />
+      <node id="Swen" label="Swen" />
+      <node id="Jörg" label="Jörg" />
+      <node id="Zoe" label="Zoe" />
+      <node id="Plotti" label="Plotti" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Katrin" target="Marius" />
+      <edge id="1" source="Katrin" target="Plotti" />
+      <edge id="2" source="Katrin" target="Reto" />
+      <edge id="3" source="Katrin" target="Manuela" />
+      <edge id="4" source="Katrin" target="Swen" />
+      <edge id="5" source="Katrin" target="Zoe" />
+      <edge id="6" source="Marius" target="Reto" />
+      <edge id="7" source="Marius" target="Jörg" />
+      <edge id="8" source="Marius" target="Fabian" />
+      <edge id="9" source="Marius" target="Sandra" />
+      <edge id="10" source="Marius" target="Zoe" />
+      <edge id="11" source="Reto" target="Martin" />
+      <edge id="12" source="Reto" target="Zoe" />
+      <edge id="13" source="Reto" target="Jörg" />
+      <edge id="14" source="Reto" target="Sandra" />
+      <edge id="15" source="Martin" target="Manuela" />
+      <edge id="16" source="Martin" target="Swen" />
+      <edge id="17" source="Martin" target="Jörg" />
+      <edge id="18" source="Martin" target="Plotti" />
+      <edge id="19" source="Martin" target="Zoe" />
+      <edge id="20" source="Manuela" target="Sandra" />
+      <edge id="21" source="Manuela" target="Jörg" />
+      <edge id="22" source="Manuela" target="Plotti" />
+      <edge id="23" source="Sandra" target="Fabian" />
+      <edge id="24" source="Sandra" target="Jörg" />
+      <edge id="25" source="Sandra" target="Zoe" />
+      <edge id="26" source="Sandra" target="Swen" />
+      <edge id="27" source="Fabian" target="Swen" />
+      <edge id="28" source="Fabian" target="Jörg" />
+      <edge id="29" source="Fabian" target="Plotti" />
+      <edge id="30" source="Swen" target="Jörg" />
+      <edge id="31" source="Swen" target="Zoe" />
+      <edge id="32" source="Jörg" target="Zoe" />
+      <edge id="33" source="Jörg" target="Plotti" />
+      <edge id="34" source="Zoe" target="Plotti" />
+    </edges>
+  </graph>
+</gexf>
